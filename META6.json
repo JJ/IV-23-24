@@ -1,0 +1,28 @@
+{
+  "name": "IV scripts",
+  "description": "Scripts Raku para analizara datos de la asignatura IV",
+  "version": "0.0.2",
+  "perl": "6.d",
+  "meta-version": 1,
+  "authors": [
+    "JJ Merelo"
+  ],
+  "auth": "github:JJ",
+  "depends": [
+    "IO::Glob",
+    "Text::CSV",
+    "Git::File::History",
+    "JSON::Fast"
+  ],
+  "provides": {
+    "IV::Stats": "lib/IV/Stats.rakumod",
+    "IV::Stats::Fechas": "lib/IV/Stats/Fechas.rakumod"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "tags": [
+    "scripts",
+    "learning analytics"
+  ],
+  "source-url": "https://github.com/JJ/IV-21-22.git"
+}

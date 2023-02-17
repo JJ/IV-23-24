@@ -1,0 +1,230 @@
+name: "Tests sobre fuentes/API del repo del estudiante"
+on:
+  pull_request_target:
+    paths:
+      - "proyectos/*.md"
+permissions:
+  pull-requests: write
+jobs:
+  ops-on-pr:
+    runs-on: ubuntu-latest
+    outputs:
+      user: ${{steps.pr_info.outputs.user}}
+      repo: ${{steps.pr_info.outputs.repo}}
+      checkout_repo: ${{steps.pr_info.outputs.checkout_repo}}
+      objetivo: ${{steps.pr_info.outputs.objetivo}}
+      rama: ${{steps.pr_info.outputs.rama}}
+      pr_milestone: ${{steps.pr_info.outputs.pr_milestone}}
+      pull_number: ${{steps.pr_info.outputs.pull_number}}
+    steps:
+      - id: pr_info
+        name: Comprueba y analiza
+        uses: JJ/grading-pr-info-gh-action@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ops-on-source:
+    runs-on: ubuntu-latest
+    outputs:
+      docker_user: ${{steps.source-tests.outputs.docker_user}}
+    needs: ops-on-pr
+    env:
+      user: ${{ needs.ops-on-pr.outputs.user }}
+      repo: ${{ needs.ops-on-pr.outputs.repo }}
+      checkout_repo: ${{ needs.ops-on-pr.outputs.checkout_repo }}
+      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
+      rama: ${{ needs.ops-on-pr.outputs.rama }}
+    steps:
+      - name: Descarga fuente
+        uses: actions/checkout@v3
+        with:
+          repository: ${{env.checkout_repo}}
+          ref: ${{env.rama}}
+      - name: Tests sobre fuentes
+        id: source-tests
+        with:
+          fase: ${{env.objetivo}}
+        uses: JJ/grading-source-tests-gh-action@main
+      - name: Testea contenedor
+        if: ${{env.objetivo >= 5 }}
+        env:
+          CONTAINER: ${{ env.docker_user }}/${{ env.repo }}
+        run: docker run -t -v `pwd`:/app/test ${CONTAINER,,}
+      - name: Testea API
+        if: ${{env.objetivo >= 9 }}
+        env:
+          CONTAINER: ${{ env.docker_user }}/${{ env.repo }}
+          ORDEN: ${{env.ORDEN}}
+        run: docker run -t -v `pwd`:/app/test --entrypoint="" ${CONTAINER,,} sh -c "${ORDEN} build && ${ORDEN} install && ${ORDEN} test"
+  ops-using-API:
+    runs-on: ubuntu-latest
+    needs: ops-on-pr
+    env:
+      user: ${{ needs.ops-on-pr.outputs.user }}
+      repo: ${{ needs.ops-on-pr.outputs.repo }}
+      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
+      pr_milestone: ${{ needs.ops-on-pr.outputs.pr_milestone }}
+      rama: ${{ needs.ops-on-pr.outputs.rama }}
+    steps:
+      - name: Descarga fuente
+        uses: actions/checkout@v3
+      - name: Comprueba que el PR está asignado a un milestone
+        uses: actions/github-script@v5
+        if: ${{env.objetivo >= 2}}
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const {all_good, sorry } = require("./lib/mensajes.js")
+            const milestone = process.env.pr_milestone
+            if ( milestone === "" ) {
+                core.setFailed( sorry( "El PR tiene que estar asignado a un milestone") )
+            } else {
+                console.log( all_good(`PR asignado al milestone ${milestone}`))
+            }
+      - name: Comprueba hitos desde el 1
+        uses: actions/github-script@v5
+        if: ${{ env.objetivo >= 1 }}
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const {objetivo_msg, all_good, sorry } = require("./lib/mensajes.js")
+            const user = process.env.user
+            const repo = process.env.repo
+            const objetivo = process.env.objetivo
+            console.log( objetivo_msg(1) )
+            const milestones = await github.rest.issues.listMilestones( { owner: user, repo: repo } )
+            if ( ! milestones.data.length ) {
+                core.setFailed( sorry( "Tiene que haber por lo menos un milestone") )
+            }
+            const minMilestones = 2
+            if ( minMilestones && milestones.data.length < minMilestones ) {
+                core.setFailed( sorry("Tendría que haber más de " + minMilestones + " milestone(s)"));
+            }
+            var totalIssues = 0
+            var totalClosedIssues = 0
+            milestones.data.forEach( async function( milestone ) {
+                totalIssues += milestone.open_issues + milestone.closed_issues
+                totalClosedIssues += milestone.closed_issues
+            })
+            console.log( all_good("Hay " + totalIssues + " issues en tus milestones y " + totalClosedIssues + " cerrados "))
+            if ( ! totalIssues ) {
+                core.setFailed( sorry("No hay ningún issue en tus milestones"))
+            }
+
+            const non_paginated_issues =
+                await github.rest.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all' })
+            const issues = await github.paginate( non_paginated_issues )
+            const hus = issues.filter( issue => issue.title.match(/^\[HU/) )
+            if ( !hus.length ) {
+                core.setFailed( sorry("No hay historias de usuario, o el título no incluye «[HUxxx]»"))
+            }
+            let closed_issues;
+            if ( objetivo >= 2 ) {
+                console.log( objetivo_msg(2) )
+                const real_issues = issues.length - hus.length
+                if ( !real_issues ) {
+                  core.setFailed( sorry("No hay issues fuera de las historias de usuario; los issues son imprescindibles para avanzar el código"))
+                } else {
+                  console.log( all_good(`Hay ${real_issues} issues no-HU`))
+                }
+                closed_issues = issues.filter( issue => issue.state === "closed" )
+                closed_issues.forEach( async function( issue ) {
+                  if ( ! issue.pull_request ) {
+                    const query = `query($owner:String!, $name:String!, $issue:Int!) {
+                            repository(name: $name , owner: $owner  ) {
+                              issue(number: $issue) {
+                                timelineItems(itemTypes: CLOSED_EVENT, last: 1) {
+                                  nodes {
+                                    ... on ClosedEvent {
+                                      closer {
+                                        __typename
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }`;
+
+                    const variables = {
+                          owner: user,
+                          name: repo,
+                          issue: issue.number
+                    }
+                    const result = await github.graphql(query, variables)
+                    if ( result.repository.issue.timelineItems.nodes[0].closer != null ) {
+                            const closingEvent = result.repository.issue.timelineItems.nodes[0].closer.__typename
+                            if ( (closingEvent == 'Commit') || (closingEvent == 'PullRequest') ) {
+                                console.log(all_good("El issue " + issue.number + " se 🔒 con un " + closingEvent ))
+                            } else {
+                                core.setFailed( sorry("El issue " + issue.number + " no se cerró con un commit o PR"))
+                            }
+                    } else {
+                      console.log( sorry(" El issue " + issue.number + " no está cerrado aunque aparece en la lista de tales " ))
+                    }
+                }
+              })
+            }
+      - name: Comprueba el estado de CI
+        if: ${{env.objetivo >= 6 }}
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const {objetivo_msg, all_good, sorry } = require("./lib/mensajes.js")
+            const { user, repo, rama } = process.env
+            console.log( objetivo_msg(6) )
+            console.log( "» Analizando repo " + repo + " del usuario 🔥" + user )
+            const all_checks_before_pag =
+                    await github.rest.checks.listForRef.endpoint.merge(
+                        { owner: user,
+                          repo: repo,
+                          ref: rama,
+                        })
+            console.log( "Checks before pag→ ", all_checks_before_pag)
+            const all_checks = await github.paginate( all_checks_before_pag)
+            console.log( "Checks → ", all_checks)
+            const checks_before_pag =
+                    await github.rest.checks.listForRef.endpoint.merge(
+                        { owner: user,
+                          repo: repo,
+                          ref: rama,
+                          status: 'completed'
+                        })
+            const checks = await github.paginate( checks_before_pag)
+            console.log( "Checks → ", checks)
+            if ( checks.length < 1 ) {
+              core.setFailed( sorry("No hay suficientes sistemas de CI configurados"))
+            } else {
+              console.log( all_good("✅ Hay " + checks.length + " sistemas de CI configurados"))
+            }
+            const green_checks = checks.filter( check => check.conclusion === "success" )
+            if ( !green_checks.length ) {
+              core.setFailed(sorry("No hay al menos un CI que esté en verde"))
+            } else {
+              console.log( all_good("Hay " + green_checks.length + " que pasa(n) los tests correctamente" ))
+            }
+            console.log("CIs en verde ", green_checks );
+            const mandatory_checks_green = green_checks.filter( check => (check.app.slug === "travis-ci") || (check.app.slug === "github-actions") || (check.app.slug === "circleci-checks" ))
+            if ( mandatory_checks_green.length == 0 ) {
+              core.setFailed(sorry("No hay ninguno de los CIs autorizados funcionando con el último commit"))
+            } else {
+              console.log( all_good("Hay alguno de los autorizados funcionando" ))
+            }
+  random-revisor:
+    runs-on: ubuntu-latest
+    needs: [ops-on-pr, ops-on-source, ops-using-API]
+    if: needs.ops-on-pr.outputs.objetivo >= 1
+    env:
+      user: ${{ needs.ops-on-pr.outputs.user }}
+      repo: ${{ needs.ops-on-pr.outputs.repo }}
+      pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
+      this_pr_number: ${{github.event.number}}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
+    steps:
+      - name: Fuentes de este repo (para JSON)
+        uses: actions/checkout@v3
+      - name: Paquete no fatpackeado
+        run: sudo cpan LWP::Protocol::https
+      - name: Revisores aleatorios
+        run: scripts/random-reviewer

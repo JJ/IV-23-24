@@ -1,0 +1,49 @@
+name: "Genera ficheros de datos"
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - proyectos/objetivo*.md
+      - lib/**
+      - t/**
+      - .github/workflows/commit-json.yaml
+
+jobs:
+  genera-objetivos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    container:
+      image: ghcr.io/jj/raku-github-actions
+      env:
+        GITHUB_SECRETS: ${{secrets.GITHUB_TOKEN}}
+    steps:
+      - name: Checkout this
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Cache para las distros instaladas
+        uses: actions/cache@v3
+        id: meta6
+        with:
+          path: /home/raku/.raku/
+          key: ${{ runner.os }}-${{ hashFiles('META6.json') }}
+      - name: Instala módulos Raku
+        if: steps.meta6.outputs.cache-hit != 'true'
+        continue-on-error: true
+        run:  HOME=/home/raku zef install --deps-only .
+      - name: Genera JSON
+        run: raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
+      - name: Genera fechas de entrega
+        run: raku -Ilib scripts/iv-fechas-csv.raku > data/fechas-entrega.csv
+      - name: Sube JSON actualizado
+        run: |
+          if [ -n "$(git status -s)" ]; then
+              git config --global user.email "jjmerelo@gmail.com"
+              git config --global user.name "IVDataBot"
+              git commit -am ":arrow_up: Actualiza datos"
+              git push
+          else
+              echo "🟏 No ha habido cambios"
+          fi

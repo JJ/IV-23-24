@@ -1,0 +1,32 @@
+name: Obtiene los items marcados
+on: [pull_request]
+
+jobs:
+  get-checks: # make sure build/ci work properly
+    runs-on: ubuntu-latest
+    steps:
+      - name: Busca en el cuerpo del PR
+        uses: actions/github-script@v3
+        env:
+            ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const checklist = /\s*[-\*]\s+\[\s*([xX]?)\s*\]\s+([A-Z]*):?/gm
+            if ( !context.payload.pull_request ) {
+              core.setFailed("Only available for pull requests")
+            }
+            let body = context.payload.pull_request.body
+            let match = checklist.exec(body)
+            let index = 1
+            while (match != null) {
+              console.log( match )
+              let name = match[2].length > 1 ? match[2] : "CHECKBOX_"+index
+              let value = match[1] ? true : false
+              core.exportVariable( name, value)
+              core.setOutput( name, value)
+              match = checklist.exec(body)
+              index++
+            }
+      - name: Muestra el resultado
+        run: echo ${GITHUB_ENV}

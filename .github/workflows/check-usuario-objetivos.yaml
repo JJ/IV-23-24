@@ -1,0 +1,32 @@
+name: "Comprueba el envío de objetivos"
+on:
+  pull_request:
+    paths:
+      - 'objetivos/*'
+
+jobs:
+  user_objectives_file_check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Extrae URL del repositorio
+        uses: JJ/github-pr-contains-action@releases/v2
+        with:
+          github-token: ${{github.token}}
+          filesChanged: 1
+      - name: Comprueba que el usuario es correcto
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const files = JSON.parse(process.env.files)
+            const ficheroObjetivosMatch = /objetivos\/(.+?)\.md/.exec(files[0].to)
+            const sender = context.payload.sender.login
+            if  ( ficheroObjetivosMatch === null ) {
+                core.setFailed("❌ No hay fichero de objetivos enviado")
+            } else {
+                const user = ficheroObjetivosMatch[1] // segundo resultado
+                if ( user !== sender ) {
+                    core.setFailed("❌ El fichero de objetivos enviado " + user + ".md no corresponde a " + sender)
+                }
+            }
+

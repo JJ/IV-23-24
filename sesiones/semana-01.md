@@ -40,7 +40,7 @@ Lista de comprobación:
 6. Empezar a usar git y GitHub (o usarlo más intensamente). Por
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
-   cualquier otro tutorial online (o el vídeo de la charla de ayer).
+   cualquier otro tutorial online, tal como [este](https://learngitbranching.js.org/?locale=es_ES).
 
 ## Contenidos
 

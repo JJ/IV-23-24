@@ -1,4 +1,4 @@
-# Semana del 12 de septiembre; comienzo del curso
+# Semana del 11 de septiembre; comienzo del curso
 
 > Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
 
@@ -8,8 +8,8 @@ Agradeceré que contestes la
 Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
 posible, enterarse de los contenidos impartidos en la misma a través de esta
 web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
-todo caso, asistir a las primeras clases, al menos hasta que se supere la fase
-de evaluación formativa.
+todo caso, asistir a las primeras clases, al menos hasta que complete el
+[segundo objetivo](http://jj.github.io/IV/documentos/proyecto/2.Modelo).
 
 ## Antes de la clase
 
@@ -22,7 +22,7 @@ Lista de comprobación:
   * ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
     compartida?
   * ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
-    equipo de clase?
+    equipo que vayáis a usar en clase?
 
 ## Objetivos a cubrir en la semana
 
@@ -43,6 +43,25 @@ Lista de comprobación:
    cualquier otro tutorial online, tal como [este](https://learngitbranching.js.org/?locale=es_ES).
 
 ## Contenidos
+
+### Clase conjunta (14 de septiembre)
+
+* Presentación del profesor de la asignatura.
+* Presentación de los recursos de la asignatura: [web](http://jj.github.io/IV) y
+  el grupo de Telegram.
+* [Visión general de la
+  asignatura](https://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/curso_actual/cuarto/tecnologiasdelainformacion/infraestructuravirtual).
+* Metodología docente:
+  [Clase invertida](http://www.tecnologiasparalaeducacion.es/la-clase-inversa-flip-classroom-tecnologias/), y evaluación formativa
+  incluyendo eliminación de la distinción teoría/prácticas y las
+  consecuencias que trae.
+* [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
+* Tutorías y como hacerlas
+
+#### Al final de esta clase: Objetivos mínimos
+
+Se habrá dado de alta GitHub (si no se está), inicializado el repositorio con el
+proyecto, entendido qué se espera del estudiante en la asignatura.
 
 ### Sesión dividida (día 15 de septiembre)
 
@@ -70,7 +89,7 @@ GitHub.
     abandonar, si se desea, la asignatura.
   * Para "entregar" cada objetivo:
     * Se crea una rama específica para cada uno en el repositorio del proyecto.
-    * Se hace un PR en el repositorio propio indicando qué cambios se han hecho
+    * Se hace un PR en el **repositorio propio** indicando qué cambios se han hecho
     para alcanzar este objetivo.
     * Se incluye en el fichero `objetivos-x.md` *de este repositorio* un *enlace
     al pull request* desde el que se esté haciendo el PR.
@@ -81,27 +100,6 @@ GitHub.
 
 * [Entender el objetivo 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) que se revisará
 sobre la marcha (dentro de lo posible).
-
-#### Al final de esta clase: Objetivos mínimos
-
-Se habrá dado de alta GitHub (si no se está), inicializado el repositorio con el
-proyecto, entendido qué se espera.
-
-### Clase conjunta (16 de septiembre)
-
-* Presentación del profesor de la asignatura.
-* Presentación de los recursos de la
-  asignatura: [web](http://jj.github.io/IV)
-  y [Twitter `@iv_gii`](http://twitter.com/iv_gii), incluyendo el
-  grupo de Telegram.
-* [Visión general de la
-  asignatura](https://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/curso_actual/cuarto/tecnologiasdelainformacion/infraestructuravirtual).
-* Metodología docente:
-  [Clase invertida](http://www.tecnologiasparalaeducacion.es/la-clase-inversa-flip-classroom-tecnologias/), y evaluación formativa
-  incluyendo eliminación de la distinción teoría/prácticas y las
-  consecuencias que trae.
-* [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
-* Tutorías y como hacerlas
 
 #### Entrando en materia
 

@@ -37,10 +37,13 @@ Lista de comprobación:
    [objetivo
    0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Sugerencia de
    entrega: en la siguiente clase.
+5. Entender el proceso de design thinking y comenzarlo para entender
+   el problema que se va a abordar en la asignatura.
 6. Empezar a usar git y GitHub (o usarlo más intensamente). Por
-   ejemplo,
-   [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
-   cualquier otro tutorial online, tal como [este](https://learngitbranching.js.org/?locale=es_ES).
+   ejemplo, [seguir este
+   vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o cualquier
+   otro tutorial online, tal como
+   [este](https://learngitbranching.js.org/?locale=es_ES).
 
 ## Contenidos
 
@@ -57,6 +60,74 @@ Lista de comprobación:
   consecuencias que trae.
 * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
 * Tutorías y como hacerlas
+* **Juego de rol**: formular y entender un problema para abordar en la asignatura.
+
+#### Entrando en materia
+
+* Introducción al [desarrollo ágil](https://jj.github.io/IV/preso/agil.html) y el software libre. Los proyectos que se
+  presenten *son software libre* y por tanto no pueden ser privados.
+* Cómo trabajar remotamente o llevar al día la asignatura. Respondiendo a la
+  pregunta: ¿asistir a clase es obligatorio?
+
+#### Design thinking y cómo usarlo para formular problemas a resolver en informática.
+
+[Design thinking](https://designthinking.es/) es una metodología para
+enfocar el desarrollo de un producto, que, al estar centrada en el
+cliente, se adapta muy bien al desarrollo ágil.
+
+La primera fase es la de *empatía*, en la que se trata de entender qué
+problema tiene el cliente *poniéndote en sus zapatos* para comprender
+qué necesita y por qué lo necesita.
+
+* Material necesario: papel y lápiz
+* Objetivo del juego: entender mejor el problema que vamos a plantear,
+  y validarlo al menos de forma inicial.
+* Desarrollo del juego:
+  1. **5 minutos** Los estudiantes, organizados por parejas, tienen 5 minutos para
+     escribir, preferiblemente en papel y con bolígrafo, los problemas
+     que conocen y que piensan que pueden abordar mediante un
+     programa. El énfasis es en que piensen en *los problemas*, no la
+     solución.
+   2. **30 minutos** El estudiante *que plantea el problema*
+      (estudiante A) asume el
+      rol de la persona *que tiene el problema*. El otro estudiante
+      será un entrevistador (B) que quiere entender qué
+      necesita. Estudiante B, por tanto, tiene que empezar por
+      preguntarle "¿En qué puedo ayudarte?" o "¿Qué problema tenemos
+      entremanos?". Estudiante A, *asumiendo el rol de persona que
+      tiene el problema*, le contará primero quién o qué es ("Soy un
+      gerente de una empresa de envase de frutas", "Soy un estudiante
+      que quiere comer sano", "Soy una persona mayor que quiere
+      organizar mejor el tiempo de ejercicio") qué es lo que ocurre, qué es lo
+      que querría hacer mejor, o hacer, o hacer de otra manera, usando
+      si es necesario papel y lápiz para mostrarle a B como hace las
+      cosas y qué problema hay con las mismas. Estudiante B le hará
+      las preguntas necesarias para entender bien qué es lo que
+      necesita, absteniéndose de formular ningún tipo de solución
+      posible. El entrevistador (estudiante B) tomará notas, y A
+      también con las preguntas adicionales o con las aclaraciones que
+      tenga que hacer sobre el problema inicial. Al final del proceso,
+      estudiante B (el entrevistador) consultando si es necesario las
+      notas, le resumirá al estudiante A (el *cliente*) lo que ha
+      entendido. También le dará una valoración de si entiende que se
+      podría resolver dentro de una asignatura como IV, de
+      infraestructura virtual. Al final de este proceso, se invertirán
+      los roles de estudiante A y estudiante B.
+  
+  3. *Validación* **10 minutos**: se cambian las parejas, y una vez
+     más estudiante A volverá a asumir el rol del posible cliente y
+     contar qué problema tiene con las modificaciones que haya hecho
+     en la interacción anterior; una vez más el estudiante B será
+     entrevistador, hará preguntas y solicitará aclaraciones, y al
+     final validará (o no) el problema planteado como un problema que
+     podraí ser válido para la asignatura.
+ 4. *Puesta en común*: la clase dirá qué ha aprendido de la
+    experiencia, y sugerirá mejoras para iteraciones sucesivas.
+
+Una vez esté el problema validado, se puede proceder a entregar el
+objetivo 0, siguiendo las
+[instrucciones](http://jj.github.io/IV/documentos/proyecto/0.Repositorio)
+(que también están detalladas más abajo).
 
 #### Al final de esta clase: Objetivos mínimos
 
@@ -100,13 +171,6 @@ GitHub.
 
 * [Entender el objetivo 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) que se revisará
 sobre la marcha (dentro de lo posible).
-
-#### Entrando en materia
-
-* Introducción al [desarrollo ágil](https://jj.github.io/IV/preso/agil.html) y el software libre. Los proyectos que se
-  presenten *son software libre* y por tanto no pueden ser privados.
-* Cómo trabajar remotamente o llevar al día la asignatura. Respondiendo a la
-  pregunta: ¿asistir a clase es obligatorio?
 
 #### Al final de esta clase: Objetivos mínimos
 

@@ -113,7 +113,23 @@ qué necesita y por qué lo necesita.
       podría resolver dentro de una asignatura como IV, de
       infraestructura virtual. Al final de este proceso, se invertirán
       los roles de estudiante A y estudiante B.
-  
+		* Si el estudiante A no ha tenido tiempo de formular un
+          problema, el entrevistador (estudiante B) tendrá que
+          intentar ayudarle a formular ese problema, haciéndole
+          preguntas como 
+			  1. ¿Alguna afición podría mejorar con ayuda de algún
+                 problema?
+			 2. ¿Alguna tarea doméstica o el conjunto de las mismas en
+                su vivienda podrían ser algún problema? ¿O la
+                organización de las mismas?
+			3. ¿Alguna preocupación social o política podría ser un
+               problema mejorable con alguna aplicación?
+		    4. ¿Hay algún dato que se pueda procesar a partir de
+               fuentes poco estructuradas? ¿Ofertas de algo?
+               ¿Información de alguna página de una institución?
+		* En este caso, tendrán que intentar entre los dos formular el
+          problema que el estudiante A podrá plantear en la asignatura.
+
   3. *Validación* **10 minutos**: se cambian las parejas, y una vez
      más estudiante A volverá a asumir el rol del posible cliente y
      contar qué problema tiene con las modificaciones que haya hecho

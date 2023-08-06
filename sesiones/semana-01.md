@@ -32,7 +32,7 @@ Lista de comprobación:
    invitación en el correo de la UGR) y conocer el resto de los recursos de la
    misma.
 2. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
-3. Vernos las caras.
+3. [Entender como enfocar el aprendizaje en ingeniería](https://www.youtube.com/watch?v=HLXrAdK1iZ4)
 4. Entender y entregar el
    [objetivo
    0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Sugerencia de

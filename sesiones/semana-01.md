@@ -71,74 +71,7 @@ Lista de comprobación:
 
 #### Design thinking y cómo usarlo para formular problemas a resolver en informática.
 
-[Design thinking](https://designthinking.es/) es una metodología para
-enfocar el desarrollo de un producto, que, al estar centrada en el
-cliente, se adapta muy bien al desarrollo ágil.
-
-La primera fase es la de *empatía*, en la que se trata de entender qué
-problema tiene el cliente *poniéndote en sus zapatos* para comprender
-qué necesita y por qué lo necesita.
-
-* Material necesario: papel y lápiz
-* Objetivo del juego: entender mejor el problema que vamos a plantear,
-  y validarlo al menos de forma inicial.
-* Desarrollo del juego:
-  1. **5 minutos** Los estudiantes, organizados por parejas, tienen 5 minutos para
-     escribir, preferiblemente en papel y con bolígrafo, los problemas
-     que conocen y que piensan que pueden abordar mediante un
-     programa. El énfasis es en que piensen en *los problemas*, no la
-     solución.
-   2. **30 minutos** El estudiante *que plantea el problema*
-      (estudiante A) asume el
-      rol de la persona *que tiene el problema*. El otro estudiante
-      será un entrevistador (B) que quiere entender qué
-      necesita. Estudiante B, por tanto, tiene que empezar por
-      preguntarle "¿En qué puedo ayudarte?" o "¿Qué problema tenemos
-      entremanos?". Estudiante A, *asumiendo el rol de persona que
-      tiene el problema*, le contará primero quién o qué es ("Soy un
-      gerente de una empresa de envase de frutas", "Soy un estudiante
-      que quiere comer sano", "Soy una persona mayor que quiere
-      organizar mejor el tiempo de ejercicio") qué es lo que ocurre, qué es lo
-      que querría hacer mejor, o hacer, o hacer de otra manera, usando
-      si es necesario papel y lápiz para mostrarle a B como hace las
-      cosas y qué problema hay con las mismas. Estudiante B le hará
-      las preguntas necesarias para entender bien qué es lo que
-      necesita, absteniéndose de formular ningún tipo de solución
-      posible. El entrevistador (estudiante B) tomará notas, y A
-      también con las preguntas adicionales o con las aclaraciones que
-      tenga que hacer sobre el problema inicial. Al final del proceso,
-      estudiante B (el entrevistador) consultando si es necesario las
-      notas, le resumirá al estudiante A (el *cliente*) lo que ha
-      entendido. También le dará una valoración de si entiende que se
-      podría resolver dentro de una asignatura como IV, de
-      infraestructura virtual. Al final de este proceso, se invertirán
-      los roles de estudiante A y estudiante B.
-		* Si el estudiante A no ha tenido tiempo de formular un
-          problema, el entrevistador (estudiante B) tendrá que
-          intentar ayudarle a formular ese problema, haciéndole
-          preguntas como 
-			  1. ¿Alguna afición podría mejorar con ayuda de algún
-                 problema?
-			 2. ¿Alguna tarea doméstica o el conjunto de las mismas en
-                su vivienda podrían ser algún problema? ¿O la
-                organización de las mismas?
-			3. ¿Alguna preocupación social o política podría ser un
-               problema mejorable con alguna aplicación?
-		    4. ¿Hay algún dato que se pueda procesar a partir de
-               fuentes poco estructuradas? ¿Ofertas de algo?
-               ¿Información de alguna página de una institución?
-		* En este caso, tendrán que intentar entre los dos formular el
-          problema que el estudiante A podrá plantear en la asignatura.
-
-  3. *Validación* **10 minutos**: se cambian las parejas, y una vez
-     más estudiante A volverá a asumir el rol del posible cliente y
-     contar qué problema tiene con las modificaciones que haya hecho
-     en la interacción anterior; una vez más el estudiante B será
-     entrevistador, hará preguntas y solicitará aclaraciones, y al
-     final validará (o no) el problema planteado como un problema que
-     podraí ser válido para la asignatura.
- 4. *Puesta en común*: la clase dirá qué ha aprendido de la
-    experiencia, y sugerirá mejoras para iteraciones sucesivas.
+[Sigue estas instrucciones](http://jj.github.io/IV/documentos/actividades/juego-rol-design-thinking)
 
 Una vez esté el problema validado, se puede proceder a entregar el
 objetivo 0, siguiendo las

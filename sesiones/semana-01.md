@@ -71,7 +71,7 @@ Lista de comprobación:
 
 #### Design thinking y cómo usarlo para formular problemas a resolver en informática.
 
-[Sigue estas instrucciones](http://jj.github.io/IV/documentos/actividades/juego-rol-design-thinking)
+[Sigue estas instrucciones](http://jj.github.io/IV/documentos/actividades/juego-rol-design-thinking).
 
 Una vez esté el problema validado, se puede proceder a entregar el
 objetivo 0, siguiendo las

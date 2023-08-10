@@ -2,8 +2,7 @@
 
 > Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
 
-Agradeceré que contestes la
-[encuesta inicial]().
+Agradeceré que contestes la [encuesta inicial]().
 
 Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
 posible, enterarse de los contenidos impartidos en la misma a través de esta
@@ -114,8 +113,8 @@ GitHub.
     * Se crea una rama específica para cada uno en el repositorio del proyecto.
     * Se hace un PR en el **repositorio propio** indicando qué cambios se han hecho
     para alcanzar este objetivo.
-    * Se incluye en el fichero `objetivos-x.md` *de este repositorio* un *enlace
-    al pull request* desde el que se esté haciendo el PR.
+    * Se incluye en el fichero `objetivos-x.md` *de este repositorio*
+    un *enlace al pull request* desde el que se esté haciendo el PR.
     * Hay que esperar que el profesor apruebe el PR *de nuestro
     repositorio* para fusionarlo. Cuando se apruebe el PR, se habrá
     alcanzado el objetivo. El profesor hará indicaciones para que el

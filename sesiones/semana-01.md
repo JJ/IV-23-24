@@ -85,9 +85,12 @@ proyecto, entendido qué se espera del estudiante en la asignatura.
 
 ### Sesión dividida (día 15 de septiembre)
 
-No hay diferencia entre teoría y práctica, toda la asignatura es práctica. Estas
-explicaciones están dirigidas a grupos pequeños. Esta sesión tiene los
-siguientes objetivos.
+No hay diferencia entre teoría y práctica, toda la asignatura es
+práctica. Estas explicaciones están dirigidas a grupos pequeños. Esta
+sesión tiene los siguientes objetivos. Con el grupo presente que no
+haya hecho el juego de rol anterior o no haya conseguido que le
+validen el problema todavía, se continúa [el
+mismo](http://jj.github.io/IV/documentos/actividades).
 
 * Entender git a través de esta [introducción a
 git](http://jj.github.io/IV/preso/git.html#/), y las buenas prácticas de uso de

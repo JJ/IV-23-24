@@ -2,7 +2,7 @@
 
 > Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
 
-Agradeceré que contestes la [encuesta inicial]().
+Agradeceré que contestes la [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLScfpAviOhfq8m5KN9ejb1WWVcIIIqTi10Zt2vnrUQ1VhPkJAA/viewform?usp=sf_link).
 
 Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
 posible, enterarse de los contenidos impartidos en la misma a través de esta

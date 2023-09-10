@@ -7,8 +7,8 @@ Agradeceré que contestes la [encuesta inicial](https://docs.google.com/forms/d/
 Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
 posible, enterarse de los contenidos impartidos en la misma a través de esta
 web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
-todo caso, asistir a las primeras clases, al menos hasta que complete el
-[segundo objetivo](http://jj.github.io/IV/documentos/proyecto/2.Modelo).
+todo caso, asistir al menos a las primeras clases, al menos hasta que complete
+el [segundo objetivo](http://jj.github.io/IV/documentos/proyecto/2.Modelo).
 
 ## Antes de la clase
 
@@ -49,16 +49,16 @@ Lista de comprobación:
 ### Clase conjunta (14 de septiembre)
 
 * Presentación del profesor de la asignatura.
-* Presentación de los recursos de la asignatura: [web](http://jj.github.io/IV) y
+* Enlaces a los recursos:
+  * Presentación de los recursos de la asignatura: [web](http://jj.github.io/IV) y
   el grupo de Telegram.
-* [Visión general de la
+  * [Visión general de la
   asignatura](https://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/curso_actual/cuarto/tecnologiasdelainformacion/infraestructuravirtual).
-* Metodología docente:
+  * Metodología docente:
   [Clase invertida](http://www.tecnologiasparalaeducacion.es/la-clase-inversa-flip-classroom-tecnologias/), y evaluación formativa
   incluyendo eliminación de la distinción teoría/prácticas y las
   consecuencias que trae.
-* [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
-* Tutorías y como hacerlas
+  * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
 * **Juego de rol**: formular y entender un problema para abordar en la asignatura.
 
 #### Entrando en materia
@@ -72,7 +72,7 @@ Lista de comprobación:
 
 [Sigue estas instrucciones](http://jj.github.io/IV/documentos/actividades/juego-rol-design-thinking).
 
-Una vez esté el problema validado, se puede proceder a entregar el
+Una vez esté el problema (que se va a resolver en la asignatura) validado, se puede proceder a entregar el
 objetivo 0, siguiendo las
 [instrucciones](http://jj.github.io/IV/documentos/proyecto/0.Repositorio)
 (que también están detalladas más abajo).

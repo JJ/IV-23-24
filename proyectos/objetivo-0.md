@@ -20,7 +20,7 @@ iniciales.
 | <!-- Enlace de adelahera --> | | |
 | <!-- Enlace de puchy22 --> | | |
 | <!-- Enlace de carlotiii30 --> | | |
-| <!-- Enlace de F F S --> | | |
+| <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de F A D --> | | |
 | <!-- Enlace de diagmatrix --> | | |
@@ -28,14 +28,14 @@ iniciales.
 | <!-- Enlace de Antongd111 --> | | |
 | <!-- Enlace de javigp2002 --> | | |
 | <!-- Enlace de shvtwp --> | | |
-| <!-- Enlace de G G M --> | | |
+| <!-- Enlace de MarioGuisado --> | | |
 | <!-- Enlace de J P S --> | | |
 | <!-- Enlace de Morad02 --> | | |
 | <!-- Enlace de L J A --> | | |
 | <!-- Enlace de Christianlr --> | | |
 | <!-- Enlace de pluque01 --> | | |
 | <!-- Enlace de M P J A --> | | |
-| <!-- Enlace de M L C A --> | | |
+| <!-- Enlace de smallPingu --> | | |
 | <!-- Enlace de M R J L --> | | |
 | <!-- Enlace de moshidev --> | | |
 | <!-- Enlace de R L S --> | | |
@@ -48,4 +48,4 @@ iniciales.
 | <!-- Enlace de S C A J --> | | |
 | <!-- Enlace de raultl12 --> | | |
 | <!-- Enlace de manuelvico0102 --> | | |
-| <!-- Enlace de V M I --> | | |
+| <!-- Enlace de johnwaves --> | | |

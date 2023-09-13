@@ -74,6 +74,9 @@ Lista de comprobación:
 
 [Sigue estas instrucciones](http://jj.github.io/IV/documentos/actividades/juego-rol-design-thinking).
 
+> Os ruego que una vez terminada la actividad, [rellenéis este formulario para
+> evaluarla](https://forms.gle/5j4m7ZajPY1aEWYv5)
+
 Una vez esté el problema (que se va a resolver en la asignatura) validado, se puede proceder a entregar el
 objetivo 0, siguiendo las
 [instrucciones](http://jj.github.io/IV/documentos/proyecto/0.Repositorio)

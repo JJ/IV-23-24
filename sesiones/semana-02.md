@@ -10,6 +10,11 @@ web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
 todo caso, asistir a las primeras clases, al menos hasta que complete el
 [segundo objetivo](http://jj.github.io/IV/documentos/proyecto/2.Modelo).
 
+Si no tienes Linux instalado [el día 21 hay una fiesta de instalación organizada
+por la
+OSL](https://osl.ugr.es/2023/09/07/fiesta-de-instalacion-de-linux-6/). Puedes ir
+al salir de clase.
+
 ## Antes de la clase
 
 Si esta es tu primera semana, comprueba que todo está listo pasando la

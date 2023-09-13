@@ -2,13 +2,20 @@
 
 > Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
 
-Agradeceré que contestes la [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLScfpAviOhfq8m5KN9ejb1WWVcIIIqTi10Zt2vnrUQ1VhPkJAA/viewform?usp=sf_link).
+Agradeceré que contestes la [encuesta
+inicial](https://docs.google.com/forms/d/e/1FAIpQLScfpAviOhfq8m5KN9ejb1WWVcIIIqTi10Zt2vnrUQ1VhPkJAA/viewform?usp=sf_link)
+si no lo has hecho ya.
 
 Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
 posible, enterarse de los contenidos impartidos en la misma a través de esta
 web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
 todo caso, asistir al menos a las primeras clases, al menos hasta que complete
 el [segundo objetivo](http://jj.github.io/IV/documentos/proyecto/2.Modelo).
+
+Si no tienes Linux instalado [el día 15 hay una fiesta de instalación organizada
+por la
+OSL](https://osl.ugr.es/2023/09/07/fiesta-de-instalacion-de-linux-6/). Puedes ir
+al salir de clase.
 
 ## Antes de la clase
 

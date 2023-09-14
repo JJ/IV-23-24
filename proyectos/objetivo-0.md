@@ -45,7 +45,6 @@ iniciales.
 | <!-- Enlace de Javito115 --> | | |
 | <!-- Enlace de spmanolo --> | | |
 | <!-- Enlace de carlosservi --> | | |
-| <!-- Enlace de S C A J --> | | |
 | <!-- Enlace de raultl12 --> | | |
 | <!-- Enlace de manuelvico0102 --> | | |
 | <!-- Enlace de johnwaves --> | | |

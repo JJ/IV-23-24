@@ -25,7 +25,7 @@ iniciales.
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de F A D --> | | |
-| https://github.com/diagmatrix/maybe-better-maybe-worse/pull/1 | v0.0.1 | |
+| https://github.com/diagmatrix/maybe-better-maybe-worse/pull/1 | v0.0.1 |✓ |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de Antongd111 --> | | |
 | <!-- Enlace de javigp2002 --> | | |

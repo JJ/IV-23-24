@@ -30,7 +30,7 @@ iniciales.
 | <!-- Enlace de Antongd111 --> | | |
 | <!-- Enlace de javigp2002 --> | | |
 | <!-- Enlace de shvtwp --> | | |
-| <!-- Enlace de MarioGuisado --> | | |
+| [Enlace de MarioGuisado](https://github.com/MarioGuisado/StudyTogether/pull/1) | v0.0.1 | |
 | <!-- Enlace de J P S --> | | |
 | <!-- Enlace de Morad02 --> | | |
 | <!-- Enlace de albertolj --> | | |

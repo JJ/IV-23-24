@@ -21,7 +21,7 @@ iniciales.
 | <!-- Enlace de C V C --> | | |
 | <!-- Enlace de adelahera --> | | |
 | <!-- Enlace de puchy22 --> | | |
-| <!-- Enlace de carlotiii30 --> | | |
+| [<!-- Enlace de carlotiii30 -->](https://github.com/carlotiii30/organizacionSemanal/pull/1) | v0.0.1 | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de F A D --> | | |
@@ -39,7 +39,7 @@ iniciales.
 | <!-- Enlace de josemponce --> | | |
 | <!-- Enlace de smallPingu --> | | |
 | <!-- Enlace de chelunike --> | | |
-| https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | ✓ |
+| https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | |
 | <!-- Enlace de R L O E --> | | |
 | <!-- Enlace de migueruiz --> | | |
 | <!-- Enlace de Javito198 --> | | |

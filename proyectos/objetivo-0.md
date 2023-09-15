@@ -26,7 +26,7 @@ iniciales.
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de F A D --> | | |
 | <!-- Enlace de diagmatrix --> | | |
-| <!-- Enlace de G M J --> | | |
+| <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de Antongd111 --> | | |
 | <!-- Enlace de javigp2002 --> | | |
 | <!-- Enlace de shvtwp --> | | |

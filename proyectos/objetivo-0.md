@@ -37,13 +37,13 @@ iniciales.
 | <!-- Enlace de Christianlr --> | | |
 | https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | |
 | <!-- Enlace de josemponce --> | | |
-| https://github.com/smallPingu/antiTarjetas/pull/1 | v0.0.1 | |
+| <!-- Enlace de smallPingu --> | | |
 | <!-- Enlace de chelunike --> | | |
 | https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R L O E --> | | |
 | <!-- Enlace de migueruiz --> | | |
 | <!-- Enlace de Javito198 --> | | |
-| <!-- Enlace de spmanolo --> | | |
+| [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/2) | v0.0.1 | |
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/1) |v0.0.2||
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | |
 | <!-- Enlace de manuelvico0102 --> | | |

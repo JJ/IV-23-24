@@ -21,7 +21,7 @@ iniciales.
 | <!-- Enlace de C V C --> | | |
 | https://github.com/adelahera/basket-stats/pull/1 | v0.0.1 | |
 | <!-- Enlace de puchy22 --> | | |
-| <!-- Enlace de carlotiii30 --> | | |
+| https://github.com/carlotiii30/organizacionSemanal/pull/1 | V0.0.1 | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de F A D --> | | |

@@ -45,6 +45,6 @@ iniciales.
 | <!-- Enlace de Javito198 --> | | |
 | <!-- Enlace de spmanolo --> | | |
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/1) |v0.0.2||
-| <!-- Enlace de raultl12 --> | | |
+| [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | |
 | <!-- Enlace de manuelvico0102 --> | | |
 | <!-- Enlace de johnwaves --> | | |

@@ -9,7 +9,7 @@ iniciales.
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
 | <!-- Enlace de sergioae19 --> | | |
-| <!-- Enlace de danieeeld2 --> | | |
+| https://github.com/danieeeld2/LogisticsRoutes/ | v0.0.1 | |
 | <!-- Enlace de LuciaAnsino --> | | |
 | <!-- Enlace de Enaraque --> | | |
 | <!-- Enlace de B G J --> | | |

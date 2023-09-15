@@ -35,7 +35,7 @@ iniciales.
 | <!-- Enlace de Morad02 --> | | |
 | <!-- Enlace de albertolj --> | | |
 | <!-- Enlace de Christianlr --> | | |
-| <!-- Enlace de pluque01 --> | | |
+| https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | |
 | <!-- Enlace de josemponce --> | | |
 | <!-- Enlace de smallPingu --> | | |
 | <!-- Enlace de chelunike --> | | |

@@ -39,7 +39,7 @@ iniciales.
 | <!-- Enlace de josemponce --> | | |
 | <!-- Enlace de smallPingu --> | | |
 | <!-- Enlace de chelunike --> | | |
-| https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | |
+| https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R L O E --> | | |
 | <!-- Enlace de migueruiz --> | | |
 | <!-- Enlace de Javito198 --> | | |

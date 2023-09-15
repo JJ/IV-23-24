@@ -19,7 +19,7 @@ iniciales.
 | <!-- Enlace de Amadocm --> | | |
 | <!-- Enlace de marinajcs --> | | |
 | <!-- Enlace de C V C --> | | |
-| <!-- Enlace de adelahera --> | | |
+| https://github.com/adelahera/basket-stats/pull/1 | v0.0.1 | |
 | <!-- Enlace de puchy22 --> | | |
 | <!-- Enlace de carlotiii30 --> | | |
 | <!-- Enlace de sergioffdez --> | | |

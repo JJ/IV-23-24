@@ -37,7 +37,7 @@ iniciales.
 | <!-- Enlace de Christianlr --> | | |
 | https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | |
 | <!-- Enlace de josemponce --> | | |
-| https://github.com/smallPingu/antiTarjetas/tree/Objetivo-0 | v0.0.1 | |
+| https://github.com/smallPingu/antiTarjetas/pull/1 | v0.0.1 | |
 | <!-- Enlace de chelunike --> | | |
 | https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R L O E --> | | |

@@ -1,7 +1,7 @@
 # Objetivo 0
 
 Añade en la tabla el enlace al PR en *tu* repositorio, siguiendo las
-instrucciones en [el guión](https://jj.github.io/IV/proyectos/objetivo-0). Usa
+instrucciones en [el guión](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Usa
 la línea con tu nick de GitHub (si lo has proporcionado). Si no lo has hecho,
 primero ponlo en la hoja de equivalencias y a continuación usa la línea con tus
 iniciales.
@@ -39,6 +39,7 @@ iniciales.
 | <!-- Enlace de josemponce --> | | |
 | https://github.com/smallPingu/antiTarjetas/pull/1 | v0.0.1 | |
 | [chelunike didactic-chainsaw PR-1](https://github.com/chelunike/didactic-chainsaw/pull/1) | v0.0.1 | |
+| <!-- Enlace de M M M --> | | |
 | https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R L O E --> | | |
 | <!-- Enlace de migueruiz --> | | |

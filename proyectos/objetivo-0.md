@@ -20,7 +20,7 @@ iniciales.
 | <!-- Enlace de marinajcs --> | | |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/adelahera/basket-stats/pull/2 | v0.0.2 |✓ |
-| [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/1) | v0.0.1 | |
+| [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/1) | v0.0.1 | ✓  |
 | https://github.com/carlotiii30/organizacionSemanal/pull/1 | V0.0.1 | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |

@@ -1,7 +1,7 @@
 # Objetivo 0
 
 Añade en la tabla el enlace al PR en *tu* repositorio, siguiendo las
-instrucciones en [el guión](https://jj.github.io/IV/proyectos/objetivo-0). Usa
+instrucciones en [el guión](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Usa
 la línea con tu nick de GitHub (si lo has proporcionado). Si no lo has hecho,
 primero ponlo en la hoja de equivalencias y a continuación usa la línea con tus
 iniciales.
@@ -20,7 +20,7 @@ iniciales.
 | <!-- Enlace de marinajcs --> | | |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/adelahera/basket-stats/pull/2 | v0.0.2 | |
-| <!-- Enlace de puchy22 --> | https://github.com/puchy22/nutri-app/pull/1 | v0.0.1 |
+| [Enlace puchy22](https://github.com/puchy22/nutri-app/pull/1) | v0.0.1 | |
 | https://github.com/carlotiii30/organizacionSemanal/pull/1 | V0.0.1 | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
@@ -35,16 +35,17 @@ iniciales.
 | https://github.com/Morad02/F1Data/pull/1 | v0.0.1 | |
 | <!-- Enlace de albertolj --> | | |
 | <!-- Enlace de Christianlr --> | | |
-| https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | |
+| https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de josemponce --> | | |
 | https://github.com/smallPingu/antiTarjetas/pull/1 | v0.0.1 | |
 | [chelunike didactic-chainsaw PR-1](https://github.com/chelunike/didactic-chainsaw/pull/1) | v0.0.1 | |
+| <!-- Enlace de M M M --> | | |
 | https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R L O E --> | | |
 | <!-- Enlace de migueruiz --> | | |
 | <!-- Enlace de Javito198 --> | | |
 | [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/3) | v0.0.1 | |
-| [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/1) |v0.0.2||
-| [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | |
+| [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/1) |v0.0.2| ✓ |
+| [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de manuelvico0102 --> | | |
 | <!-- Enlace de johnwaves --> | | |

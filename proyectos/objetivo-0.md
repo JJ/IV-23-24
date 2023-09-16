@@ -35,7 +35,7 @@ iniciales.
 | https://github.com/Morad02/F1Data/pull/1 | v0.0.1 | |
 | <!-- Enlace de albertolj --> | | |
 | <!-- Enlace de Christianlr --> | | |
-| https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | |
+| https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de josemponce --> | | |
 | https://github.com/smallPingu/antiTarjetas/pull/1 | v0.0.1 | |
 | [chelunike didactic-chainsaw PR-1](https://github.com/chelunike/didactic-chainsaw/pull/1) | v0.0.1 | |

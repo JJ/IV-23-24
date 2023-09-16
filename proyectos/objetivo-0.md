@@ -47,5 +47,5 @@ iniciales.
 | [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/3) | v0.0.1 | ✓ |
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/1) |v0.0.2| ✓ |
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | ✓ |
-| <!-- Enlace de manuelvico0102 --> | | |
+| [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/1) | v0.0.1 | |
 | <!-- Enlace de johnwaves --> | | |

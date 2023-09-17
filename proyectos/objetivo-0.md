@@ -28,7 +28,7 @@ iniciales.
 | https://github.com/diagmatrix/maybe-better-maybe-worse/pull/1 | v0.0.1 |✓ |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de Antongd111 --> | | |
-| <!-- Enlace de javigp2002 --> | | |
+|[Enlace de JaviGP2002](https://github.com/javigp2002/LazyFood/pull/1)|v0.0.1 | |
 | <!-- Enlace de shvtwp --> | | |
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/StudyTogether/pull/1) | v0.0.1 | |
 | <!-- Enlace de J P S --> | | |

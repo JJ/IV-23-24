@@ -11,7 +11,7 @@ iniciales.
 | <!-- Enlace de sergioae19 --> | | |
 | https://github.com/danieeeld2/LogisticsRoutes/pull/1 | v0.0.1 |✓ |
 | <!-- Enlace de LuciaAnsino --> | | |
-| <!-- Enlace de Enaraque --> | | |
+| [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/1) | v0.0.1 | |
 | <!-- Enlace de B G J --> | | |
 | <!-- Enlace de rociobm14 --> | | |
 | <!-- Enlace de PabloBarTo --> | | |

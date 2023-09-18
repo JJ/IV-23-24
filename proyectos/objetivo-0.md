@@ -13,7 +13,6 @@ iniciales.
 | <!-- Enlace de LuciaAnsino --> | | |
 | [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/1) | v0.0.1 | |
 | <!-- Enlace de B G J --> | | |
-| <!-- Enlace de rociobm14 --> | | |
 | <!-- Enlace de PabloBarTo --> | | |
 | <!-- Enlace de danibarranqueroo --> | | |
 | <!-- Enlace de Amadocm --> | | |
@@ -26,13 +25,12 @@ iniciales.
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de F A D --> | | |
 | https://github.com/diagmatrix/maybe-better-maybe-worse/pull/1 | v0.0.1 |✓ |
-| <!-- Enlace de JaimeGM96 --> | | |
-| <!-- Enlace de Antongd111 --> | | |
+| [Enlace de JaimeGM96](https://github.com/JaimeGM96/GestorTareas/pull/1) | v0.0.1 | |
 |[Enlace de JaviGP2002](https://github.com/javigp2002/LazyFood/pull/1)|v0.0.1 | |
 | <!-- Enlace de shvtwp --> | | |
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/StudyTogether/pull/1) | v0.0.1 | |
 | <!-- Enlace de J P S --> | | |
-| https://github.com/Morad02/F1Data/pull/1 | v0.0.1 | |
+| https://github.com/Morad02/F1Data/pull/1 | v0.0.1 |✓ |
 | <!-- Enlace de albertolj --> | | |
 | <!-- Enlace de Christianlr --> | | |
 | https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | ✓ |
@@ -44,6 +42,7 @@ iniciales.
 | <!-- Enlace de R L O E --> | | |
 | <!-- Enlace de migueruiz --> | | |
 | <!-- Enlace de Javito198 --> | | |
+| <!-- Enlace de S P A --> | | |
 | [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/3) | v0.0.1 | ✓ |
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/1) |v0.0.2| ✓ |
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | ✓ |

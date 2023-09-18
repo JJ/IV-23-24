@@ -4,8 +4,10 @@ use Git::File::History;
 constant PROYECTOS = "proyectos/";
 
 sub lista-estudiantes( Str $file = "{PROYECTOS}usuarios.md" ) is export {
-    $file.IO.slurp.lines.grep( /"<!--"/ )
-            .map( *.split( "--" )[1].split(" ")[3]);
+    my @nick-lines = $file.IO.slurp.lines.grep( /"<!--"/ )
+            .map( *.split( /\s*"--"\s*/ )[1] );
+
+    return @nick-lines.map( *.split( /"Enlace de"\s+/)[1])
 }
 
 unit class IV::Stats;

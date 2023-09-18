@@ -12,4 +12,13 @@ my $estudiantes = Set.new(lista-estudiantes);
 
 my $no-asistentes = $estudiantes (-) $asistentes;
 
-say $no-asistentes;
+my $iv = IV::Stats.new();
+
+my $entregados = $iv.hecha-entrega(0);
+
+say $entregados;
+
+say $entregados ∩ $asistentes;
+say $entregados ∩ $no-asistentes;
+
+

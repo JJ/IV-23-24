@@ -1,6 +1,6 @@
 # Errores frecuentes objetivo 0
 
-* No poner + [IV-23-34]` en el título del PR, lo que me hace imposible entre
+* No poner `[IV-23-34]` en el título del PR, lo que me hace imposible entre
   todos los mensajes de repos de GitHub, saber cuales son nuevas peticiones de
   revisión.
 

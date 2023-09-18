@@ -1,6 +1,6 @@
 #!/usr/bin/env raku
 
-use lib "..";
+use lib ".";
 
 use IV::Stats;
 

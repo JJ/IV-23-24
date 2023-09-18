@@ -9,6 +9,12 @@
 
 ## Con respecto a los problemas enviados
 
+* El juego de rol de la primera sesión es una forma de aplicar *design thinking*
+  y el proceso de empatía para encontrar y describir un problema a resolver. Si
+  no se ha participado en el juego de rol, o el problema no se ha validado,
+  *design thinking* sigue siendo válido; en general, va a ser muy difícil que
+  sin un proceso formal se halle y describa un problema, y que sea válido.
+
 * Hablar desde el principio de "Quiero hacer una aplicación que haga..." cuando
   lo que se pide es que se describa un problema.
 

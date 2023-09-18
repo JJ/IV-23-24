@@ -25,7 +25,7 @@ iniciales.
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de F A D --> | | |
 | https://github.com/diagmatrix/maybe-better-maybe-worse/pull/1 | v0.0.1 |✓ |
-| <!-- Enlace de JaimeGM96 --> | | |
+| [Enlace de JaimeGM96](https://github.com/JaimeGM96/GestorTareas/pull/1) | v0.0.1 | |
 | <!-- Enlace de javigp2002 --> | | |
 | <!-- Enlace de shvtwp --> | | |
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/StudyTogether/pull/1) | v0.0.1 | |

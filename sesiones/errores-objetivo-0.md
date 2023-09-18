@@ -15,9 +15,9 @@
 * Crear problemas demasiado vagos ("una persona quiere invertir") o simplemente
   descritos como tales ("el problema del transporte").
 
-* Crear problemas difíciles de comprender, lo que normalmente es consecuencia de
-  una baja empatía; no te has colocado en la piel del cliente para entender qué
-  quiere hacer y qué problema tiene.
+* Descripciones de problemas difíciles de comprender, lo que normalmente es
+  consecuencia de una baja empatía; no te has colocado en la piel del cliente
+  para entender qué quiere hacer y qué problema tiene.
 
 * Inventar problemas que no son reales desde el desconocimiento de las personas
   que tienen esa problemática. Una vez más, es imprescindible tener conocimiento

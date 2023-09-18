@@ -10,3 +10,9 @@
 * Hablar desde el principio de "Quiero hacer una aplicación que haga..." cuando
   lo que se pide es que se describa un problema.
 
+* Crear problemas demasiado vagos ("una persona quiere invertir") o simplemente
+  descritos como tales ("el problema del transporte").
+
+* Crear problemas difíciles de comprender, lo que normalmente es consecuencia de
+  una baja empatía; no te has colocado en la piel del cliente para entender qué
+  quiere hacer y qué problema tiene.

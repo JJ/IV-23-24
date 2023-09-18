@@ -7,6 +7,8 @@
 * No mirar bien la lista de comprobación o no insertarla en el lugar adecuado
   (en el cuerpo del PR, como se indican en las instrucciones).
 
+## Con respecto a los problemas enviados
+
 * Hablar desde el principio de "Quiero hacer una aplicación que haga..." cuando
   lo que se pide es que se describa un problema.
 
@@ -16,3 +18,7 @@
 * Crear problemas difíciles de comprender, lo que normalmente es consecuencia de
   una baja empatía; no te has colocado en la piel del cliente para entender qué
   quiere hacer y qué problema tiene.
+
+* Inventar problemas que no son reales desde el desconocimiento de las personas
+  que tienen esa problemática. Una vez más, es imprescindible tener conocimiento
+  real del problema para que se pueda intentar resolver.

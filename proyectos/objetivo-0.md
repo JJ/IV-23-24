@@ -8,7 +8,7 @@ iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de sergioae19 --> | | |
+| <!-- [Enlace de sergioae19](https://github.com/sergioae19/CalendarioSemanal/pull/1) --> |v.0.0.1 | |
 | https://github.com/danieeeld2/LogisticsRoutes/pull/1 | v0.0.1 |✓ |
 | <!-- Enlace de LuciaAnsino --> | | |
 | [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/1) | v0.0.1 | |

@@ -40,7 +40,7 @@ iniciales.
 | <!-- Enlace de M M M --> | | |
 | https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R L O E --> | | |
-| <!-- Enlace de migueruiz --> | | |
+| .[Enlace de migueruiz](https://github.com/migueruiz/Automatricula/pull/1)| v0.0.1 | |
 | <!-- Enlace de Javito198 --> | | |
 | <!-- Enlace de S P A --> | | |
 | [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/3) | v0.0.1 | ✓ |

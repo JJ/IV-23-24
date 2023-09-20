@@ -13,7 +13,7 @@ iniciales.
 | [Enlace de LuciaAnsino](https://github.com/LuciaAnsino/CompraOnline/pull/1) | v0.0.1 | |
 | [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/1) | v0.0.1 | |
 | <!-- Enlace de giorgiogiovanni --> | | |
-| <!-- Enlace de PabloBarTo --> | | |
+| [Enlace de PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/1) | v0.0.1 | |
 | <!-- Enlace de danibarranqueroo --> | | |
 | <!-- Enlace de Amadocm --> | | |
 | [Enlace de marinajcs](https://github.com/marinajcs/asignacionTareas/pull/1) | v0.0.1 |✓ |

@@ -32,7 +32,7 @@ iniciales.
 | <!-- Enlace de J P S --> | | |
 | https://github.com/Morad02/F1Data/pull/1 | v0.0.1 |✓ |
 | <!-- Enlace de albertolj --> | | |
-| <!-- Enlace de Christianlr --> | | |
+| [Enlace de Christianlr](https://github.com/Christianlr/MIWeather/pull/1) | v0.0.1 | |
 | https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de josemponce --> | | |
 | https://github.com/smallPingu/antiTarjetas/pull/1 | v0.0.1 | |

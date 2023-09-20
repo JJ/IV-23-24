@@ -35,13 +35,27 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 * [Objetivo cero de la
   asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
-*  [Objetivo 1 del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
+*  [Objetivo 1 del
+   proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
+
+## Clase conjunta 21 de septiembre
+
+* Para los que *no hayan empezado el objetivo 0*: [juego de
+  rol](http://jj.github.io/IV/documentos/actividades/juego-rol-design-thinking). Si
+  no se ha superado el objetivo 0, y se quiere intentar de nuevo, también se
+  puede.
+
+* Para los que *no hayan superado el objetivo 0*: consultar los [errores
+  frecuentes en el objetivo 0](errores-objetivo-0.md), tratar de evitarlos en el
+  envío, y consultar con el profesor.
+
+* Para los que *hayan terminado el objetivo 0*: breve explicación por parte del profesor.
 
 ## Errores frecuentes
 
 Consulta los [errores frecuentes en el objetivo 0](errores-objetivo-0.md) para
 tratar de evitarlos.
 
-## Siguientes sesiones
+## Otras sesiones
 
 [Semana anterior](semana-01.md) y [siguiente](semana-03.md)

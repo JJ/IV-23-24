@@ -28,3 +28,10 @@
 * Inventar problemas que no son reales desde el desconocimiento de las personas
   que tienen esa problemática. Una vez más, es imprescindible tener conocimiento
   real del problema para que se pueda intentar resolver.
+
+* Expresar el problema como "la persona *quiere* o *desea*". Esto será, en todo
+  caso, una expresión de una posible solución a un problema (que puede tener
+  otras muchas y que, en todo caso, es algo que hay que explorar durante el
+  desarrollo). Un problema será, en todo caso, lo que causa que esa persona
+  quiera hacer esa actividad (o cualquier otra que pueda resolverle el
+  problema).

@@ -9,5 +9,6 @@ material de la sesión que te hayas perdido, o consúltalos por orden
 cronológico. Presta especial atención a los *errores frecuentes* que te ayudarán
 a resolver los problemas que se te presenten en cada objetivo.
 
+* [Segunda semana del curso](semana-02.md).
 * [Primera semana del curso](semana-01.md).
 

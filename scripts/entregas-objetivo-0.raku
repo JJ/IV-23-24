@@ -19,9 +19,12 @@ my $iv = IV::Stats.new();
 my $entregados = Set.new( $iv.hecha-entrega(0).keys.map( { lc($_)}) );
 
 my $asistentes-que-han-entregado = $entregados ∩ $asistentes-matriculados;
-say "Asistentes que han entregado\n\t", $asistentes-que-han-entregado;
+say "Asistentes que han entregado\n\t", sorted-elems($asistentes-que-han-entregado);
 say "Asistentes que no han entregado\n\t",
-        $asistentes-matriculados (-) $asistentes-que-han-entregado;
-say "No asistentes que han entregado\n\t", $entregados ∩ $no-asistentes;
+         sorted-elems($asistentes-matriculados (-) $asistentes-que-han-entregado);
+say "No asistentes que han entregado\n\t", sorted-elems($entregados ∩ $no-asistentes);
 
 
+sub sorted-elems( Set $a-set, $separator= " " ) {
+    return $a-set.keys.sort.join( $separator );
+}

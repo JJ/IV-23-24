@@ -35,7 +35,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 * [Objetivo cero de la
   asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
-*  [Objetivo 1 del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura),
+*  [Objetivo 1 del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 
 ## Errores frecuentes
 

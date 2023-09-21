@@ -35,3 +35,7 @@
   desarrollo). Un problema será, en todo caso, lo que causa que esa persona
   quiera hacer esa actividad (o cualquier otra que pueda resolverle el
   problema).
+
+* Escribir el problema sobreentendiendo lo que se ha hablado en clase con el
+  profesor. Se debe entregar de forma que incluso un profesor olvidadizo, u
+  otro, entienda de qué se está hablando.

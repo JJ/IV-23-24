@@ -38,7 +38,7 @@
 | <!-- Enlace de Javito198 --> | | |
 | <!-- Enlace de S P A --> | | |
 | <!-- Enlace de spmanolo --> | | |
-| <!-- Enlace de carlosservi --> | | |
+| [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/6) |v0.0.1 | |
 | <!-- Enlace de raultl12 --> | | |
 | <!-- Enlace de manuelvico0102 --> | | |
 | <!-- Enlace de johnwaves --> | | |

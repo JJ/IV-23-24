@@ -12,7 +12,7 @@ iniciales.
 | https://github.com/danieeeld2/LogisticsRoutes/pull/1 | v0.0.1 |✓ |
 | [Enlace de LuciaAnsino](https://github.com/LuciaAnsino/CompraOnline/pull/1) | v0.0.1 | |
 | [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/1) | v0.0.1 | |
-| <!-- Enlace de giorgiogiovanni --> | | |
+| [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/sh-car-analizer/pull/1) | v0.0.1 | |
 | [Enlace de PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/1) | v0.0.1 | |
 | <!-- Enlace de danibarranqueroo --> | | |
 | <!-- Enlace de Amadocm --> | | |

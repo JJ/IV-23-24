@@ -18,7 +18,7 @@
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de F A D --> | | |
-| <!-- Enlace de diagmatrix --> | | |
+| [Enlace de diagmatrix](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/9) | v0.0.1 | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de javigp2002 --> | | |
 | <!-- Enlace de shvtwp --> | | |

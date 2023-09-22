@@ -40,5 +40,5 @@
 | <!-- Enlace de spmanolo --> | | |
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/6) |v0.0.1 | |
 | <!-- Enlace de raultl12 --> | | |
-| <!-- Enlace de manuelvico0102 --> | | |
+| [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/2) | v0.0.1 | |
 | <!-- Enlace de johnwaves --> | | |

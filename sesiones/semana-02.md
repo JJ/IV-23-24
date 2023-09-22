@@ -29,6 +29,21 @@ siguiente lista de comprobación:
 Comprueba también los [contenidos de la primera semana](semana-01.md)
 para ponerte al día.
 
+## Objetivos alcanzados hasta ahora
+
+
+```
+ 0 🧮: 12%🚧 52%✅ 35%❌ ⇒
+     🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮:  7%🚧  0%✅ 92%❌ ⇒
+     🚧 🚧 🚧
+
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
+
 ## Material de la asignatura
 
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).

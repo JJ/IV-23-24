@@ -10,10 +10,10 @@ iniciales.
 |--------------------------------------------|---------|-----------|
 | [Enlace de sergioae19](https://github.com/sergioae19/CalendarioSemanal/pull/1)|v.0.0.2 | |
 | https://github.com/danieeeld2/LogisticsRoutes/pull/1 | v0.0.1 |✓ |
-| [Enlace de LuciaAnsino](https://github.com/LuciaAnsino/CompraOnline/pull/1) | v0.0.1 | |
-| [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/1) | v0.0.1 | |
+| [Enlace de LuciaAnsino](https://github.com/LuciaAnsino/CompraOnline/pull/1) | v0.0.1 | ✓ |
+| [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/1) | v0.0.1 | ✓ |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/sh-car-analizer/pull/1) | v0.0.1 | |
-| [Enlace de PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/1) | v0.0.1 | |
+| [Enlace de PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de danibarranqueroo --> | | |
 | <!-- Enlace de Amadocm --> | | |
 | [Enlace de marinajcs](https://github.com/marinajcs/asignacionTareas/pull/1) | v0.0.1 |✓ |
@@ -26,13 +26,13 @@ iniciales.
 | <!-- Enlace de F A D --> | | |
 | https://github.com/diagmatrix/maybe-better-maybe-worse/pull/1 | v0.0.1 |✓ |
 | [Enlace de JaimeGM96](https://github.com/JaimeGM96/GestorTareas/pull/1) | v0.0.1 | |
-|[Enlace de JaviGP2002](https://github.com/javigp2002/LazyFood/pull/1)|v0.0.1 | |
+|[Enlace de JaviGP2002](https://github.com/javigp2002/LazyFood/pull/1)|v0.0.1 | ✓ |
 | <!-- Enlace de shvtwp --> | | |
-| [Enlace de MarioGuisado](https://github.com/MarioGuisado/StudyTogether/pull/1) | v0.0.1 | |
+| [Enlace de MarioGuisado](https://github.com/MarioGuisado/StudyTogether/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de J P S --> | | |
 | https://github.com/Morad02/F1Data/pull/1 | v0.0.1 |✓ |
 | <!-- Enlace de albertolj --> | | |
-| [Enlace de Christianlr](https://github.com/Christianlr/MIWeather/pull/1) | v0.0.1 | |
+| [Enlace de Christianlr](https://github.com/Christianlr/MIWeather/pull/1) | v0.0.1 | ✓ |
 | https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de josemponce --> | | |
 | https://github.com/smallPingu/antiTarjetas/pull/1 | v0.0.1 | |
@@ -47,4 +47,4 @@ iniciales.
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/1) |v0.0.2| ✓ |
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | ✓ |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/1) | v0.0.1 |✓ |
-| [QuickPath Taxi](https://github.com/johnwaves/quickpath-taxi/pull/3)| v0.0.1 | |
+| [QuickPath Taxi](https://github.com/johnwaves/quickpath-taxi/pull/3)| v0.0.1 |✓ |

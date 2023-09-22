@@ -13,7 +13,7 @@
 | <!-- Enlace de marinajcs --> | | |
 | <!-- Enlace de C V C --> | | |
 | <!-- Enlace de adelahera --> | | |
-| <!-- Enlace de puchy22 --> | | |
+| [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/2) | v.0.0.1 | |
 | <!-- Enlace de carlotiii30 --> | | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
@@ -24,7 +24,7 @@
 | <!-- Enlace de shvtwp --> | | |
 | <!-- Enlace de MarioGuisado --> | | |
 | <!-- Enlace de J P S --> | | |
-| <!-- Enlace de Morad02 --> | | |
+| [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/2) | v.0.0.1 | |
 | <!-- Enlace de albertolj --> | | |
 | <!-- Enlace de Christianlr --> | | |
 | <!-- Enlace de pluque01 --> | | |
@@ -38,7 +38,7 @@
 | <!-- Enlace de Javito198 --> | | |
 | <!-- Enlace de S P A --> | | |
 | <!-- Enlace de spmanolo --> | | |
-| <!-- Enlace de carlosservi --> | | |
+| [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/6) |v0.0.1 | |
 | <!-- Enlace de raultl12 --> | | |
 | <!-- Enlace de manuelvico0102 --> | | |
 | <!-- Enlace de johnwaves --> | | |

@@ -48,3 +48,4 @@ iniciales.
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | ✓ |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/1) | v0.0.1 |✓ |
 | [QuickPath Taxi](https://github.com/johnwaves/quickpath-taxi/pull/3)| v0.0.1 |✓ |
+| [Enlace de albertolj] (https://github.com/albertolj/Proyecto-Horario-Enfermera/pull/1)| v0.0.1 | |

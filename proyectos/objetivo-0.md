@@ -31,14 +31,12 @@ iniciales.
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/StudyTogether/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de J P S --> | | |
 | https://github.com/Morad02/F1Data/pull/1 | v0.0.1 |✓ |
-| <!-- Enlace de albertolj --> | | |
+| [Enlace de albertolj] (https://github.com/albertolj/Proyecto-Horario-Enfermera/pull/1)| v0.0.1 | |
 | [Enlace de Christianlr](https://github.com/Christianlr/MIWeather/pull/1) | v0.0.1 | ✓ |
 | https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de josemponce --> | | |
 | https://github.com/smallPingu/antiTarjetas/pull/1 | v0.0.1 | |
-| [chelunike didactic-chainsaw
-|PR-1](https://github.com/chelunike/didactic-chainsaw/pull/1) | v0.0.1
-|| ✓ |
+| [chelunike didactic-chainsaw](https://github.com/chelunike/didactic-chainsaw/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de M M M --> | | |
 | https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R L O E --> | | |
@@ -50,4 +48,4 @@ iniciales.
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | ✓ |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/1) | v0.0.1 |✓ |
 | [QuickPath Taxi](https://github.com/johnwaves/quickpath-taxi/pull/3)| v0.0.1 |✓ |
-| [Enlace de albertolj] (https://github.com/albertolj/Proyecto-Horario-Enfermera/pull/1)| v0.0.1 | |
+

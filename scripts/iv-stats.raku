@@ -6,7 +6,6 @@ my $stats = IV::Stats.new;
 my $todos = $stats.estudiantes.elems;
 
 for $stats.objetivos -> $o {
-    say $stats.cumple-objetivo($o);
     my $aceptados = $stats.cumple-objetivo($o).elems;
     my $entregados = $stats.hecha-entrega($o).elems;
     say sprintf( "%2d 🧮: %2d%%🚧 %2d%%✅ %2d%%❌ ⇒ \n     ",

@@ -7,7 +7,7 @@ my $todos = $stats.estudiantes.elems;
 
 for $stats.objetivos -> $o {
     say $stats.cumple-objetivo($o);
-    say $stats.hecha-entrega($o);
+    my $aceptados = $stats.cumple-objetivo($o).elems;
     my $entregados = $stats.hecha-entrega($o).elems;
     say sprintf( "%2d 🧮: %2d%%🚧 %2d%%✅ %2d%%❌ ⇒ \n     ",
             $o,

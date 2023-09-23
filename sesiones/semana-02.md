@@ -1,4 +1,4 @@
-# Semana del 18 de septiembre; comienzo del curso
+# Semana del 18 de septiembre
 
 > Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
 
@@ -60,15 +60,11 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
   no se ha superado el objetivo 0, y se quiere intentar de nuevo, también se
   puede.
 
-* Para los que *no hayan superado el objetivo 0*: consultar los [errores
-  frecuentes en el objetivo 0](errores-objetivo-0.md), tratar de evitarlos en el
-  envío, y consultar con el profesor.
-
 * Para los que *hayan terminado el objetivo 0*: breve explicación por parte del profesor.
 
 ## Errores frecuentes
 
-Consulta los [errores frecuentes en el objetivo 0](errores-objetivo-0.md) para
+Consulta los [errores frecuentes en el objetivo 0](../errores/errores-objetivo-0.md) para
 tratar de evitarlos.
 
 ## Otras sesiones

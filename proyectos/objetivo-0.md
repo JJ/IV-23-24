@@ -31,7 +31,7 @@ iniciales.
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/StudyTogether/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de J P S --> | | |
 | https://github.com/Morad02/F1Data/pull/1 | v0.0.1 |✓ |
-| [Enlace de albertolj] (https://github.com/albertolj/Proyecto-Horario-Enfermera/pull/1)| v0.0.1 | |
+| [Enlace de albertolj](https://github.com/albertolj/Proyecto-Horario-Enfermera/pull/1)| v0.0.1 | |
 | [Enlace de Christianlr](https://github.com/Christianlr/MIWeather/pull/1) | v0.0.1 | ✓ |
 | https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de josemponce --> | | |

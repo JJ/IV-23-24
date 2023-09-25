@@ -48,7 +48,7 @@ for ( my $i = 0; $i < $num_reviewers; $i ++ ) {
 
 my $data = "[🔗](https://github.com/$user/$repo/pull/$pull_number) ⛹ Revisores → ". join(" ", @reviewers);
 my $post_data = sprintf('{"body":"%s"}', $data);
-my $url = sprintf('https://api.github.com/repos/JJ/IV-22-23/issues/%s/comments', $pr_number);
+my $url = sprintf('https://api.github.com/repos/JJ/IV-/issues/%s/comments', $pr_number);
 
 warning($data);
 

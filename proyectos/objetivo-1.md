@@ -4,7 +4,7 @@
 |--------------------------------------------|---------|-----------|
 | <!-- Enlace de sergioae19 --> | | |
 | [Enlace de danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/6) | v.0.0.1 | |
-| <!-- Enlace de LuciaAnsino --> | | |
+| [Enlace de LuciaAnsino](https://github.com/LuciaAnsino/CompraOnline/pull/2) | v0.0.1 | |
 | <!-- Enlace de Enaraque --> | | |
 | <!-- Enlace de B G J --> | | |
 | <!-- Enlace de PabloBarTo --> | | |

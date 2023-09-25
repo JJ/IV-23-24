@@ -7,7 +7,7 @@
 | [Enlace de LuciaAnsino](https://github.com/LuciaAnsino/CompraOnline/pull/2) | v0.0.1 | |
 | <!-- Enlace de Enaraque --> | | |
 | <!-- Enlace de B G J --> | | |
-| <!-- Enlace de PabloBarTo --> | | |
+| [Enlace de PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/2) | v0.0.1 | |
 | <!-- Enlace de danibarranqueroo --> | | |
 | <!-- Enlace de Amadocm --> | | |
 | <!-- Enlace de marinajcs --> | | |

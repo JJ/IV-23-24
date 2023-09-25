@@ -32,7 +32,7 @@
 | <!-- Enlace de smallPingu --> | | |
 | <!-- Enlace de chelunike --> | | |
 | <!-- Enlace de M M M --> | | |
-| [Enlace de moshidev](https://github.com/moshidev/MaquiTracker/pull/4) | v0.1.0 | |
+| [Enlace de moshidev](https://github.com/moshidev/MaquiTracker/pull/4) | v0.1.1 | |
 | <!-- Enlace de R L O E --> | | |
 | <!-- Enlace de migueruiz --> | | |
 | <!-- Enlace de Javito198 --> | | |

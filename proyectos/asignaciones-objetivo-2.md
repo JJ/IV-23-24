@@ -2,4 +2,4 @@
 
 | Quien | Trabaja sobre el repo de |
 |------------|---------------------|
-| morad02    | marioguisado        |
+| Morad02    | MarioGuisado        |

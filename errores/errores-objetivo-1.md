@@ -25,6 +25,8 @@
   lo que tiene que incluir una clase. Todas estas cosas tienen que ser
   consecuencia del proceso de desarrollo.
 
+## Con respecto a las historias de usuario
+
 * De las historias de usuario, habrá algunas que se hayan creado
   simplemente para evidenciar comprensión del problema, y otras que
   realmente se van a llevar a cabo en la asignatura. Es esencial

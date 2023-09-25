@@ -10,6 +10,11 @@ todo caso, asistir a las primeras clases, al menos hasta que complete el
 
 ## Antes de la clase
 
+Habría que haber entregado ya el objetivo 0. En los dos cursos anteriores, el
+90% de los que lo entregaron lo hicieron en 14 días a partir del comienzo; el
+75% lo hizo antes de esta semana.
+
+Una vez entregado, se debería de haber comenzado ya a trabajar con el objetivo 1.
 
 ## Objetivos alcanzados hasta ahora
 

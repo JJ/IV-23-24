@@ -7,6 +7,14 @@
 * No mirar bien la lista de comprobación o no insertarla en el lugar adecuado
   (en el cuerpo del PR, como se indican en las instrucciones).
 
+* Las versiones usan un formato en el que la `v` no es una abreviatura, sino una
+  especie de etiqueta. Si la usas, debe ir pegada al número, no separada por
+  punto.
+
+* Si este es el objetivo 1, no podéis volver a usar la misma versión que en
+  el 0. Algo tendrá que avanzar, el primer número (*major*) o si todavía no
+  habéis llegado a un release de verdad, el segundo (*minor*).
+
 ## Con respecto a los *milestones*
 
 * Insistir en poner cosas como "estructuras de datos" o "funciones" cuando lo

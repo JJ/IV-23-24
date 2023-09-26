@@ -31,7 +31,6 @@ para ponerte al día.
 
 ## Objetivos alcanzados hasta ahora
 
-
 ```text
  0 🧮: 12%🚧 52%✅ 35%❌ ⇒
      🚧 🚧 🚧 🚧 🚧
@@ -70,6 +69,5 @@ tratar de evitarlos.
 ## Otras sesiones
 
 [Semana anterior](semana-01.md) y [siguiente](semana-03.md)
-
 
 [def]: ../errores/errores-objetivo-0.md

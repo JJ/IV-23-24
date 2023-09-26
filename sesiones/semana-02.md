@@ -20,10 +20,10 @@ al salir de clase.
 Si esta es tu primera semana, comprueba que todo está listo pasando la
 siguiente lista de comprobación:
 
-  * ¿Estáis en el grupo de Telegram?
-  * ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
+* ¿Estáis en el grupo de Telegram?
+* ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
     compartida?
-  * ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
+* ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
     equipo que vayáis a usar en clase?
 
 Comprueba también los [contenidos de la primera semana](semana-01.md)
@@ -32,7 +32,7 @@ para ponerte al día.
 ## Objetivos alcanzados hasta ahora
 
 
-```
+```text
  0 🧮: 12%🚧 52%✅ 35%❌ ⇒
      🚧 🚧 🚧 🚧 🚧
      ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
@@ -50,7 +50,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 * [Objetivo cero de la
   asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
-*  [Objetivo 1 del
+* [Objetivo 1 del
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 
 ## Clase conjunta 21 de septiembre
@@ -64,9 +64,12 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 ## Errores frecuentes
 
-Consulta los [errores frecuentes en el objetivo 0](../errores/errores-objetivo-0.md) para
+Consulta los [errores frecuentes en el objetivo 0][def] para
 tratar de evitarlos.
 
 ## Otras sesiones
 
 [Semana anterior](semana-01.md) y [siguiente](semana-03.md)
+
+
+[def]: ../errores/errores-objetivo-0.md

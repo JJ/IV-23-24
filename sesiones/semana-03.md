@@ -43,4 +43,4 @@ tratar de evitarlos.
 
 ## Otras sesiones
 
-[Semana anterior](semana-01.md) y [siguiente](semana-03.md)
+[Semana anterior](semana-02.md) y [siguiente](semana-04.md)

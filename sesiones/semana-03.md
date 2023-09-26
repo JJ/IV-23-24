@@ -1,12 +1,10 @@
 # Semana del 25 de septiembre
 
-
 Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
 posible, enterarse de los contenidos impartidos en la misma a través de esta
 web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
 todo caso, asistir a las primeras clases, al menos hasta que complete el
 [segundo objetivo](http://jj.github.io/IV/documentos/proyecto/2.Modelo).
-
 
 ## Antes de la clase
 
@@ -39,7 +37,6 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 Consulta los [errores frecuentes en el objetivo 0](../errores/errores-objetivo-0.md) y en el [objetivo 1](../errores/errores-objetivo-1.md) para
 tratar de evitarlos.
-
 
 ## Otras sesiones
 

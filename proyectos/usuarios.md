@@ -13,7 +13,7 @@
 | <!-- Enlace de carlotiii30 --> | | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
-| <!-- Enlace de F A D --> | | |
+| <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de diagmatrix --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de javigp2002 --> | | |
@@ -32,7 +32,7 @@
 | <!-- Enlace de R L O E --> | | |
 | <!-- Enlace de migueruiz --> | | |
 | <!-- Enlace de Javito198 --> | | |
-| <!-- Enlace de S P A --> | | |
+| <!-- Enlace de Alvarosanpal --> | | |
 | <!-- Enlace de spmanolo --> | | |
 | <!-- Enlace de carlosservi --> | | |
 | <!-- Enlace de raultl12 --> | | |

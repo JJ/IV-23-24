@@ -31,7 +31,19 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * Para *quien no haya entregado el objetivo 0*: puesta al día, revisión de obstáculos, y entrega del objetivo lo antes posible.
 * Para *quien no haya superado el objetivo 0*: revisión de errores frecuentes, y entrega lo antes posible.
 * Revisión de conceptos del [objetivo 1](http://jj.github.io/IV/documentos/proyecto/1.Planificacion).
-* Introducción al [objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo) y sus conceptos más importantes, como *domain driven design*.
+* Introducción al [objetivo 2 del
+  proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo) y sus conceptos
+  más importantes, como *domain driven design*.
+
+En la clase conjunta del 28 de septiembre podemos elegir entre [este repositorio
+del año pasado](https://github.com/RafaelT00/AutoIV) o [este
+otro](https://github.com/Davidmd00/iv-DMD/pull/7/files). Sobre el repositorio
+elegido trabajaremos toda la clase, partiendo del objetivo 1 (que se hará de
+nuevo) y de ahí en adelante. La participación en este hackatón, localmente en
+clase o de forma remota, es altamente aconsejable porque abarcará del objetivo 1
+al [objetivo 6](http://jj.github.io/IV/documentos/proyecto/5.Docker), poniendo
+en práctica las diferentes metodologías y buenas prácticas que luego aplicaremos
+en nuestros propios proyectos.
 
 ## Errores frecuentes
 

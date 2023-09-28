@@ -12,7 +12,7 @@
 | <!-- Enlace de Amadocm --> | | |
 | [Enlace de marinajcs](https://github.com/marinajcs/asignacionTareas/pull/3) | v0.1.0 | |
 | <!-- Enlace de C V C --> | | |
-| [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/5) | v0.0.1 | |
+| [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/5) | v0.0.1 | ✓ |
 | [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/2) | v.0.0.1 |✓  |
 | [Enlace de carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/3) | v0.0.2 | |
 | <!-- Enlace de sergioffdez --> | | |

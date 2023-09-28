@@ -28,7 +28,7 @@
 | <!-- Enlace de albertolj --> | | |
 | [Enlace de Christianlr](https://github.com/Christianlr/MIBarberSchedule/pull/5)| v0.0.1 | |
 | [Enlace de pluque01](https://github.com/pluque01/Smart-Location/pull/5) | v0.0.1 | |
-| <!-- Enlace de josemponce --> | | |
+| [Enlace de josemponce](https://github.com/josemponce/RutaMusical/pull/2) | v0.0.1 | |
 | <!-- Enlace de smallPingu --> | | |
 | <!-- Enlace de chelunike --> | | |
 | <!-- Enlace de M M M --> | | |

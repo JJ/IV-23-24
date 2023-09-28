@@ -16,6 +16,18 @@ Una vez entregado, se debería de haber comenzado ya a trabajar con el objetivo 
 
 ## Objetivos alcanzados hasta ahora
 
+```text
+ 0 🧮: 17%🚧 60%✅ 22%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 37%🚧 17%✅ 45%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
+
+
 ## Material de la asignatura
 
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).

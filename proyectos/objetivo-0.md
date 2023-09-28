@@ -14,7 +14,7 @@ iniciales.
 | [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/1) | v0.0.1 | ✓ |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/sh-car-analizer/pull/1) | v0.0.1 | |
 | [Enlace de PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/1) | v0.0.1 | ✓ |
-| [Enlace de danibarranqueroo](https://github.com/danibarranqueroo/CestApp/pull/1) | v0.0.2 | |
+| [Enlace de danibarranqueroo](https://github.com/danibarranqueroo/CestApp/pull/1) | v0.0.2 | ✓ |
 | <!-- Enlace de Amadocm --> | | |
 | [Enlace de marinajcs](https://github.com/marinajcs/asignacionTareas/pull/1) | v0.0.1 |✓ |
 | <!-- Enlace de C V C --> | | |

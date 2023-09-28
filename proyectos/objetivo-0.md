@@ -33,7 +33,7 @@ iniciales.
 | https://github.com/Morad02/F1Data/pull/1 | v0.0.1 |✓ |
 | [Enlace de albertolj](https://github.com/albertolj/Proyecto-Horario-Enfermera/pull/1)| v0.0.1 | |
 | [Enlace de Christianlr](https://github.com/Christianlr/MIWeather/pull/1) | v0.0.1 | ✓ |
-| https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | ✓ |
+| [Enlace de pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/6) | v1.0.1 | |
 | [Enlace de josemponce](https://github.com/josemponce/CreadorRecetas/pull/1)| v0.0.1 | ✓ |
 | https://github.com/smallPingu/antiTarjetas/pull/1 | v0.0.1 | |
 | [chelunike didactic-chainsaw](https://github.com/chelunike/didactic-chainsaw/pull/1) | v0.0.1 | ✓ |

@@ -219,12 +219,12 @@ jobs:
       repo: ${{ needs.ops-on-pr.outputs.repo }}
       pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
       this_pr_number: ${{github.event.number}}
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      COMMENT_TOKEN: ${{ secrets.COMMENT_TOKEN }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
       - name: Fuentes de este repo (para JSON)
         uses: actions/checkout@v3
       - name: Paquete no fatpackeado
-        run: sudo cpan LWP::Protocol::https
+        run: sudo apt install liblwp-protocol-https-perl
       - name: Revisores aleatorios
         run: scripts/random-reviewer

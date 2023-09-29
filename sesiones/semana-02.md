@@ -1,4 +1,4 @@
-# Semana del 18 de septiembre; comienzo del curso
+# Semana del 18 de septiembre
 
 > Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
 
@@ -20,10 +20,10 @@ al salir de clase.
 Si esta es tu primera semana, comprueba que todo está listo pasando la
 siguiente lista de comprobación:
 
-  * ¿Estáis en el grupo de Telegram?
-  * ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
+* ¿Estáis en el grupo de Telegram?
+* ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
     compartida?
-  * ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
+* ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
     equipo que vayáis a usar en clase?
 
 Comprueba también los [contenidos de la primera semana](semana-01.md)
@@ -31,8 +31,7 @@ para ponerte al día.
 
 ## Objetivos alcanzados hasta ahora
 
-
-```
+```text
  0 🧮: 12%🚧 52%✅ 35%❌ ⇒
      🚧 🚧 🚧 🚧 🚧
      ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
@@ -50,7 +49,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 * [Objetivo cero de la
   asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
-*  [Objetivo 1 del
+* [Objetivo 1 del
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 
 ## Clase conjunta 21 de septiembre
@@ -60,17 +59,15 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
   no se ha superado el objetivo 0, y se quiere intentar de nuevo, también se
   puede.
 
-* Para los que *no hayan superado el objetivo 0*: consultar los [errores
-  frecuentes en el objetivo 0](errores-objetivo-0.md), tratar de evitarlos en el
-  envío, y consultar con el profesor.
-
 * Para los que *hayan terminado el objetivo 0*: breve explicación por parte del profesor.
 
 ## Errores frecuentes
 
-Consulta los [errores frecuentes en el objetivo 0](errores-objetivo-0.md) para
+Consulta los [errores frecuentes en el objetivo 0][def] para
 tratar de evitarlos.
 
 ## Otras sesiones
 
 [Semana anterior](semana-01.md) y [siguiente](semana-03.md)
+
+[def]: ../errores/errores-objetivo-0.md

@@ -42,12 +42,15 @@ method new( Str $file = "{PROYECTOS}usuarios.md") {
         my @contenido = $f.IO.lines.grep(/"|"/);
         @objetivos[$objetivo] = set();
         @entregas[$objetivo] = set();
+
         for @student-list.kv -> $index, $usuario {
-            if ( @contenido[$index + 2] ~~ /"✓"/ ) {
+            my $indice-en-lista = $index+2;
+            my $fila = @contenido[$indice-en-lista];
+            if ( $fila ~~ /"✓"/ ) {
                 %students{$usuario}<objetivos> ∪= +$objetivo;
                 @objetivos[$objetivo] ∪= $usuario;
             }
-            if ( @contenido[$index + 2] ~~ /"github.com"/ ) {
+            if ( $fila ~~ /"github.com"/ ) {
                 %students{$usuario}<entrega> = +$objetivo ;
                 @entregas[$objetivo] ∪= $usuario;
             }

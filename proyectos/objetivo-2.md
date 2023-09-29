@@ -1,3 +1,7 @@
+# Objetivo 2
+
+| URL                                        | Versión | Alcanzado |
+|--------------------------------------------|---------|-----------|
 | <!-- Enlace de sergioae19 --> | | |
 | <!-- Enlace de danieeeld2 --> | | |
 | <!-- Enlace de LuciaAnsino --> | | |

@@ -15,7 +15,7 @@ iniciales.
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/sh-car-analizer/pull/1) | v0.0.1 | |
 | [Enlace de PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/1) | v0.0.1 | ✓ |
 | [Enlace de danibarranqueroo](https://github.com/danibarranqueroo/CestApp/pull/1) | v0.0.2 | ✓ |
-| <!-- Enlace de Amadocm --> | | |
+| [Enlace de Amadocm](https://github.com/Amadorcm/OrganizaT/pull/1) | v0.0.1| |
 | [Enlace de marinajcs](https://github.com/marinajcs/asignacionTareas/pull/1) | v0.0.1 |✓ |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/adelahera/basket-stats/pull/2 | v0.0.2 |✓ |

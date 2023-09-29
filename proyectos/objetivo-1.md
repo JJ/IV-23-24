@@ -18,7 +18,7 @@
 | <!-- Enlace de sergioffdez --> | | |
 | [Enlace de DarckMonster](https://github.com/DarckMonster/PCscrap/pull/2) | v0.0.1 | |
 | <!-- Enlace de F A D --> | | |
-| [Enlace de diagmatrix](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/9) | v0.0.1 | |
+| [Enlace de diagmatrix](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/9) | v0.0.1 | ✓ |
 | <!-- Enlace de JaimeGM96 --> | | |
 | [Enlace de JaviGp2002](https://github.com/javigp2002/LazyFood/pull/2) | v.0.0.1 | ✓ |
 | <!-- Enlace de shvtwp --> | | |

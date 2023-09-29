@@ -34,7 +34,7 @@
 | <!-- Enlace de M M M --> | | |
 | [Enlace de moshidev](https://github.com/moshidev/MaquiTracker/pull/4) | v0.1.0 | |
 | <!-- Enlace de R L O E --> | | |
-| [Enlace de migueruiz] (https://github.com/migueruiz/Automatricula/pull/2) | v0.0.1 | |
+| [Enlace de migueruiz] (https://github.com/migueruiz/Automatricula/pull/2) | v0.0.1 | ✓|
 | <!-- Enlace de Javito198 --> | | |
 | <!-- Enlace de S P A --> | | |
 | [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/4) | v0.0.1 | |

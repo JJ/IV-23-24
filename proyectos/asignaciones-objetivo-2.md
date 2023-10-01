@@ -6,3 +6,4 @@
 | manuelvico0102| Morad02          |
 | MarioGuisado | LuciaAnsino          |
 | LuciaAnsino          |puchy22 |
+| danieeeld2 | josemponce |

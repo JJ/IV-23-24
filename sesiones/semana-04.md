@@ -1,14 +1,36 @@
 Cuarta semana, a partir del 2 de octubre
 =============
 
-Comienza el hackatón en todas las clases conjuntas. Se recomienda
-*muy* encarecidamente la asistencia a clase.
+Comienza el hacktoberfest. Se recomienda a los estudiantes que se den
+de alta en la web, así como la configuración de sus repositorios para
+que acepten PRs en el marco del mismo, sobre todo en este objetivo 2
+que vamos a comenzar.
 
-A estas alturas se deberían de haber entregado ya los objetivos cero y
-uno.
+Continuamos el hackatón en todas las clases conjuntas sobre el
+proyecto [de asignación de vacaciones de una
+empresa](https://github.com/JJ/KeMeVoi). Se recomienda *muy*
+encarecidamente la asistencia a clase.
 
 ## Antes de la clase
 
 Habría que haber entregado ya el objetivo 0. Todos los que aprobaron en años
 anteriores lo habían entregado ya. El 50% ya habían entregado el objetivo 1, y
-el 75% lo haría dentro de esta semana.
+el 75% lo haría dentro de esta semana que comienza ahora.
+
+## Material de la asignatura
+
+Todo [el material de la asignatura está en
+GitHub](http://jj.github.io/IV). Objetivos vigentes:
+
+* [Objetivo 1 del
+   proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
+* [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
+
+## Errores frecuentes
+
+Consulta los [errores frecuentes en el objetivo 0](../errores/errores-objetivo-0.md) y en el [objetivo 1](../errores/errores-objetivo-1.md) para
+tratar de evitarlos.
+
+## Otras sesiones
+
+[Semana anterior](semana-03.md) y [siguiente](semana-05.md)

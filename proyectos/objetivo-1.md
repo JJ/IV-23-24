@@ -21,7 +21,7 @@
 | [Enlace de diagmatrix](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/9) | v0.0.1 | ✓ |
 | [Enlace de JaimeGM96](https://github.com/JaimeGM96/RutasAutobuses/pull/2) | v0.1.2 | |
 | [Enlace de JaviGp2002](https://github.com/javigp2002/LazyFood/pull/2) | v.0.0.1 | ✓ |
-| [Enlace de shvtwp](https://github.com/shvtwp/DePendiente/pull/5) | v.0.0.1 | |
+| [Enlace de shvtwp](https://github.com/shvtwp/DePendiente/pull/5) | v.0.0.2 | |
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/TrainMe/pull/3) | v0.0.1 | ✓ |
 | <!-- Enlace de J P S --> | | |
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/2) | v.0.0.1 | ✓ |

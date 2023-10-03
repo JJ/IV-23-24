@@ -26,7 +26,7 @@
 | <!-- Enlace de J P S --> | | |
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/2) | v.0.0.1 | ✓ |
 | <!-- Enlace de albertolj --> | | |
-| [Enlace de Christianlr](https://github.com/Christianlr/MIBarberSchedule/pull/5)| v0.0.1 | |
+| [Enlace de Christianlr](https://github.com/Christianlr/MIBarberSchedule/pull/5)| v0.0.1 | ✓ |
 | [Enlace de pluque01](https://github.com/pluque01/Smart-Location/pull/5) | v0.0.1 | ✓ |
 | [Enlace de josemponce](https://github.com/josemponce/RutaMusical/pull/2) | v0.0.3 |✓ |
 | <!-- Enlace de smallPingu --> | | |

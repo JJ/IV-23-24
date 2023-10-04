@@ -7,7 +7,7 @@
 | <!-- Enlace de danibarranqueroo --> | | |
 | <!-- Enlace de Amadocm --> | | |
 | <!-- Enlace de marinajcs --> | | |
-| <!-- Enlace de C V C --> | | |
+| <!-- Enlace de GiancaGrizzly --> | | |
 | <!-- Enlace de adelahera --> | | |
 | <!-- Enlace de puchy22 --> | | |
 | <!-- Enlace de carlotiii30 --> | | |
@@ -32,7 +32,7 @@
 | <!-- Enlace de R L O E --> | | |
 | <!-- Enlace de migueruiz --> | | |
 | <!-- Enlace de Javito198 --> | | |
-| <!-- Enlace de AlvaroSanPal95 --> | | |
+| <!-- Enlace de Alvarosanpal --> | | |
 | <!-- Enlace de spmanolo --> | | |
 | <!-- Enlace de carlosservi --> | | |
 | <!-- Enlace de raultl12 --> | | |

@@ -11,6 +11,9 @@ proyecto [de asignación de vacaciones de una
 empresa](https://github.com/JJ/KeMeVoi). Se recomienda *muy*
 encarecidamente la asistencia a clase.
 
+La semana siguiente no es lectiva, así que este material es para las dos semanas
+sucesivas.
+
 ## Antes de la clase
 
 Habría que haber entregado ya el objetivo 0. Todos los que aprobaron en años
@@ -25,6 +28,22 @@ GitHub](http://jj.github.io/IV). Objetivos vigentes:
 * [Objetivo 1 del
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
+
+## Clase conjunta, día 5 de octubre
+
+Continuamos con [el hackatón](https://github.com/JJ/KeMeVoi). Esta es una
+actividad *presencial*, aunque se puede seguir la misma a través de la actividad
+en el repositorio y el grupo de Telegram correspondiente. En esta sesión
+
+* Reunión semanal, revisión de los issues y PRs existentes.
+* Establecimiento de las historias de usuario
+
+## Clase dividida, día 6 de octubre
+
+* Prioridad al objetivo 0, entrega y superación.
+* Objetivo 1 a continuación
+* Tratar de hacer las primeras entregas del objetivo 2
+
 
 ## Errores frecuentes
 

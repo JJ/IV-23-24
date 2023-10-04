@@ -1,11 +1,5 @@
 # Repositorio de clase de Infraestructura Virtual de la [ETSIIT](https://etsiit.ugr.es)
 
-> Este repositorio está añadido al
-  [Hacktoberfest](https://hacktoberfest.com). Puedes ayudar mirando
-  los diferentes documentos, sobre todo sobre sesiones semanales, y
-  ayudar con errores de enlaces o aportando de cualquier otra
-  forma. También se agradecen cambios a los workflows de CI que se usan.
-
 Repositorio para el material específico de cada clase, planificación y ejercicios.
 
 * Debes consultar [los apuntes de la materia](http://jj.github.io/IV) antes de

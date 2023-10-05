@@ -8,7 +8,7 @@
 | [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/2)| v0.0.2 | ✓|
 | <!-- Enlace de B G J --> | | |
 | [Enlace de PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/2) | v0.0.1 |✓ |
-| <!-- Enlace de danibarranqueroo --> | | |
+| [Enlace de danibarranqueroo](https://github.com/danibarranqueroo/TransporteEquitativo/pull/5) | v0.0.1 | |
 | <!-- Enlace de Amadocm --> | | |
 | [Enlace de marinajcs](https://github.com/marinajcs/asignacionTareas/pull/3) | v0.1.0 | ✓ |
 | <!-- Enlace de C V C --> | | |

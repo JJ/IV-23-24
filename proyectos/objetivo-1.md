@@ -16,7 +16,7 @@
 | [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/2) | v.0.0.1 |✓  |
 | [Enlace de carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/3) | v0.0.2 |✓ |
 | <!-- Enlace de sergioffdez --> | | |
-| [Enlace de DarckMonster](https://github.com/DarckMonster/PCscrap/pull/2) | v0.0.1 | |
+| [Enlace de DarckMonster](https://github.com/DarckMonster/PCscrap/pull/2) | v0.0.1 |✓|
 | <!-- Enlace de F A D --> | | |
 | [Enlace de diagmatrix](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/9) | v0.0.1 | ✓ |
 | [Enlace de JaimeGM96](https://github.com/JaimeGM96/RutasAutobuses/pull/2) | v0.1.2 | |

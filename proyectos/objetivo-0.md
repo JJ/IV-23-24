@@ -17,7 +17,7 @@ iniciales.
 | [Enlace de danibarranqueroo](https://github.com/danibarranqueroo/CestApp/pull/1) | v0.0.2 | ✓ |
 | [Enlace de Amadocm](https://github.com/Amadorcm/OrganizaT/pull/1) | v0.0.1| |
 | [Enlace de marinajcs](https://github.com/marinajcs/asignacionTareas/pull/1) | v0.0.1 |✓ |
-| <!-- Enlace de C V C --> | | |
+| <!-- Enlace de GiancaGrizzly --> | | |
 | https://github.com/adelahera/basket-stats/pull/2 | v0.0.2 |✓ |
 | [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/1) | v0.0.1 | ✓  |
 | https://github.com/carlotiii30/organizacionSemanal/pull/1 | V0.0.1 |✓ |

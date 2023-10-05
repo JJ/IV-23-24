@@ -23,7 +23,7 @@ iniciales.
 | https://github.com/carlotiii30/organizacionSemanal/pull/1 | V0.0.1 |✓ |
 | [Enlace de sergioffdez](https://github.com/sergioffdez/PDF_Cloud/pull/1) | v0.0.2 | |
 | https://github.com/DarckMonster/PCscrap/pull/1 | v0.0.1 |✓ |
-| <!-- Enlace de F A D --> | | |
+| [Enlace de eugrdfolcha](https://github.com/eugrdfolcha/IV-2023/pull/1) | v0.0.2 |  |
 | https://github.com/diagmatrix/maybe-better-maybe-worse/pull/1 | v0.0.1 |✓ |
 | [Enlace de JaimeGM96](https://github.com/JaimeGM96/GestorTareas/pull/1) | v0.0.1 | ✓ |
 |[Enlace de JaviGP2002](https://github.com/javigp2002/LazyFood/pull/1)|v0.0.1 | ✓ |

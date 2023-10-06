@@ -20,7 +20,7 @@
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de diagmatrix --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
-| [javigp2002/mi_barber](https://github.com/Christianlr/MIBarberSchedule/pull/7)|v0.2.0| |
+| [javigp2002/mi_barber](https://github.com/Christianlr/MIBarberSchedule/pull/7)| v0.2.0| |
 | <!-- Enlace de shvtwp --> | | |
 | <!-- Enlace de MarioGuisado --> | | |
 | <!-- Enlace de J P S --> | | |

@@ -20,6 +20,19 @@ Habría que haber entregado ya el objetivo 0. Todos los que aprobaron en años
 anteriores lo habían entregado ya. El 50% ya habían entregado el objetivo 1, y
 el 75% lo haría dentro de esta semana que comienza ahora.
 
+## Objetivos alcanzados hasta ahora
+
+```text
+ 0 🧮: 10%🚧 77%✅ 12%❌ ⇒
+     🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 12%🚧 55%✅ 32%❌ ⇒
+     🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
+
 ## Material de la asignatura
 
 Todo [el material de la asignatura está en

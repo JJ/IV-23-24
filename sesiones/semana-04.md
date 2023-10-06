@@ -55,8 +55,8 @@ en el repositorio y el grupo de Telegram correspondiente. En esta sesión
 
 * Prioridad al objetivo 0, entrega y superación.
 * Objetivo 1 a continuación
-* Tratar de hacer las primeras entregas del objetivo 2
-
+* Tratar de hacer las primeras entregas del objetivo 2 antes del final
+  de la clase
 
 ## Errores frecuentes
 

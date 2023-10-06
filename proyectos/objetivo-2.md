@@ -3,7 +3,7 @@
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
 | <!-- Enlace de sergioae19 --> | | |
-| [Enlace danieeeld2](https://github.com/josemponce/RutaMusical/pull/7) | v0.2.0 | |
+| [Enlace danieeeld2](https://github.com/josemponce/RutaMusical/pull/7) | v0.2.1 | |
 | <!-- Enlace de LuciaAnsino --> | | |
 | <!-- Enlace de Enaraque --> | | |
 | <!-- Enlace de giorgiogiovanni --> | | |

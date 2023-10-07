@@ -42,7 +42,7 @@ iniciales.
 | <!-- Enlace de R L O E --> | | |
 | [Enlace de migueruiz](https://github.com/migueruiz/Automatricula/pull/1)| v0.0.1 | ✓ |
 | <!-- Enlace de Javito198 --> | | |
-| [Enlace AlvaroSanPal95](https://github.com/AlvaroSanPal95/CalculaRutaFeria/pull/1) | v0.0.1 ||
+| [Enlace AlvaroSanPal95](https://github.com/AlvaroSanPal95/CalculaRutaFeria/pull/1) | v0.0.1 |✓|
 | [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/3) | v0.0.1 | ✓ |
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/1) |v0.0.2| ✓ |
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/1) | v0.0.1 | ✓ |

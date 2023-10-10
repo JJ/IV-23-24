@@ -32,7 +32,7 @@
 | [Enlace de smallPingu](https://github.com/smallPingu/antiTarjetas/pull/8)| v0.0.1 | |
 | [Enlace de chelunike](https://github.com/chelunike/didactic-chainsaw/pull/3) | v0.0.2 | |
 | <!-- Enlace de M M M --> | | |
-| [Enlace de moshidev](https://github.com/moshidev/MaquiTracker/pull/4) | v0.1.0 | |
+| [Enlace de moshidev](https://github.com/moshidev/MaquiTracker/pull/4) | v0.1.0 |✓ |
 | <!-- Enlace de R L O E --> | | |
 | [Enlace de migueruiz](https://github.com/migueruiz/Automatricula/pull/2) | v0.0.1 | ✓|
 | <!-- Enlace de Javito198 --> | | |

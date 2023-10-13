@@ -23,7 +23,7 @@ En años anteriores, el 90% de los que aprobaron había entregado ya el objetivo
      ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
  2 🧮: 10%🚧  0%✅ 90%❌ ⇒ 
      🚧 🚧 🚧 🚧
-     
+
      ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
@@ -35,7 +35,6 @@ GitHub](http://jj.github.io/IV). Objetivos vigentes:
 * [Objetivo 1 del
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
-
 
 ## Otras sesiones
 

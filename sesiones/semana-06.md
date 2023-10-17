@@ -39,7 +39,7 @@ en el repositorio y el grupo de Telegram correspondiente. En esta sesión
 
 ## Clase dividida, 20 de octubre
 
-* Prioridad a objetivo 0, entrega y superación.
+* (Si hay alguien) Prioridad a objetivo 0, entrega y superación.
 * Tratar de entregar el objetivo 2 antes del final
   de la clase
 * Revisión de objetivos 2 entregados, esté solicitada la revisión o no.

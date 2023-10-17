@@ -4,7 +4,7 @@
 |--------------------------------------------|---------|-----------|
 | <!-- Enlace de sergioae19 --> | | |
 | [Enlace danieeeld2](https://github.com/josemponce/RutaMusical/pull/7) | v0.2.2 ||
-| [Enlace de LuciaAnsino](https://github.com/puchy22/nutri-app/pull/7) | v2.0.0 | |
+| [Enlace de LuciaAnsino](https://github.com/puchy22/nutri-app/pull/7) | v0.2.0 | |
 | <!-- Enlace de Enaraque --> | | |
 | <!-- Enlace de giorgiogiovanni --> | | |
 | <!-- Enlace de PabloBarTo --> | | |

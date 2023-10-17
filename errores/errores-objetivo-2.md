@@ -17,3 +17,13 @@
 * Para cerrar cada issue, debe tener su propio `closes` delante. No se puede
   poner `closes` y luego 10 issues (ni trabajar con muchos issues en el mismo
   commit).
+
+## Sobre los objetos valor
+
+* Los objetos valor nunca tienen ID. Sólo se distinguen por su valor (por eso se
+  llaman valor).
+* Con el objeto *usuario* es con el que más errores se cometen. Para empezar en
+  muchas ocasiones y en un PMV ni siquiera hace falta una clase, es simplemente
+  un valor único. Pero para seguir, *sólo hay que incluir lo que vaya a usarse
+  en la lógica de negocio*. Ni password, ni DNI, ni nombre separado de
+  apellidos... sólo lo que se pida en la lógica de negocio.

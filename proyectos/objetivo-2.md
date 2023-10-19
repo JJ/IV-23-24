@@ -40,5 +40,5 @@
 | <!-- Enlace de spmanolo --> | | |
 | <!-- Enlace de carlosservi --> | | |
 | <!-- Enlace de raultl12 --> | | |
-| <!-- Enlace de manuelvico0102 --> | | |
+| [Enlace de manuelvico0102](https://github.com/Morad02/F1Data/pull/9) | v0.2.0 | |
 | <!-- Enlace de johnwaves --> | | |

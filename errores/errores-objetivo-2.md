@@ -5,6 +5,9 @@
 
 * No mencionar en cada mensaje de commit con qué issue se está trabajando.
 
+* No hacerlo *en los primeros 50 caracteres". Comprobarlo desplegando el commit
+  es mucho más difícil.
+
 
 ## Sobre los issues
 

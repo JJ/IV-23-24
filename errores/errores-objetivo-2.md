@@ -11,7 +11,7 @@
 * Los issues siempre deben ser problemas, pero titular un issue "el problema de
   x" no ayuda nada
 
-* Plantea la solución en el cuerpo del issue
+* Otro error frecuente es plantear la solución en el cuerpo del issue
 * Crear un mega-commit que cierra diferentes issues. Cada issue debe ser
   manejado en su(s) propio(s) commit(s).
 * Para cerrar cada issue, debe tener su propio `closes` delante. No se puede
@@ -27,3 +27,12 @@
   un valor único. Pero para seguir, *sólo hay que incluir lo que vaya a usarse
   en la lógica de negocio*. Ni password, ni DNI, ni nombre separado de
   apellidos... sólo lo que se pida en la lógica de negocio.
+
+## Sobre el código definido
+
+* Sólo hay que incluir en el código lo que sea necesario para entender el
+  modelo. Los setters, y mucho menos los getters, en general no van a ser
+  necesarios.
+* El interfaz debe reflejar las necesidades de la lógica de negocio, y no la
+  implementación. Exponer con un get todos las variables de instancia hay que
+  justificarlo, no hacerlo sistemáticamente.

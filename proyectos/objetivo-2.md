@@ -7,7 +7,7 @@
 | [Enlace de LuciaAnsino](https://github.com/puchy22/nutri-app/pull/7) | v0.2.0 | |
 | [Enlace de Enaraque](https://github.com/spmanolo/calidad-aire/pull/8) | v0.0.1 | |
 | <!-- Enlace de giorgiogiovanni --> | | |
-| [Enlace de PabloBarTo](https://github.com/javigp2002/LazyFood/pull/7) | v0.2.0 | |
+| [Enlace de PabloBarTo](https://github.com/javigp2002/LazyFood/pull/7) | v0.2.1 | |
 | <!-- Enlace de danibarranqueroo --> | | |
 | <!-- Enlace de Amadocm --> | | |
 | <!-- Enlace de marinajcs --> | | |

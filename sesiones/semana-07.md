@@ -14,6 +14,15 @@ objetivo 3.
 ## Objetivos alcanzados hasta ahora
 
 
+## Clase conjunta, día 26 de octubre
+
+Continuamos con [el hackatón](https://github.com/JJ/KeMeVoi). Esta es una
+actividad *presencial*, aunque se puede seguir la misma a través de la actividad
+en el repositorio y el grupo de Telegram correspondiente. En esta sesión
+
+* Reunión semanal, revisión de los issues y PRs existentes.
+* Creación de las historias de usuario en grupos pequeños.
+* Terminar el milestone 0
 
 ## Material de la asignatura
 

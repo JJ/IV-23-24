@@ -14,7 +14,23 @@ revisión, para comenzar con el objetivo 3 lo antes posible.
 
 ## Objetivos alcanzados hasta ahora
 
+```text
+ 0 🧮:  5%🚧 82%✅ 12%❌ ⇒ 
+     🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌
+ 1 🧮:  7%🚧 65%✅ 27%❌ ⇒ 
+     🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 2 🧮: 27%🚧  0%✅ 72%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
 
+Comparación con [la misma semana hace dos
+años](https://github.com/JJ/IV-22-23/blob/master/sesiones-21-22/semana-06.md)
 
 ## Material de la asignatura
 
@@ -27,17 +43,8 @@ GitHub](http://jj.github.io/IV). Objetivos vigentes:
 * [Objetivo 3 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
 
-## Clase conjunta, día 19 de octubre
 
-Continuamos con [el hackatón](https://github.com/JJ/KeMeVoi). Esta es una
-actividad *presencial*, aunque se puede seguir la misma a través de la actividad
-en el repositorio y el grupo de Telegram correspondiente. En esta sesión
-
-* Reunión semanal, revisión de los issues y PRs existentes.
-* Creación de las historias de usuario en grupos pequeños.
-* Terminar el milestone 0
-
-## Clase dividida, 20 de octubre
+## Clase conjunta y dividida, 20 de octubre
 
 * (Si hay alguien) Prioridad a objetivo 1, entrega y superación.
 * Tratar de entregar el objetivo 2 antes del final

@@ -16,7 +16,7 @@
 | [Enlace puchy22](https://github.com/shvtwp/DePendiente/pull/9)  | v2.0.2 ||
 | <!-- Enlace de carlotiii30 --> | | |
 | <!-- Enlace de sergioffdez --> | | |
-| <!-- Enlace de DarckMonster --> | | |
+| [Enlace de DarckMonster](https://github.com/danieeeld2/LogisticsRoutes/pull/8) | v0.2.0 | |
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de diagmatrix --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |

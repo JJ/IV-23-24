@@ -34,7 +34,7 @@
 | <!-- Enlace de M M M --> | | |
 | <!-- Enlace de moshidev --> | | |
 | <!-- Enlace de R L O E --> | | |
-| [Enlace de migueruiz](https://github.com/pluque01/CofreSagradoVirtual/pull/8) | v0.0.2 | |
+| [Enlace de migueruiz](https://github.com/pluque01/CofreSagradoVirtual/pull/8) | v0.0.3 | |
 | <!-- Enlace de Javito198 --> | | |
 | <!-- Enlace de Alvarosanpal --> | | |
 | <!-- Enlace de spmanolo --> | | |

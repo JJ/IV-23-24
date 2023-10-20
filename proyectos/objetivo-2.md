@@ -24,7 +24,7 @@
 | <!-- Enlace de shvtwp --> | | |
 | [Enlace de MarioGuisado](https://github.com/manuelvico0102/easySelect/pull/7) | v0.0.1 | |
 | <!-- Enlace de J P S --> | | |
-| [Enlace de Morad02](https://github.com/MarioGuisado/TrainMe/pull/6) | v0.0.1 | |
+| [Enlace de Morad02](https://github.com/MarioGuisado/TrainMe/pull/6) | v0.0.1 | ✓ |
 | <!-- Enlace de albertolj --> | | |
 | <!-- Enlace de Christianlr --> | | |
 | [Enlace de pluque01](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/13) | v1.0.0 | |

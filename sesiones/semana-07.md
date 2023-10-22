@@ -22,7 +22,7 @@ en el repositorio y el grupo de Telegram correspondiente. En esta sesión
 
 * Reunión semanal, revisión de los issues y PRs existentes.
 * Creación de las historias de usuario en grupos pequeños.
-* Terminar el milestone 0
+* Terminar el milestone 0.
 
 ## Material de la asignatura
 
@@ -32,6 +32,9 @@ GitHub](http://jj.github.io/IV). Objetivos vigentes:
 * [Objetivo 1 del
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
+* [Objetivo 3 del
+  proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar),
+  automatización de operaciones.
 
 ## Otras sesiones
 

@@ -8,6 +8,13 @@
 * No hacerlo *en los primeros 50 caracteres". Comprobarlo desplegando el commit
   es mucho más difícil.
 
+* Hacer referencia al issue del PR en el formato usuario/repo#xx en
+  vez de simplemente el número del issue. Eso "llena" los issues de
+  referencias, sin que todavía hayan llegado a incorporarse al código
+  principal.
+
+* Poner en el mensaje de commit "Solución xx". Decir que es la
+solución no contribuye a entender por qué se trata de la solución.
 
 ## Sobre los issues
 

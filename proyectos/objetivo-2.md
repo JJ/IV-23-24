@@ -41,4 +41,4 @@
 |[Enlace de carlosservi](https://github.com/johnwaves/recambios-express/pull/10) |v0.0.3 | |
 | <!-- Enlace de raultl12 --> | | |
 | [Enlace de manuelvico0102](https://github.com/Morad02/F1Data/pull/9) | v0.2.0 | |
-| <!-- Enlace de johnwaves --> | | |
+| [Enlace de johnwaves](https://github.com/migueruiz/Automatricula/pull/11) | v0.0.1 | |

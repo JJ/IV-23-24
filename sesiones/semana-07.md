@@ -20,15 +20,17 @@ Continuamos con [el hackatón](https://github.com/JJ/KeMeVoi). Esta es una
 actividad *presencial*, aunque se puede seguir la misma a través de la actividad
 en el repositorio y el grupo de Telegram correspondiente. En esta sesión
 
-* Reunión semanal, revisión de los issues y PRs existentes.
+Para toda la clase, con el objetivo de entender mejor el objetivo 2:
+
 * Priorizar las historias de usuario.
 * Comenzar a crear issues aplicando DDD.
-* Terminar el milestone 0.
 
-En principio, trabajaremos en este hackatón quienes hayan terminado ya el
-objetivo 2, con el objetivo principal de asentar conocimientos para las
-revisiones que se hagan de los mismos, y tratar de sincronizar con el resto de
-la clase retrasando la entrega del objetivo 3.
+Para quienes hayan terminado ya el objetivo 2, con el objetivo principal de
+asentar conocimientos para las revisiones que se hagan de los mismos, y tratar
+de sincronizar con el resto de la clase retrasando la entrega del objetivo 3:
+
+* Reunión semanal, revisión de los issues y PRs existentes.
+* Terminar el milestone 0.
 
 ## Material de la asignatura
 

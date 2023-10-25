@@ -29,8 +29,6 @@ en el repositorio y el grupo de Telegram correspondiente. En esta sesión
 Todo [el material de la asignatura está en
 GitHub](http://jj.github.io/IV). Objetivos vigentes:
 
-* [Objetivo 1 del
-   proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
 * [Objetivo 3 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar),

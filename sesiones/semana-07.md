@@ -25,6 +25,11 @@ en el repositorio y el grupo de Telegram correspondiente. En esta sesión
 * Comenzar a crear issues aplicando DDD.
 * Terminar el milestone 0.
 
+En principio, trabajaremos en este hackatón quienes hayan terminado ya el
+objetivo 2, con el objetivo principal de asentar conocimientos para las
+revisiones que se hagan de los mismos, y tratar de sincronizar con el resto de
+la clase retrasando la entrega del objetivo 3.
+
 ## Material de la asignatura
 
 Todo [el material de la asignatura está en

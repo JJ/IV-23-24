@@ -21,7 +21,8 @@ actividad *presencial*, aunque se puede seguir la misma a través de la activida
 en el repositorio y el grupo de Telegram correspondiente. En esta sesión
 
 * Reunión semanal, revisión de los issues y PRs existentes.
-* Creación de las historias de usuario en grupos pequeños.
+* Priorizar las historias de usuario.
+* Comenzar a crear issues aplicando DDD.
 * Terminar el milestone 0.
 
 ## Material de la asignatura

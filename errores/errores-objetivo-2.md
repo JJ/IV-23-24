@@ -18,6 +18,10 @@ solución no contribuye a entender por qué se trata de la solución.
 
 ## Sobre los issues
 
+* Siempre deben enlazar una historia de usuario. Esto debería ser obvio, porque
+  está tanto en el guión como en la lista de comprobación, pero no se hace en
+  muchas ocasiones.
+  
 * Los issues siempre deben ser problemas, pero titular un issue "el problema de
   x" no ayuda nada
 

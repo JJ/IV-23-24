@@ -14,7 +14,7 @@
 | <!-- Enlace de GiancaGrizzly --> | | |
 | [Enlace de adelahera](https://github.com/Enaraque/bus_stadistics/pull/6) | v0.0.4 | |
 | [Enlace puchy22](https://github.com/shvtwp/DePendiente/pull/9)  | v2.0.2 ||
-| <!-- Enlace de carlotiii30 --> | | |
+| [Enlace de carlotiii30](https://github.com/LuciaAnsino/CompraOnline/pull/6) | v0.2.0 | |
 | <!-- Enlace de sergioffdez --> | | |
 | [Enlace de DarckMonster](https://github.com/danieeeld2/LogisticsRoutes/pull/8) | v0.2.1 | |
 | <!-- Enlace de DFolchA --> | | |

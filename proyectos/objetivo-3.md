@@ -6,7 +6,7 @@
 | <!-- Enlace de sergioae19 --> | | |
 | <!-- Enlace de danieeeld2 --> | | |
 | <!-- Enlace de LuciaAnsino --> | | |
-| <!-- Enlace de Enaraque --> | | |
+| [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/18) | v0.0.1 | |
 | <!-- Enlace de giorgiogiovanni --> | | |
 | <!-- Enlace de PabloBarTo --> | | |
 | <!-- Enlace de danibarranqueroo --> | | |

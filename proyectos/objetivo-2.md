@@ -32,7 +32,7 @@
 | <!-- Enlace de smallPingu --> | | |
 | <!-- Enlace de chelunike --> | | |
 | <!-- Enlace de M M M --> | | |
-| <!-- Enlace de moshidev --> | | |
+| [Enlace de moshidev -> JaimeGM96](https://github.com/JaimeGM96/RutasAutobuses/pull/6) | v0.1.3 | |
 | <!-- Enlace de R L O E --> | | |
 | [Enlace de migueruiz](https://github.com/pluque01/CofreSagradoVirtual/pull/8) | v0.0.3 | |
 | <!-- Enlace de Javito198 --> | | |

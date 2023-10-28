@@ -10,7 +10,7 @@
 | [Enlace de PabloBarTo](https://github.com/javigp2002/LazyFood/pull/7) | v0.2.0 | |
 | <!-- Enlace de danibarranqueroo --> | | |
 | <!-- Enlace de Amadocm --> | | |
-| [Enlace de marinajcs](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/11) | v0.2.0 | |
+| [Enlace de marinajcs](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/11) | v0.2.1 | |
 | <!-- Enlace de GiancaGrizzly --> | | |
 | [Enlace de adelahera](https://github.com/Enaraque/bus_stadistics/pull/6) | v0.0.4 | |
 | [Enlace puchy22](https://github.com/shvtwp/DePendiente/pull/9)  | v2.0.2 ||

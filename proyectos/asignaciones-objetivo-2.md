@@ -28,3 +28,5 @@
 | josemponce | moshidev |
 | moshidev | JaimeGM96 |
 | JaimeGM96 | chelunike |
+| chelunike | giorgiogiovanni |
+| giorgiogiovanni | danibarranqueroo |

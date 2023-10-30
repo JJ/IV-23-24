@@ -21,7 +21,7 @@ solución no contribuye a entender por qué se trata de la solución.
 * Siempre deben enlazar una historia de usuario. Esto debería ser obvio, porque
   está tanto en el guión como en la lista de comprobación, pero no se hace en
   muchas ocasiones.
-  
+
 * Los issues siempre deben ser problemas, pero titular un issue "el problema de
   x" no ayuda nada
 
@@ -50,3 +50,7 @@ solución no contribuye a entender por qué se trata de la solución.
 * El interfaz debe reflejar las necesidades de la lógica de negocio, y no la
   implementación. Exponer con un get todos las variables de instancia hay que
   justificarlo, no hacerlo sistemáticamente.
+
+* Si el constructor no añade nada a la clase o struct definido, es mejor no
+  hacerlo; por ejemplo, si simplemente inicializa las variables con respecto a
+  lo que se le pasa como argumento.

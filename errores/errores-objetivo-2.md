@@ -22,12 +22,14 @@ ese objeto para resolver el problema y no otro.
 
 ## Sobre los issues
 
-* Siempre deben enlazar una historia de usuario. Esto debería ser obvio, porque
+* *Siempre* deben enlazar una historia de usuario. Esto debería ser obvio, porque
   está tanto en el guión como en la lista de comprobación, pero no se hace en
   muchas ocasiones.
 
 * Los issues siempre deben ser problemas, pero titular un issue "el problema de
-  x" no ayuda nada.
+  x" no ayuda nada. Tampoco "¿Qué es x?". Plantear un problema no es tomar una
+  palabra de la historia de usuario, es identificar términos en las mismas y
+  describir de qué forma plantean un problema.
 
 * Otro error frecuente es plantear la solución en el cuerpo del issue
 * Crear un mega-commit que cierra diferentes issues. Cada issue debe ser

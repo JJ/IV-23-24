@@ -5,7 +5,7 @@
 
 * No mencionar en cada mensaje de commit con qué issue se está trabajando.
 
-* No hacerlo *en los primeros 50 caracteres". Comprobarlo desplegando el commit
+* No hacerlo *en los primeros 50 caracteres*. Comprobarlo desplegando el commit
   es mucho más difícil.
 
 * Hacer referencia al issue del PR en el formato usuario/repo#xx en
@@ -14,7 +14,11 @@
   principal.
 
 * Poner en el mensaje de commit "Solución xx". Decir que es la
-solución no contribuye a entender por qué se trata de la solución.
+solución no contribuye a entender por qué se trata de la solución. Tampoco
+"Añadido x". El mensaje debe añadir información a lo que ya es evidente, porque
+en la información del mismo se ve claramente qué se ha añadido o
+modificado. Debe explicar por qué se ha tomado esa decisión específica de crear
+ese objeto para resolver el problema y no otro.
 
 ## Sobre los issues
 
@@ -23,7 +27,7 @@ solución no contribuye a entender por qué se trata de la solución.
   muchas ocasiones.
 
 * Los issues siempre deben ser problemas, pero titular un issue "el problema de
-  x" no ayuda nada
+  x" no ayuda nada.
 
 * Otro error frecuente es plantear la solución en el cuerpo del issue
 * Crear un mega-commit que cierra diferentes issues. Cada issue debe ser

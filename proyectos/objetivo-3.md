@@ -13,7 +13,7 @@
 | <!-- Enlace de marinajcs --> | | |
 | <!-- Enlace de GiancaGrizzly --> | | |
 | <!-- Enlace de adelahera --> | | |
-| <!-- Enlace de puchy22 --> | | |
+| [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/16)  | | |
 | <!-- Enlace de carlotiii30 --> | | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |

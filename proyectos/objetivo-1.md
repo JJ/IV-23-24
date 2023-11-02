@@ -36,7 +36,7 @@
 | <!-- Enlace de R L O E --> | | |
 | [Enlace de migueruiz](https://github.com/migueruiz/Automatricula/pull/2) | v0.0.1 | ✓|
 | <!-- Enlace de Javito198 --> | | |
-| [Enlace de AlvaroSanPal95](https://github.com/AlvaroSanPal95/AssignedOrganization/pull/4) | v0.1.1 | |
+| [Enlace de AlvaroSanPal95](https://github.com/AlvaroSanPal95/AssignedOrganization/pull/4) | v0.1.1 |✓ |
 | [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/4) | v0.0.1 | ✓ |
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/6)|v0.0.1| ✓ |
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/3) | v0.0.1 | ✓|

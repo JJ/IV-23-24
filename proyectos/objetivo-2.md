@@ -26,7 +26,7 @@
 | <!-- Enlace de J P S --> | | |
 | [Enlace de Morad02](https://github.com/MarioGuisado/TrainMe/pull/6) | v0.0.1 | ✓ |
 | <!-- Enlace de albertolj --> | | |
-| [Enlace de Christianlr](https://github.com/adelahera/basket-stats/pull/7) | v0.0.1 | |
+| [Enlace de Christianlr](https://github.com/adelahera/basket-stats/pull/7) | v0.0.1 | ✓ |
 | [Enlace de pluque01](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/13) | v1.0.0 |✓ |
 | [Enlace de josemponce](https://github.com/moshidev/MaquiTracker/pull/11) | v0.0.2 | |
 | <!-- Enlace de smallPingu --> | | |
@@ -37,7 +37,7 @@
 | [Enlace de migueruiz](https://github.com/pluque01/CofreSagradoVirtual/pull/8) | v0.0.3 |✓ |
 | <!-- Enlace de Javito198 --> | | |
 | <!-- Enlace de Alvarosanpal --> | | |
-| <!-- Enlace de spmanolo --> | | |
+| [Enlace de spmanolo](https://github.com/DarckMonster/PCscrap/pull/14) | v0.0.1 | |
 |[Enlace de carlosservi](https://github.com/johnwaves/recambios-express/pull/10) |v0.0.3 | |
 | [Enlace de raultl12](https://github.com/carlotiii30/organizacionSemanal/pull/5) | v0.0.1 | |
 | [Enlace de manuelvico0102](https://github.com/Morad02/F1Data/pull/9) | v0.2.0 |✓ |

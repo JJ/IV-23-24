@@ -60,3 +60,11 @@ ese objeto para resolver el problema y no otro.
 * Si el constructor no añade nada a la clase o struct definido, es mejor no
   hacerlo; por ejemplo, si simplemente inicializa las variables con respecto a
   lo que se le pasa como argumento.
+
+* En general, si una clase o `struct` tiene un solo atributo, debes plantearte
+  si realmente es necesario o no. El crear issues de "crear clase X" a veces
+  tiene esta consecuencia, que se crea sea o no necesaria.
+  
+* En lenguajes como TypeScript, se tiene que exportar explícitamente todas las
+  clases y estructuras que se vayan a usar desde fuera. Esto debería "saltar" a
+  la hora de comprobar la sintaxis, pero no siempre se hace.

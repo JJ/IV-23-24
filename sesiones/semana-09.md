@@ -7,8 +7,8 @@ Semana crítica, porque a partir de ahora ponerse al día es mucho más complica
 El 100% de los que aprobaron en anteriores cursos había entregado ya el objetivo
 1.
 
-En años anteriores, el 90% había *entregado* el objetivo 2; en la semana
-siguiente el 75% habría entregado el objetivo 3.
+En años anteriores, el 90% había *entregado* el objetivo 2 en esta semana; el
+50% había entregado el objetivo 3 y el 25% el objetivo 4.
 
 ## Objetivos alcanzados hasta ahora
 

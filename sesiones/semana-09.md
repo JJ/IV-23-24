@@ -1,0 +1,29 @@
+# Novena semana, a partir del 6 de octubre
+
+Semana crítica, porque a partir de ahora ponerse al día es mucho más complicado.
+
+## Antes de la clase
+
+El 100% de los que aprobaron en anteriores cursos había entregado ya el objetivo
+1.
+
+En años anteriores, el 90% había *entregado* el objetivo 2; en la semana
+siguiente el 75% habría entregado el objetivo 3.
+
+## Objetivos alcanzados hasta ahora
+
+
+## Material de la asignatura
+
+Todo [el material de la asignatura está en
+GitHub](http://jj.github.io/IV). Objetivos vigentes:
+
+* [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
+* [Objetivo 3 del
+  proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar),
+  automatización de operaciones.
+* Comenzamos el [objetivo 4 sobre tests](http://jj.github.io/IV/documentos/proyecto/4.Tests)
+
+## Otras sesiones
+
+[Semana anterior](semana-08.md) y [siguiente](semana-10.md)

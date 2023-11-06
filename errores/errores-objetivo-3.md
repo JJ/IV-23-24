@@ -36,7 +36,12 @@ decisión con respecto a ese criterio.
 * Conviene realmente probarlas para ver si lo que se escribe sobre ellas es
   cierto o no. A veces la documentación no está sincronizada con la versión
   actual.
-
+* La descripción de las herramientas se debe limitar a la forma en la que siguen
+  los criterios objetivos anteriores y algún otra cualidad que tengan, *siempre
+  que se haya enunciado de antemano*. Cualquier otra frase sólo añade ruido al
+  PR y no contribuye ni a entender el proceso seguido ni a ayudar al cliente,
+  objetivo último de cualquier proyecto.
+  
 ## Sobre el lockfile
 
 * Los lockfiles, que se crean con los resultados de la resolución de

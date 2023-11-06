@@ -21,7 +21,7 @@ decisión con respecto a ese criterio.
   compatibilidad, documentación y en general casi todo lo que se ponga en la
   segunda revisión una vez que se ha dicho que se deben poner los criterios de
   elección y tú quieres seguir eligiendo lo mismo que ya has puesto.
-  
+
 ## Sobre las herramientas
 
 * Listar una serie de herramientas aparecidas en una búsqueda o en una pregunta
@@ -33,6 +33,9 @@ decisión con respecto a ese criterio.
   se haya elegido por los criterios que se han añadido *después* de elegir la
   herramienta. Los criterios tienen que servir para elegir la herramienta, no la
   herramienta para elegir los criterios.
+* Conviene realmente probarlas para ver si lo que se escribe sobre ellas es
+  cierto o no. A veces la documentación no está sincronizada con la versión
+  actual.
 
 ## Sobre el lockfile
 

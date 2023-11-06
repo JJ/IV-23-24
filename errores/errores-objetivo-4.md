@@ -11,3 +11,12 @@
   minimizando. Implementaciones "ingenuas" como asignar cosas por orden
   alfabético o en el orden que estén en la estructura de datos, o
   aleatoriamente, pueden ayudar en este tipo de tareas.
+
+## Sobre las herramientas
+
+* Listar una serie de herramientas aparecidas en una búsqueda o en una pregunta
+  a ChatGPT sin ningún tipo de comprobación si realmente son herramientas que se
+  ajustan al concepto de herramienta que se está buscando, es decir, si se
+  pueden usar de esa forma y en ese contexto. Conviene mirar en el manual de uso
+  de las mismas (y enlazarlo) para ver si realmente corresponden al tipo de
+  herramientas que se tienen que elegir en este objetivo.

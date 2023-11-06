@@ -13,6 +13,18 @@ elegido el mismo lenguaje. *No hay una única solución correcta*, pero lo más
 importante es que se sepan establecer criterios, buscar soluciones y tomar una
 decisión con respecto a ese criterio.
 
+## Sobre las herramientas
+
+* Listar una serie de herramientas aparecidas en una búsqueda o en una pregunta
+  a ChatGPT sin ningún tipo de comprobación si realmente son herramientas que se
+  ajustan al concepto de herramienta que se está buscando, es decir, si se
+  pueden usar de esa forma y en ese contexto.
+* Cuando se añaden criterios para la selección del gestor de tareas tras la
+  revisión, si se sigue eligiendo la misma herramienta no da la impresión de que
+  se haya elegido por los criterios que se han añadido *después* de elegir la
+  herramienta. Los criterios tienen que servir para elegir la herramienta, no la
+  herramienta para elegir los criterios.
+
 ## Sobre el lockfile
 
 * Los lockfiles, que se crean con los resultados de la resolución de

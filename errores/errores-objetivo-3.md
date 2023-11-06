@@ -13,6 +13,15 @@ elegido el mismo lenguaje. *No hay una única solución correcta*, pero lo más
 importante es que se sepan establecer criterios, buscar soluciones y tomar una
 decisión con respecto a ese criterio.
 
+## Sobre los criterios para elegir las herramientas
+
+* Si el criterio no se puede evaluar numéricamente de forma que podamos afirmar
+  que uno es mejor que otro en un x%, no son criterios objetivos. Para que quede
+  un poco más claro, no son objetivos: popularidad, facilidad de uso,
+  compatibilidad, documentación y en general casi todo lo que se ponga en la
+  segunda revisión una vez que se ha dicho que se deben poner los criterios de
+  elección y tú quieres seguir eligiendo lo mismo que ya has puesto.
+  
 ## Sobre las herramientas
 
 * Listar una serie de herramientas aparecidas en una búsqueda o en una pregunta

@@ -20,3 +20,11 @@
   pueden usar de esa forma y en ese contexto. Conviene mirar en el manual de uso
   de las mismas (y enlazarlo) para ver si realmente corresponden al tipo de
   herramientas que se tienen que elegir en este objetivo.
+
+## Sobre los issues
+
+* Como sucedía en el objetivo 2, los issues tienen que ser problemas y plantear
+  de forma precisa el contexto del mismo, para poder resolverlo. "Implementación
+  de" es una tarea, no un problema, y si no se describe con precisión qué es lo
+  que se quiere resolver se corre el riesgo de resolverlo con cualquier cosa,
+  porque cualquier implementación es válida.

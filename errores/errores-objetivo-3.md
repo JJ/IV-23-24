@@ -21,6 +21,13 @@ decisión con respecto a ese criterio.
   compatibilidad, documentación y en general casi todo lo que se ponga en la
   segunda revisión una vez que se ha dicho que se deben poner los criterios de
   elección y tú quieres seguir eligiendo lo mismo que ya has puesto.
+* Los criterios deben de ser también evaluables. Poner "extensibilidad", no es
+  que no sea objetivo, es que ni siquiera se puede evaluar.
+* Los criterios deben ser relevantes al proyecto y a la herramienta. Una vez, en
+  el caso anterior, que una herramienta de construcción sea extensible (supongo
+  que con plugins) no la hace mejor o peor para este caso específico, donde lo
+  que uno necesita simplemente es que te permita ejecutar tareas con nombre
+  específico.
 
 ## Sobre las herramientas
 
@@ -41,7 +48,7 @@ decisión con respecto a ese criterio.
   que se haya enunciado de antemano*. Cualquier otra frase sólo añade ruido al
   PR y no contribuye ni a entender el proceso seguido ni a ayudar al cliente,
   objetivo último de cualquier proyecto.
-  
+
 ## Sobre el lockfile
 
 * Los lockfiles, que se crean con los resultados de la resolución de

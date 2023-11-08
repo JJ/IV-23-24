@@ -17,11 +17,11 @@ En años anteriores, el 90% había *entregado* el objetivo 2 en esta semana; el
 
 Continuamos con la resolución individual de problemas, con esta prioridad
 
-1. Solución de problemas del objetivo 2
-2. Entrega del objetivo 2
-3. Solución de problemas del objetivo 3
-4. Entrega del objetivo 3
-6. Solución de problemas del objetivo 4
+1. Entrega del objetivo 2
+2. Solución de problemas del objetivo 2
+3. Entrega del objetivo 3
+4. Solución de problemas del objetivo 3
+5. Solución de problemas del objetivo 4
 
 ## Material de la asignatura
 

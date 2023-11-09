@@ -22,6 +22,7 @@ Continuamos con la resolución individual de problemas, con esta prioridad
 3. Entrega del objetivo 3
 4. Solución de problemas del objetivo 3
 5. Solución de problemas del objetivo 4
+6. Explicación del objetivo 5 a quien lo necesite.
 
 ## Material de la asignatura
 
@@ -32,7 +33,10 @@ GitHub](http://jj.github.io/IV). Objetivos vigentes:
 * [Objetivo 3 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar),
   automatización de operaciones.
-* Comenzamos el [objetivo 4 sobre tests](http://jj.github.io/IV/documentos/proyecto/4.Tests)
+* Comenzamos el [objetivo 4 sobre
+  tests](http://jj.github.io/IV/documentos/proyecto/4.Tests)
+* Y si se puede, [el objetivo 5 sobre imágenes de
+  contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker).
 
 ## Otras sesiones
 

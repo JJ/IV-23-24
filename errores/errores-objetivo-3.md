@@ -35,6 +35,10 @@ decisión con respecto a ese criterio.
   a ChatGPT sin ningún tipo de comprobación si realmente son herramientas que se
   ajustan al concepto de herramienta que se está buscando, es decir, si se
   pueden usar de esa forma y en ese contexto.
+* Específicamente, páginas como Slant, StackShare, o hasta el mismo Reddit, son
+  una pérdida de tiempo porque incluyen muchas herramientas que sólo comparten
+  alguna funcionalidad con lo que andamos buscando; en muchos casos, además,
+  están muy desactualizadas.
 * Cuando se añaden criterios para la selección del gestor de tareas tras la
   revisión, si se sigue eligiendo la misma herramienta no da la impresión de que
   se haya elegido por los criterios que se han añadido *después* de elegir la

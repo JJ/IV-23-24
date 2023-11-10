@@ -12,7 +12,7 @@
 | <!-- Enlace de Amadocm --> | | |
 | <!-- Enlace de marinajcs --> | | |
 | <!-- Enlace de GiancaGrizzly --> | | |
-| <!-- Enlace de adelahera --> | | |
+| [Enlace de adelahera] | v4.0.1 | |
 | <!-- Enlace de puchy22 --> | | |
 | <!-- Enlace de carlotiii30 --> | | |
 | <!-- Enlace de sergioffdez --> | | |

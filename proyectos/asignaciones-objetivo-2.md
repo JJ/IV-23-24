@@ -30,3 +30,5 @@
 | JaimeGM96 | chelunike |
 | chelunike | giorgiogiovanni |
 | giorgiogiovanni | danibarranqueroo |
+| Alvarosanpal95 | smallPingu |
+| smallPingu | Alvarosanpal95 |

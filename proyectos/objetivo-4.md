@@ -13,7 +13,7 @@
 | <!-- Enlace de marinajcs --> | | |
 | <!-- Enlace de GiancaGrizzly --> | | |
 | [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/25) | v4.0.1 | |
-| <!-- Enlace de puchy22 --> | | |
+| [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/18) | v0.0.2 | |
 | <!-- Enlace de carlotiii30 --> | | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |

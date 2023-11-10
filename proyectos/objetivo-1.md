@@ -29,7 +29,7 @@
 | [Enlace de Christianlr](https://github.com/Christianlr/MIBarberSchedule/pull/5)| v0.0.1 | ✓ |
 | [Enlace de pluque01](https://github.com/pluque01/Smart-Location/pull/5) | v0.0.1 | ✓ |
 | [Enlace de josemponce](https://github.com/josemponce/RutaMusical/pull/2) | v0.0.3 |✓ |
-| [Enlace de smallPingu](https://github.com/smallPingu/antiTarjetas/pull/8)| v0.0.1 | |
+| [Enlace de smallPingu](https://github.com/smallPingu/antiTarjetas/pull/8)| v0.0.1 |✓ |
 | [Enlace de chelunike](https://github.com/chelunike/didactic-chainsaw/pull/3) | v0.0.2 | ✓ |
 | <!-- Enlace de M M M --> | | |
 | [Enlace de moshidev](https://github.com/moshidev/MaquiTracker/pull/4) | v0.1.0 |✓ |

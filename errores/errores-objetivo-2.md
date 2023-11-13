@@ -47,6 +47,12 @@ ese objeto para resolver el problema y no otro.
   un valor único. Pero para seguir, *sólo hay que incluir lo que vaya a usarse
   en la lógica de negocio*. Ni password, ni DNI, ni nombre separado de
   apellidos... sólo lo que se pida en la lógica de negocio.
+* Los objetos valor son inmutables; no pueden incluir ninguna variable de
+  instancia que indique que han cambiado de estado, por ejemplo `disponible` o
+  `completada`. El hacerlo así indica un error en la modelización del dominio:
+  son las *entidades* las que tienen que gestionar esos cambios de estado,
+  usando las estructuras correspondientes que liguen el objeto valor (inmutable)
+  con su cambio de estado.
 
 ## Sobre el código definido
 

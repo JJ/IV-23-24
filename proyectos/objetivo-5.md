@@ -2,6 +2,7 @@
 
 | URL                                 | Versión | Alcanzado |
 |-------------------------------------|---------|-----------|
+| <!-- Enlace de sergioae19 -->       |         |           |
 | <!-- Enlace de danieeeld2 -->       |         |           |
 | <!-- Enlace de LuciaAnsino -->      |         |           |
 | <!-- Enlace de Enaraque -->         |         |           |

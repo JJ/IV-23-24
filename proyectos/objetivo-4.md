@@ -20,7 +20,7 @@
 | <!-- Enlace de eugrdfolcha --> | | |
 | <!-- Enlace de diagmatrix --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
-| [Enlace de javigp2002](https://github.com/javigp2002/LazyFood/pull/19)  |v4.0.1 | |
+| [Enlace de javigp2002](https://github.com/javigp2002/LazyFood/pull/19)  |v4.0.1 | ✓|
 | <!-- Enlace de shvtwp --> | | |
 | <[Enlace de MarioGuisado](https://github.com/MarioGuisado/TrainMe/pull/38) | V0.0.1 | |
 | <!-- Enlace de J P S --> | | |

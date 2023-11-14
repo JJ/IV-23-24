@@ -28,7 +28,7 @@
 | <!-- Enlace de albertolj -->                                                           |         |           |
 | [Enlace de Christianlr](https://github.com/adelahera/basket-stats/pull/7)              | v0.0.1  | ✓         |
 | [Enlace de pluque01](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/13) | v1.0.0  | ✓         |
-| [Enlace de josemponce](https://github.com/moshidev/MaquiTracker/pull/11)               | v0.0.2  |           |
+| [Enlace de josemponce](https://github.com/moshidev/MaquiTracker/pull/11)               | v0.0.2  |  ✓        |
 | <!-- Enlace de smallPingu -->                                                          |         |           |
 | <!-- Enlace de chelunike -->                                                           |         |           |
 | <!-- Enlace de M M M -->                                                               |         |           |

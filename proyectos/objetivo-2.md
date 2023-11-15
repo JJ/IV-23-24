@@ -19,7 +19,7 @@
 | [Enlace de DarckMonster](https://github.com/danieeeld2/LogisticsRoutes/pull/8)         | v0.2.1  | ✓         |
 | <!-- Enlace de DFolchA -->                                                             |         |           |
 | <!-- Enlace de diagmatrix -->                                                          |         |           |
-| <!-- Enlace de JaimeGM96 -->                                                           |         |           |
+| [Enlace de JaimeGM96](https://github.com/chelunike/didactic-chainsaw/pull/11)          | v0.2.0  |           |
 | [javigp2002/mi_barber](https://github.com/Christianlr/MIBarberSchedule/pull/7)         | v0.2.0  | ✓         |
 | [Enlace de shvtwp](https://github.com/marinajcs/asignacionTareas/pull/7)               | v0.0.1  |  ✓        |
 | [Enlace de MarioGuisado](https://github.com/manuelvico0102/easySelect/pull/7)          | v0.0.1  | ✓         |

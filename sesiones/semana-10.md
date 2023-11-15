@@ -1,14 +1,10 @@
-# Novena semana, a partir del 6 de noviembre
+# Décima semana, a partir del 13 de noviembre
 
 Semana crítica, porque a partir de ahora ponerse al día es mucho más complicado.
 
 ## Antes de la clase
 
-El 100% de los que aprobaron en anteriores cursos había entregado ya el objetivo
-1.
 
-En años anteriores, el 90% había *entregado* el objetivo 2 en esta semana; el
-50% había entregado el objetivo 3 y el 25% el objetivo 4.
 
 ## Objetivos alcanzados hasta ahora
 

@@ -1,10 +1,9 @@
 # Décima semana, a partir del 13 de noviembre
 
-Semana crítica, porque a partir de ahora ponerse al día es mucho más complicado.
-
 ## Antes de la clase
 
-
+En esta semana, el 90% de los aprobados había entregado ya el *objetivo 2* en
+otros cursos; el 75% el objetivo 3, y el 25% los objetivos 4 y 5.
 
 ## Objetivos alcanzados hasta ahora
 
@@ -13,27 +12,25 @@ Semana crítica, porque a partir de ahora ponerse al día es mucho más complica
 
 Continuamos con la resolución individual de problemas, con esta prioridad
 
-1. Entrega del objetivo 2
-2. Solución de problemas del objetivo 2
-3. Entrega del objetivo 3
-4. Solución de problemas del objetivo 3
-5. Solución de problemas del objetivo 4
-6. Explicación del objetivo 5 a quien lo necesite.
+1. Entrega del objetivo 3
+2. Solución de problemas del objetivo 3
+3. Entrega del objetivo 4
+4. Solución de problemas del objetivo 4
+5. Explicación del objetivo 5 a quien lo necesite.
 
 ## Material de la asignatura
 
 Todo [el material de la asignatura está en
 GitHub](http://jj.github.io/IV). Objetivos vigentes:
 
-* [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
 * [Objetivo 3 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar),
   automatización de operaciones.
-* Comenzamos el [objetivo 4 sobre
+* [Objetivo 4 sobre
   tests](http://jj.github.io/IV/documentos/proyecto/4.Tests)
-* Y si se puede, [el objetivo 5 sobre imágenes de
+* Comenzamos [el objetivo 5 sobre imágenes de
   contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker).
 
 ## Otras sesiones
 
-[Semana anterior](semana-08.md) y [siguiente](semana-10.md)
+[Semana anterior](semana-09.md) y [siguiente](semana-11.md)

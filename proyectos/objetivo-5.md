@@ -24,7 +24,7 @@
 | <!-- Enlace de shvtwp -->           |         |           |
 | <!-- Enlace de MarioGuisado -->     |         |           |
 | <!-- Enlace de J P S -->            |         |           |
-| [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/35)          |    V0.5.0     |           |
+| [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/35)          |    V0.5.0     |     ✓        |
 | <!-- Enlace de albertolj -->        |         |           |
 | <!-- Enlace de Christianlr -->      |         |           |
 | <!-- Enlace de pluque01 -->         |         |           |

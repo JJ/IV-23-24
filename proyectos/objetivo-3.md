@@ -38,7 +38,7 @@
 | <!-- Enlace de Javito198 -->                                                              |         |           |
 | <!-- Enlace de Alvarosanpal -->                                                           |         |           |
 | <!-- Enlace de spmanolo -->                                                               |         |           |
-| [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/23) | v3.2    |           |
+| [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/23) | v3.2    |   ✓       |
 | <!-- Enlace de raultl12 -->                                                               |         |           |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/20)          | v0.0.1  | ✓         |
 | <!-- Enlace de johnwaves -->                                                              |         |           |

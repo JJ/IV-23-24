@@ -2,6 +2,9 @@
 
 ## Antes de la clase
 
+El 90% había entregado el objetivo 2, el 75% el objetivo 3, el 25% el objetivo 4
+(y durante esta semana el 50%) y el 25% el objetivo 5. Durante la semana
+siguiente, el 25% de los aprobados entregaría el objetivo 6.
 
 ## Objetivos alcanzados hasta ahora
 

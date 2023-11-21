@@ -7,7 +7,7 @@
 | <!-- Enlace de LuciaAnsino -->                                                   |         |           |
 | [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/28)         | v0.0.2  |           |
 | <!-- Enlace de giorgiogiovanni -->                                               |         |           |
-| <!-- Enlace de PabloBarTo -->                                                    |         |           |
+| [Enlace de PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/23)            | v4.0.1  |           |
 | <!-- Enlace de danibarranqueroo -->                                              |         |           |
 | <!-- Enlace de Amadocm -->                                                       |         |           |
 | <!-- Enlace de marinajcs -->                                                     |         |           |

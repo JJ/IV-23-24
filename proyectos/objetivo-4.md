@@ -34,7 +34,7 @@
 | <!-- Enlace de M M M -->                                                         |         |           |
 | <!-- Enlace de moshidev -->                                                      |         |           |
 | <!-- Enlace de R L O E -->                                                       |         |           |
-| <!-- Enlace de migueruiz -->                                                     |         |           |
+| [Enlace de migueruiz](https://github.com/migueruiz/Automatricula/pull/34)        | v4.0.1  |           |
 | <!-- Enlace de Javito198 -->                                                     |         |           |
 | <!-- Enlace de Alvarosanpal -->                                                  |         |           |
 | <!-- Enlace de spmanolo -->                                                      |         |           |

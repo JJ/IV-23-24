@@ -28,3 +28,15 @@
   de" es una tarea, no un problema, y si no se describe con precisión qué es lo
   que se quiere resolver se corre el riesgo de resolverlo con cualquier cosa,
   porque cualquier implementación es válida.
+
+## Sobre los tests
+
+* El error principal es testear que las funciones dan la salida esperada, es
+  decir, aplicar la lógica de negocio y si uno espera que el resultado sea X,
+  comprobar que es X. En realidad, no es así. Hay que comprobar que se cumple lo
+  que pide la lógica de negocio. Si se pide que algo sea mínimo, o mejor, u
+  óptimo, hay que comprobar que efectivamente el resultado es el mínimo, o mejor
+  que otros, u óptimo; hay que tener una función que compruebe la "bondad" o lo
+  que sea de la solución y mostrar que efectivamente es la mejor según ese
+  criterio. Esto es repetir lo de arriba, pero hay que tenerlo en cuenta a la
+  hora de escribir los tests.

@@ -20,6 +20,7 @@ con la resolución individual de problemas, con esta prioridad
 3. Entrega del objetivo 4
 4. Solución de problemas del objetivo 4
 5. Explicación del objetivo 5 a quien lo necesite.
+5. Explicación del objetivo 6 a quien lo necesite.
 
 ## Material de la asignatura
 
@@ -33,6 +34,7 @@ GitHub](http://jj.github.io/IV). Objetivos vigentes:
   tests](http://jj.github.io/IV/documentos/proyecto/4.Tests)
 * Comenzamos [el objetivo 5 sobre imágenes de
   contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker).
+* También comenzamos [a hablar de integración continua](http://jj.github.io/IV/documentos/proyecto/6.CI)
 
 ## Otras sesiones
 

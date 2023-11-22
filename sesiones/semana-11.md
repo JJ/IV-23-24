@@ -12,7 +12,8 @@ siguiente, el 25% de los aprobados entregaría el objetivo 6.
 
 ## Clases conjunta y separada, días 2 y 3 de noviembre
 
-Continuamos con la resolución individual de problemas, con esta prioridad
+Tras la solución urgente de problemas con los objetivos anteriores, continuamos
+con la resolución individual de problemas, con esta prioridad
 
 1. Entrega del objetivo 3
 2. Solución de problemas del objetivo 3

@@ -39,6 +39,6 @@
 | <!-- Enlace de Alvarosanpal -->                                                           |         |           |
 | [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/17)                    | v3.0.4  |   ✓       |
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/23) | v3.2    |   ✓       |
-| <!-- Enlace de raultl12 -->                                                               |         |           |
+| [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/21)                      | v0.0.1  |           |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/20)          | v0.0.1  | ✓         |
 | <!-- Enlace de johnwaves -->                                                              |         |           |

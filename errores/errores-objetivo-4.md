@@ -12,6 +12,11 @@
   alfabético o en el orden que estén en la estructura de datos, o
   aleatoriamente, pueden ayudar en este tipo de tareas.
 
+## Sobre la lógica de negocio
+
+* ¿Cuando se sabe si se ha hecho lo suficiente o no? Cuando se cumplen los deseos del usuario expresados en la historia de usuario.
+  Solo de esta forma se puede cerrar el milestona
+
 ## Sobre las herramientas
 
 * Listar una serie de herramientas aparecidas en una búsqueda o en una pregunta

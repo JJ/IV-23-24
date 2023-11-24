@@ -40,5 +40,5 @@
 | <!-- Enlace de spmanolo -->                                    |         |           |
 | <!-- Enlace de carlosservi -->                                 |         |           |
 | <!-- Enlace de raultl12 -->                                    |         |           |
-| [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/33)                              | v5.0.5        |           |
+| [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/33)                              | v5.0.6        |           |
 | <!-- Enlace de johnwaves -->                                   |         |           |

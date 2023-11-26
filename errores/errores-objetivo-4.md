@@ -12,10 +12,36 @@
   alfabético o en el orden que estén en la estructura de datos, o
   aleatoriamente, pueden ayudar en este tipo de tareas.
 
+## Sobre la programación
+
+* No aplicar o tratar de entender diferentes buenas prácticas
+  habituales en ingeniería del software: código limpio, el principio
+  de responsabilidad única, la baja complejidad ciclomática, y todo
+  eso.
+
+* Usar "flags" para decidir si una cosa se ha encontrado o no. Los
+  bucles se tienen que tratar de evitar siempre que haya alternativas,
+  y la forma correcta de encontrar algo es filtrar un array que
+  devuelva los que cumplen el criterior, o uno vacío si no hay
+  ninguno. Trabajar con índices y bucles es herencia de tiempos
+  pasados en los que los lenguajes no tenían órdenes de más alto nivel
+  para trabajar con ellos.
+
+* Poner elementos con tipo diferente en un array, y sólo usar los
+  elementos que sigan algún criterio. En lenguajes modernos con tipos
+  de datos avanzados, debe usarse el tipo más adecuado para cada tipo
+  de dato.
+
+* Trabajar con arrays en vez de diccionarios: es un ejemplo del
+  anterior, pero al veces se usan matrices multidimensionales para
+  hacer algo que se podría hacer mucho mejor con un `struct` o un
+  objeto.
+
 ## Sobre la lógica de negocio
 
-* ¿Cuando se sabe si se ha hecho lo suficiente o no? Cuando se cumplen los deseos del usuario expresados en la historia de usuario.
-  Solo de esta forma se puede cerrar el milestona
+* ¿Cuando se sabe si se ha hecho lo suficiente o no? Cuando se cumplen
+  los deseos del usuario expresados en la historia de usuario.  Solo
+  de esta forma se puede cerrar el milestona
 
 ## Sobre las herramientas
 

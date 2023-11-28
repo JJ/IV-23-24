@@ -30,7 +30,7 @@
 | [Enlace de pluque01](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/13) | v1.0.0  | ✓         |
 | [Enlace de josemponce](https://github.com/moshidev/MaquiTracker/pull/11)               | v0.0.2  | ✓         |
 | <!-- Enlace de smallPingu -->                                                          |         |           |
-| [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/sh-car-analizer/pull/5) | v0.2.0  | ✓         |
+| [Enlace de chelunike](https://github.com/giorgiogiovanni/sh-car-analizer/pull/5) | v0.2.0  | ✓         |
 | <!-- Enlace de M M M -->                                                               |         |           |
 | [Enlace de moshidev -> JaimeGM96](https://github.com/JaimeGM96/RutasAutobuses/pull/6)  | v0.1.3  | ✓         |
 | <!-- Enlace de R L O E -->                                                             |         |           |

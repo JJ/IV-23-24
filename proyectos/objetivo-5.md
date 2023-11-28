@@ -3,7 +3,7 @@
 | URL                                                                              | Versión | Alcanzado |
 |----------------------------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de sergioae19 -->                                                    |         |           |
-| [danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/44)              | v5.0.0  |     ✓        |
+| [danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/44)              | v5.0.0  | ✓         |
 | <!-- Enlace de LuciaAnsino -->                                                   |         |           |
 | <!-- Enlace de Enaraque -->                                                      |         |           |
 | <!-- Enlace de giorgiogiovanni -->                                               |         |           |
@@ -22,7 +22,7 @@
 | <!-- Enlace de JaimeGM96 -->                                                     |         |           |
 | [JaviGp2002](https://github.com/javigp2002/LazyFood/pull/36)                     | v5.0.0  | ✓         |
 | <!-- Enlace de shvtwp -->                                                        |         |           |
-| [MarioGuisado](https://github.com/MarioGuisado/TrainMe/pull/53)                  | v5.0.0  |           |
+| [MarioGuisado](https://github.com/MarioGuisado/TrainMe/pull/53)                  | v5.0.0  | ✓         |
 | <!-- Enlace de J P S -->                                                         |         |           |
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/35)                   | V0.5.0  | ✓         |
 | <!-- Enlace de albertolj -->                                                     |         |           |
@@ -40,5 +40,5 @@
 | <!-- Enlace de spmanolo -->                                                      |         |           |
 | <!-- Enlace de carlosservi -->                                                   |         |           |
 | <!-- Enlace de raultl12 -->                                                      |         |           |
-| [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/33) | v5.0.7  |     ✓      |
+| [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/33) | v5.0.7  | ✓         |
 | <!-- Enlace de johnwaves -->                                                     |         |           |

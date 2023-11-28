@@ -22,7 +22,7 @@
 | <!-- Enlace de JaimeGM96 -->                                                     |         |           |
 | [JaviGp2002](https://github.com/javigp2002/LazyFood/pull/36)                     | v5.0.0  | ✓         |
 | <!-- Enlace de shvtwp -->                                                        |         |           |
-| <!-- Enlace de MarioGuisado -->                                                  |         |           |
+| [MarioGuisado](https://github.com/MarioGuisado/TrainMe/pull/53)                  | v5.0.0  |           |
 | <!-- Enlace de J P S -->                                                         |         |           |
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/35)                   | V0.5.0  | ✓         |
 | <!-- Enlace de albertolj -->                                                     |         |           |

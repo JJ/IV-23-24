@@ -37,6 +37,10 @@
   hacer algo que se podría hacer mucho mejor con un `struct` o un
   objeto.
 
+* Igual que en el objetivo 2, sólo hay que declarar los getters que sean
+  estrictamente necesarios para la lógica de negocio, que se usen fuera de la
+  clase, por ejemplo.
+
 ## Sobre la lógica de negocio
 
 * ¿Cuando se sabe si se ha hecho lo suficiente o no? Cuando se cumplen

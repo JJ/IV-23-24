@@ -2,7 +2,7 @@
 
 | URL                                                                                    | Versión | Alcanzado |
 |----------------------------------------------------------------------------------------|---------|-----------|
-| https://github.com/JJ/dummy-IV/pull/6                                                 |         |           |
+| https://github.com/JJ/dummy-IV/pull/6                                                  |         |           |
 | [Enlace danieeeld2](https://github.com/josemponce/RutaMusical/pull/7)                  | v0.2.2  | ✓         |
 | [Enlace de LuciaAnsino](https://github.com/puchy22/nutri-app/pull/7)                   | v0.2.0  | ✓         |
 | [Enlace de Enaraque](https://github.com/spmanolo/calidad-aire/pull/8)                  | v0.0.1  | ✓         |

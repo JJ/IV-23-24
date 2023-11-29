@@ -34,7 +34,7 @@ otros cursos; el 75% el objetivo 3, y el 25% los objetivos 4 y 5.
      ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
-## Clases conjunta y separada, días 2 y 3 de noviembre
+## Clases conjunta y separada, días 16 y 17 de noviembre
 
 Continuamos con la resolución individual de problemas, con esta prioridad
 

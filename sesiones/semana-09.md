@@ -36,7 +36,7 @@ En años anteriores, el 90% había *entregado* el objetivo 2 en esta semana; el
 ```
 
 
-## Clases conjunta y separada, días 2 y 3 de noviembre
+## Clases conjunta y separada, días 9 y 10 de noviembre
 
 Continuamos con la resolución individual de problemas, con esta prioridad
 

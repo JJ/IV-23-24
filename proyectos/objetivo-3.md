@@ -28,7 +28,7 @@
 | <!-- Enlace de albertolj -->                                                              |         |           |
 | [Enlace de Christianlr](https://github.com/Christianlr/MIBarberSchedule/pull/24)          | v0.0.1  |   ✓       |
 | [Enlace de pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/20)             | v1.1.2  | ✓         |
-| [Enlace de josemponce](https://github.com/josemponce/RutaMusical/pull/22)                 | v0.0.1  |           |
+| [Enlace de josemponce](https://github.com/josemponce/RutaMusical/pull/22)                 | v0.0.1  | ✓         |
 | <!-- Enlace de smallPingu -->                                                             |         |           |
 | <!-- Enlace de chelunike -->                                                              |         |           |
 | <!-- Enlace de M M M -->                                                                  |         |           |

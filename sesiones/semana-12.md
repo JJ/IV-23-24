@@ -1,5 +1,7 @@
 # Duodécima semana, a partir del 27 de noviembre
 
+La siguiente semana no hay docencia, así que acumulamos los objetivos de dos semanas
+
 ## Antes de la clase
 
 
@@ -7,7 +9,7 @@
 ## Objetivos alcanzados hasta ahora
 
 
-## Clases conjunta y separada, días 2 y 3 de noviembre
+## Clases conjunta y separada, días 30 de noviembre y 1 de diciembre
 
 Tras la solución urgente de problemas con los objetivos anteriores, continuamos
 con la resolución individual de problemas, con esta prioridad
@@ -32,4 +34,4 @@ GitHub](http://jj.github.io/IV). Objetivos vigentes:
 
 ## Otras sesiones
 
-[Semana anterior](semana-10.md) y [siguiente](semana-12.md)
+[Semana anterior](semana-11.md) y [siguiente](semana-14.md)

@@ -37,7 +37,7 @@ siguiente, el 25% de los aprobados entregaría el objetivo 6.
 ```
 
 
-## Clases conjunta y separada, días 2 y 3 de noviembre
+## Clases conjunta y separada, días 24 y 25 de noviembre
 
 Tras la solución urgente de problemas con los objetivos anteriores, continuamos
 con la resolución individual de problemas, con esta prioridad

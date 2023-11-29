@@ -7,7 +7,7 @@
 | <!-- Enlace de LuciaAnsino -->                                                   |         |           |
 | <!-- Enlace de Enaraque -->                                                      |         |           |
 | <!-- Enlace de giorgiogiovanni -->                                               |         |           |
-| [PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/25)                      | v5.0.0  |           |
+| [PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/25)                      | v5.0.0  | ✓         |
 | <!-- Enlace de danibarranqueroo -->                                              |         |           |
 | <!-- Enlace de Amadocm -->                                                       |         |           |
 | <!-- Enlace de marinajcs -->                                                     |         |           |

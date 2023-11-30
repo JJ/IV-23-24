@@ -26,7 +26,7 @@
 | <!-- Enlace de J P S -->                                                                  |         |           |
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/22)                            | V0.0.1  | ✓         |
 | <!-- Enlace de albertolj -->                                                              |         |           |
-| [Enlace de Christianlr](https://github.com/Christianlr/MIBarberSchedule/pull/34)          | v0.0.1  |           |
+| [Enlace de Christianlr](https://github.com/Christianlr/MIBarberSchedule/pull/34)          | v0.0.2  |           |
 | [Enlace de pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/22)             | v2.0.1  | ✓         |
 | <!-- Enlace de josemponce -->                                                             |         |           |
 | <!-- Enlace de smallPingu -->                                                             |         |           |

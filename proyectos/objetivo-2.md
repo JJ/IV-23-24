@@ -36,7 +36,7 @@
 | <!-- Enlace de R L O E -->                                                             |         |           |
 | [Enlace de migueruiz](https://github.com/pluque01/CofreSagradoVirtual/pull/8)          | v0.0.3  | ✓         |
 | <!-- Enlace de Javito198 -->                                                           |         |           |
-| <!-- Enlace de Alvarosanpal -->                                                        |         |           |
+| [Enlace de AlvaroSanPal95](https://github.com/smallPingu/antiTarjetas/pull/13)                                                     | v0.2.3   |           |
 | [Enlace de spmanolo](https://github.com/DarckMonster/PCscrap/pull/18)                  | v0.0.1  | ✓         |
 | [Enlace de carlosservi](https://github.com/johnwaves/recambios-express/pull/10)        | v0.0.3  | ✓         |
 | [Enlace de raultl12](https://github.com/carlotiii30/organizacionSemanal/pull/5)        | v0.0.1  | ✓         |

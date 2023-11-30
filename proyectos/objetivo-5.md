@@ -12,7 +12,7 @@
 | <!-- Enlace de Amadocm -->                                                       |         |           |
 | <!-- Enlace de marinajcs -->                                                     |         |           |
 | <!-- Enlace de GiancaGrizzly -->                                                 |         |           |
-| [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/39)         | v.5.0.1 |           |
+| [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/39)         | v.5.0.1 |    ✓      |
 | [puchy22](https://github.com/puchy22/nutri-app/pull/41)                          | v.0.0.5 |           |
 | <!-- Enlace de carlotiii30 -->                                                   |         |           |
 | <!-- Enlace de sergioffdez -->                                                   |         |           |
@@ -27,7 +27,7 @@
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/35)                   | V0.5.0  | ✓         |
 | <!-- Enlace de albertolj -->                                                     |         |           |
 | <!-- Enlace de Christianlr -->                                                   |         |           |
-| [Enlace de pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/30)    | v2.1.1  |           |
+| [Enlace de pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/30)    | v2.1.1  |   ✓       |
 | <!-- Enlace de josemponce -->                                                    |         |           |
 | <!-- Enlace de smallPingu -->                                                    |         |           |
 | <!-- Enlace de chelunike -->                                                     |         |           |

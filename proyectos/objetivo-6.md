@@ -3,7 +3,7 @@
 | URL                                                                 | Versión | Alcanzado |
 |---------------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de sergioae19 -->                                       |         |           |
-| [danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/63) | v6.0.3  |           |
+| [danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/63) | v6.0.3  | ✓         |
 | <!-- Enlace de LuciaAnsino -->                                      |         |           |
 | <!-- Enlace de Enaraque -->                                         |         |           |
 | <!-- Enlace de giorgiogiovanni -->                                  |         |           |

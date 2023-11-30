@@ -35,7 +35,7 @@ jobs:
       rama: ${{ needs.ops-on-pr.outputs.rama }}
     steps:
       - name: Descarga fuente
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: ${{env.checkout_repo}}
           ref: ${{env.rama}}
@@ -66,7 +66,7 @@ jobs:
       rama: ${{ needs.ops-on-pr.outputs.rama }}
     steps:
       - name: Descarga fuente
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Comprueba que el PR está asignado a un milestone
         uses: actions/github-script@v5
         if: ${{env.objetivo >= 2}}
@@ -223,7 +223,7 @@ jobs:
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
       - name: Fuentes de este repo (para JSON)
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Paquete no fatpackeado
         run: sudo apt install liblwp-protocol-https-perl
       - name: Revisores aleatorios

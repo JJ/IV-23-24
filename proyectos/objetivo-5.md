@@ -5,7 +5,7 @@
 | <!-- Enlace de sergioae19 -->                                                    |         |           |
 | [danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/44)              | v5.0.0  | ✓         |
 | <!-- Enlace de LuciaAnsino -->                                                   |         |           |
-| [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/49)         | v5.0.2  |           |
+| [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/49)         | v5.0.2  |  ✓        |
 | <!-- Enlace de giorgiogiovanni -->                                               |         |           |
 | [PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/25)                      | v5.0.0  | ✓         |
 | <!-- Enlace de danibarranqueroo -->                                              |         |           |

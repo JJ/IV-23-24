@@ -12,7 +12,7 @@
 | <!-- Enlace de Amadocm -->                                          |         |           |
 | <!-- Enlace de marinajcs -->                                        |         |           |
 | <!-- Enlace de GiancaGrizzly -->                                    |         |           |
-| [adelahera](https://github.com/adelahera/basket-stats/pull/45)      | v.6.0.1 |           |
+| [adelahera](https://github.com/adelahera/basket-stats/pull/45)      | v.6.0.2 |           |
 | <!-- Enlace de puchy22 -->                                          |         |           |
 | <!-- Enlace de carlotiii30 -->                                      |         |           |
 | <!-- Enlace de sergioffdez -->                                      |         |           |

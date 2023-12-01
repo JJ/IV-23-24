@@ -8,7 +8,7 @@
 | [Enlace de Enaraque](https://github.com/spmanolo/calidad-aire/pull/8)                  | v0.0.1  | ✓         |
 | <!-- Enlace de giorgiogiovanni -->                                                     |         |           |
 | [Enlace de PabloBarTo](https://github.com/javigp2002/LazyFood/pull/7)                  | v0.2.0  | ✓         |
-| [Enlace de danibarranqueroo](https://github.com/raultl12/TeamFinder/pull/5)            |         |           |
+| [Enlace de danibarranqueroo](https://github.com/raultl12/TeamFinder/pull/5)            |         |   ✓       |
 | <!-- Enlace de Amadocm -->                                                             |         |           |
 | [Enlace de marinajcs](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/11)  | v0.2.1  | ✓         |
 | <!-- Enlace de GiancaGrizzly -->                                                       |         |           |

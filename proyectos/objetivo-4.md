@@ -14,7 +14,7 @@
 | <!-- Enlace de GiancaGrizzly -->                                                          |         |           |
 | [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/25)                  | v4.0.1  | ✓         |
 | [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/18)                         | v0.0.2  | ✓         |
-| [carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/26)                 | v0.4.2  |  ✓        |
+| [carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/26)                 | v0.4.2  | ✓         |
 | <!-- Enlace de sergioffdez -->                                                            |         |           |
 | <!-- Enlace de DarckMonster -->                                                           |         |           |
 | <!-- Enlace de eugrdfolcha -->                                                            |         |           |
@@ -38,7 +38,7 @@
 | <!-- Enlace de Javito198 -->                                                              |         |           |
 | <!-- Enlace de Alvarosanpal -->                                                           |         |           |
 | [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/22)                    | v4.0.2  |           |
-| [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/42) | v.4.1.0 |           |
+| [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/42) | v.4.1.0 |     ✓       |
 | <!-- Enlace de raultl12 -->                                                               |         |           |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/25)          | v0.0.1  | ✓         |
 | <!-- Enlace de johnwaves -->                                                              |         |           |

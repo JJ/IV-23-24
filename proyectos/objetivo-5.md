@@ -14,7 +14,7 @@
 | <!-- Enlace de GiancaGrizzly -->                                                 |         |           |
 | [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/39)         | v.5.0.1 |    ✓      |
 | [puchy22](https://github.com/puchy22/nutri-app/pull/41)                          | v.0.0.5 |     ✓     |
-| [carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/45)        | v.0.5.2 |           |
+| [carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/45)        | v.0.5.3 |           |
 | <!-- Enlace de sergioffdez -->                                                   |         |           |
 | <!-- Enlace de DarckMonster -->                                                  |         |           |
 | <!-- Enlace de eugrdfolcha -->                                                   |         |           |

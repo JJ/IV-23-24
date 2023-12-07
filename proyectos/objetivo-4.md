@@ -16,7 +16,7 @@
 | [Enlace de puchy22](https://github.com/puchy22/nutri-app/pull/18)                         | v0.0.2  | ✓         |
 | [carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/26)                 | v0.4.2  | ✓         |
 | <!-- Enlace de sergioffdez -->                                                            |         |           |
-| [Enlace de DarckMonster](https://github.com/DarckMonster/PCscrap/pull/29)                 | v4.0.1  |           |
+| [Enlace de DarckMonster](https://github.com/DarckMonster/PCscrap/pull/29)                 | v4.0.2  |           |
 | <!-- Enlace de eugrdfolcha -->                                                            |         |           |
 | <!-- Enlace de diagmatrix -->                                                             |         |           |
 | <!-- Enlace de JaimeGM96 -->                                                              |         |           |

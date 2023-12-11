@@ -5,16 +5,16 @@
 | <!-- Enlace de sergioae19 -->                                                    |         |           |
 | [danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/44)              | v5.0.0  | ✓         |
 | [Enlace de LuciaAnsino](https://github.com/LuciaAnsino/CompraOnline/pull/26)     | v5.0.3  |           |
-| [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/49)         | v5.0.2  |  ✓        |
+| [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/49)         | v5.0.2  | ✓         |
 | <!-- Enlace de giorgiogiovanni -->                                               |         |           |
 | [PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/25)                      | v5.0.0  | ✓         |
 | <!-- Enlace de danibarranqueroo -->                                              |         |           |
 | <!-- Enlace de Amadocm -->                                                       |         |           |
 | <!-- Enlace de marinajcs -->                                                     |         |           |
 | <!-- Enlace de GiancaGrizzly -->                                                 |         |           |
-| [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/39)         | v.5.0.1 |    ✓      |
-| [puchy22](https://github.com/puchy22/nutri-app/pull/41)                          | v.0.0.5 |     ✓     |
-| [carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/45)        | v.0.5.6 |           |
+| [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/39)         | v.5.0.1 | ✓         |
+| [puchy22](https://github.com/puchy22/nutri-app/pull/41)                          | v.0.0.5 | ✓         |
+| [carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/45)        | v.0.5.6 | ✓         |
 | <!-- Enlace de sergioffdez -->                                                   |         |           |
 | <!-- Enlace de DarckMonster -->                                                  |         |           |
 | <!-- Enlace de eugrdfolcha -->                                                   |         |           |
@@ -27,7 +27,7 @@
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/35)                   | V0.5.0  | ✓         |
 | <!-- Enlace de albertolj -->                                                     |         |           |
 | [Enlace de Christianlr](https://github.com/Christianlr/MIBarberSchedule/pull/48) | v5.0.4  |           |
-| [Enlace de pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/30)    | v2.1.1  |   ✓       |
+| [Enlace de pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/30)    | v2.1.1  | ✓         |
 | <!-- Enlace de josemponce -->                                                    |         |           |
 | <!-- Enlace de smallPingu -->                                                    |         |           |
 | <!-- Enlace de chelunike -->                                                     |         |           |

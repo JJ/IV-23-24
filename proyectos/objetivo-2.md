@@ -8,7 +8,7 @@
 | [Enlace de Enaraque](https://github.com/spmanolo/calidad-aire/pull/8)                  | v0.0.1  | ✓         |
 | <!-- Enlace de giorgiogiovanni -->                                                     |         |           |
 | [Enlace de PabloBarTo](https://github.com/javigp2002/LazyFood/pull/7)                  | v0.2.0  | ✓         |
-| [Enlace de danibarranqueroo](https://github.com/raultl12/TeamFinder/pull/5)            |         |   ✓       |
+| [Enlace de danibarranqueroo](https://github.com/raultl12/TeamFinder/pull/5)            |         | ✓         |
 | <!-- Enlace de Amadocm -->                                                             |         |           |
 | [Enlace de marinajcs](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/11)  | v0.2.1  | ✓         |
 | <!-- Enlace de GiancaGrizzly -->                                                       |         |           |
@@ -30,7 +30,7 @@
 | [Enlace de pluque01](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/13) | v1.0.0  | ✓         |
 | [Enlace de josemponce](https://github.com/moshidev/MaquiTracker/pull/11)               | v0.0.2  | ✓         |
 | [Enlace de smallPingu](https://github.com/AlvaroSanPal95/AssignedOrganization/pull/10) | v0.0.1  |           |
-| [Enlace de chelunike](https://github.com/giorgiogiovanni/sh-car-analizer/pull/5)       | v0.2.0  |           |
+| [Enlace de chelunike](https://github.com/giorgiogiovanni/sh-car-analizer/pull/5)       | v0.2.0  | ✓         |
 | <!-- Enlace de M M M -->                                                               |         |           |
 | [Enlace de moshidev -> JaimeGM96](https://github.com/JaimeGM96/RutasAutobuses/pull/6)  | v0.1.3  | ✓         |
 | <!-- Enlace de R L O E -->                                                             |         |           |

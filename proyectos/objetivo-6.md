@@ -14,7 +14,7 @@
 | <!-- Enlace de GiancaGrizzly -->                                    |         |           |
 | [adelahera](https://github.com/adelahera/basket-stats/pull/45)      | v.6.0.4 |   ✓       |
 | <!-- Enlace de puchy22 -->                                          |         |           |
-| <!-- Enlace de carlotiii30 -->                                      |         |           |
+| [carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/63)                                     | v.0.6.0 |           |
 | <!-- Enlace de sergioffdez -->                                      |         |           |
 | <!-- Enlace de DarckMonster -->                                     |         |           |
 | <!-- Enlace de eugrdfolcha -->                                      |         |           |

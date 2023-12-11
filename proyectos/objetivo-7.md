@@ -3,7 +3,7 @@
 | URL                                                                 | Versión | Alcanzado |
 |---------------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de sergioae19 -->                                       |         |           |
-| [danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/80) | v7.0.4  | ✓         |
+| [danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/80) | v7.0.4  |           |
 | <!-- Enlace de LuciaAnsino -->                                      |         |           |
 | <!-- Enlace de Enaraque -->                                         |         |           |
 | <!-- Enlace de giorgiogiovanni -->                                  |         |           |
@@ -27,7 +27,7 @@
 | <!-- Enlace de Morad02 -->                                          |         |           |
 | <!-- Enlace de albertolj -->                                        |         |           |
 | <!-- Enlace de Christianlr -->                                      |         |           |
-| [pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/42) | v3.0.0  |           |
+| [pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/42) | v3.0.0  | ✓         |
 | <!-- Enlace de josemponce -->                                       |         |           |
 | <!-- Enlace de smallPingu -->                                       |         |           |
 | <!-- Enlace de chelunike -->                                        |         |           |

@@ -5,6 +5,14 @@ nota que se pueda.
 
 ## Antes de la clase
 
+De los aprobados en años anteriores...
+
+* El 100% había ya entregado el objetivo 2
+* El 90% el objetivo 3
+* El 75% el objetivo 4
+* El 50% el 5 y el 6
+* El 25% el 7
+
 
 ## Objetivos alcanzados hasta ahora
 

@@ -35,8 +35,8 @@ GitHub](http://jj.github.io/IV). Objetivos vigentes:
   estar listo para entregarse.
 * Para seguir adelante [integración
   continua](http://jj.github.io/IV/documentos/proyecto/6.CI)
-* El [objetivo 7](http://jj.github.io/IV/documentos/proyecto/7.Servicios) puede
-  ser alcanzable
+* [Objetivo 7](http://jj.github.io/IV/documentos/proyecto/7.Servicios) 
+* Algunos pueden empezar con el [objetivo 8](http://jj.github.io/IV/documentos/proyecto/8.REST)
 
 ## Otras sesiones
 

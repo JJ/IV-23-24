@@ -18,6 +18,17 @@
   habituales en ingeniería del software: código limpio, el principio
   de responsabilidad única, la baja complejidad ciclomática, y todo
   eso.
+  
+* Una buena práctica habitual es que el estado de un objeto debe ser siempre
+  correcto, y esto se aplica también a un objeto devuelto por el constructor. Si
+  no es así, y tienes que hacer pasos adicionales para establecer valores de
+  atributos, estás o bien incluyendo más responsabilidades de las debidas en un
+  objeto (porque no puedes tener toda la información disponible para
+  construirlo), o tendrás que comprobar en cada paso si el estado es correcto
+  (si los atributos han sido inicializados, por ejemplo). O las dos cosas. En
+  programación hay que buscar siempre certezas (como la inmutabilidad, o que
+  algo tenga *siempre* un valor válido) porque ahorran código adicional de
+  comprobaciones, pero también tests.
 
 * Usar "flags" para decidir si una cosa se ha encontrado o no. Los
   bucles se tienen que tratar de evitar siempre que haya alternativas,

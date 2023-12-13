@@ -21,7 +21,7 @@
 | <!-- Enlace de diagmatrix -->                                                             |         |           |
 | <!-- Enlace de JaimeGM96 -->                                                              |         |           |
 | [Enlace de javigp2002](https://github.com/javigp2002/LazyFood/pull/19)                    | v4.0.1  | ✓         |
-| <!-- Enlace de shvtwp -->                                                                 |         |           |
+| [Enlace de shvtwp](https://github.com/shvtwp/DePendiente/pull/22)                         | v4.0.1  |           |
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/TrainMe/pull/38)                 | V0.0.1  | ✓         |
 | <!-- Enlace de J P S -->                                                                  |         |           |
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/22)                            | V0.0.1  | ✓         |

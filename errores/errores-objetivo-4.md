@@ -18,7 +18,7 @@
   habituales en ingeniería del software: código limpio, el principio
   de responsabilidad única, la baja complejidad ciclomática, y todo
   eso.
-  
+
 * Una buena práctica habitual es que el estado de un objeto debe ser siempre
   correcto, y esto se aplica también a un objeto devuelto por el constructor. Si
   no es así, y tienes que hacer pasos adicionales para establecer valores de
@@ -48,9 +48,15 @@
   hacer algo que se podría hacer mucho mejor con un `struct` o un
   objeto.
 
-* Igual que en el objetivo 2, sólo hay que declarar los getters que sean
+* Igual que en el objetivo 2, sólo hay que declarar los *getters* que sean
   estrictamente necesarios para la lógica de negocio, que se usen fuera de la
   clase, por ejemplo.
+
+* Hay que tratar de consultar cuál es la buena práctica *actual* para las
+  estructuras de un lenguaje, en todos los sentidos. Por ejemplo:
+  * Cómo declarar las variables de instancia en TypeScript
+  * Qué tipo de convención usar cuando se trata de variables privadas de clase.
+  * Cómo declarar los getters y setters en JS/TS.
 
 ## Sobre la lógica de negocio
 

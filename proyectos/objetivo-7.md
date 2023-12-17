@@ -24,7 +24,7 @@
 | <!-- Enlace de shvtwp -->                                           |         |           |
 | <!-- Enlace de MarioGuisado -->                                     |         |           |
 | <!-- Enlace de J P S -->                                            |         |           |
-| <!-- Enlace de Morad02 -->                                          |         |           |
+| [Morad02](https://github.com/Morad02/F1Data/pull/62)                | v0.7.0  |           |
 | <!-- Enlace de albertolj -->                                        |         |           |
 | <!-- Enlace de Christianlr -->                                      |         |           |
 | [pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/42) | v3.0.0  | ✓         |

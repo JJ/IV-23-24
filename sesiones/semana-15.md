@@ -8,10 +8,11 @@ presentación en enero.
 
 De los aprobados en años anteriores...
 
-* El 90% el objetivo 3
+* El 100% el objetivo 3
 * El 75% el objetivo 4
 * El 50% el 5 y el 6
-* El 25% el 7
+* El 75% el 7
+* El 50% el 8
 
 
 ## Objetivos alcanzados hasta ahora
@@ -37,11 +38,11 @@ Todo [el material de la asignatura está en
 GitHub](http://jj.github.io/IV). Objetivos vigentes:
 
 * [El objetivo 5 sobre imágenes de
-  contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker) tendría que
-  estar listo para entregarse.
+  contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker) debería
+  haberse entregado ya.
 * Para seguir adelante [integración
   continua](http://jj.github.io/IV/documentos/proyecto/6.CI)
-* [Objetivo 7](http://jj.github.io/IV/documentos/proyecto/7.Servicios) 
+* [Objetivo 7](http://jj.github.io/IV/documentos/proyecto/7.Servicios)
 * Algunos pueden empezar con el [objetivo 8](http://jj.github.io/IV/documentos/proyecto/8.REST)
 
 ## Otras sesiones

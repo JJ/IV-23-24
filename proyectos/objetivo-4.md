@@ -19,7 +19,7 @@
 | [Enlace de DarckMonster](https://github.com/DarckMonster/PCscrap/pull/29)                 | v4.0.2  |           |
 | <!-- Enlace de eugrdfolcha -->                                                            |         |           |
 | <!-- Enlace de diagmatrix -->                                                             |         |           |
-| <!-- Enlace de JaimeGM96 -->                                                              |         |           |
+| [Enlace de JaimeGM96](https://github.com/JaimeGM96/RutasAutobuses/pull/23)                | v.0.4.0 |           |
 | [Enlace de javigp2002](https://github.com/javigp2002/LazyFood/pull/19)                    | v4.0.1  | ✓         |
 | [Enlace de shvtwp](https://github.com/shvtwp/DePendiente/pull/22)                         | v4.0.3  | ✓         |
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/TrainMe/pull/38)                 | V0.0.1  | ✓         |

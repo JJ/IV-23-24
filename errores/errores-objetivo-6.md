@@ -10,3 +10,10 @@
   que usen para nominarlas. *Nunca* hay que usar una versión fija con las tres
   cifras; siempre usar etiquetas del *step* o del sistema *ci* que designen
   versiones de al menos dos de los tres tipos.
+
+* Repetir código para probar diferentes valores de una variable; por ejemplo,
+  diferentes versiones. Para hacer eso existe una funcionalidad que se suele
+  llamar
+  [*matrix*](https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs)
+  y que permite definir diferentes varloes de una variable, para los cuales se
+  ejecutará el flujo de trabajo, posiblemente en paralelo.

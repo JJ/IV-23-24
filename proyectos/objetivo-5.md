@@ -10,7 +10,7 @@
 | [PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/25)                               | v5.0.0  | ✓         |
 | <!-- Enlace de danibarranqueroo -->                                                       |         |           |
 | <!-- Enlace de Amadocm -->                                                                |         |           |
-| [Enlace marinajcs](https://github.com/marinajcs/asignacionTareas/pull/33)                 | v5.0.4  |  ✓          |
+| [Enlace marinajcs](https://github.com/marinajcs/asignacionTareas/pull/33)                 | v5.0.4  | ✓         |
 | <!-- Enlace de GiancaGrizzly -->                                                          |         |           |
 | [Enlace de adelahera](https://github.com/adelahera/basket-stats/pull/39)                  | v.5.0.1 | ✓         |
 | [puchy22](https://github.com/puchy22/nutri-app/pull/41)                                   | v.0.0.5 | ✓         |
@@ -37,7 +37,7 @@
 | [Enlace de migueruiz](https://github.com/migueruiz/Automatricula/pull/41)                 | v5.0.2  | ✓         |
 | <!-- Enlace de Javito198 -->                                                              |         |           |
 | <!-- Enlace de Alvarosanpal95 -->                                                         |         |           |
-| [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/36)                    | v5.0.5  |           |
+| [Enlace de spmanolo](https://github.com/spmanolo/calidad-aire/pull/36)                    | v5.0.5  | ✓         |
 | [Enlace de carlosservi](https://github.com/carlosservi/asistente_ruta_camioneros/pull/53) | v5.0.2  | ✓         |
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/75)                      | v5.0.0  |           |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/33)          | v5.0.7  | ✓         |

@@ -14,7 +14,7 @@
 | <!-- Enlace de GiancaGrizzly --> | | |
 | <!-- Enlace de adelahera --> | | |
 | <!-- Enlace de puchy22 --> | | |
-| <!-- Enlace de carlotiii30 --> | | |
+| [carlotiii30](https://github.com/carlotiii30/organizacionSemanal/pull/99) | v0.9.0 | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de eugrdfolcha --> | | |

@@ -30,7 +30,7 @@
 | [Enlace de pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/20)             | v1.1.2  | ✓         |
 | [Enlace de josemponce](https://github.com/josemponce/RutaMusical/pull/22)                 | v0.0.1  | ✓         |
 | <!-- Enlace de smallPingu -->                                                             |         |           |
-| [Enlace de chelunike](https://github.com/chelunike/didactic-chainsaw/pull/16)             | v0.3.3  |           |
+| [Enlace de chelunike](https://github.com/chelunike/didactic-chainsaw/pull/16)             | v0.3.3  | ✓         |
 | <!-- Enlace de M M M -->                                                                  |         |           |
 | [Enlace de moshidev](https://github.com/moshidev/MaquiTracker.jl/pull/37)                 | v0.1.2  | ✓         |
 | <!-- Enlace de R L O E -->                                                                |         |           |

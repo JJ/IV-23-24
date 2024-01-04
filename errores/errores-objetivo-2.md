@@ -70,7 +70,12 @@ ese objeto para resolver el problema y no otro.
 * En general, si una clase o `struct` tiene un solo atributo, debes plantearte
   si realmente es necesario o no. El crear issues de "crear clase X" a veces
   tiene esta consecuencia, que se crea sea o no necesaria.
-  
+
 * En lenguajes como TypeScript, se tiene que exportar explícitamente todas las
   clases y estructuras que se vayan a usar desde fuera. Esto debería "saltar" a
   la hora de comprobar la sintaxis, pero no siempre se hace.
+
+* Se debe hacer un esfuerzo por buscar el tipo más adecuado a cada una de las
+  variables. Una fecha no puede ser nunca un string, sino el tipo de datos que
+  se defina en el lenguaje para ella. Un día de la semana tampoco, porque sólo
+  puede tomar 7 valores. Y así sucesivamente.

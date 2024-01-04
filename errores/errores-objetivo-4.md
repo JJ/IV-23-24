@@ -19,6 +19,17 @@
   de responsabilidad única, la baja complejidad ciclomática, y todo
   eso.
 
+* Una buena práctica habitual es que el estado de un objeto debe ser siempre
+  correcto, y esto se aplica también a un objeto devuelto por el constructor. Si
+  no es así, y tienes que hacer pasos adicionales para establecer valores de
+  atributos, estás o bien incluyendo más responsabilidades de las debidas en un
+  objeto (porque no puedes tener toda la información disponible para
+  construirlo), o tendrás que comprobar en cada paso si el estado es correcto
+  (si los atributos han sido inicializados, por ejemplo). O las dos cosas. En
+  programación hay que buscar siempre certezas (como la inmutabilidad, o que
+  algo tenga *siempre* un valor válido) porque ahorran código adicional de
+  comprobaciones, pero también tests.
+
 * Usar "flags" para decidir si una cosa se ha encontrado o no. Los
   bucles se tienen que tratar de evitar siempre que haya alternativas,
   y la forma correcta de encontrar algo es filtrar un array que
@@ -37,9 +48,15 @@
   hacer algo que se podría hacer mucho mejor con un `struct` o un
   objeto.
 
-* Igual que en el objetivo 2, sólo hay que declarar los getters que sean
+* Igual que en el objetivo 2, sólo hay que declarar los *getters* que sean
   estrictamente necesarios para la lógica de negocio, que se usen fuera de la
   clase, por ejemplo.
+
+* Hay que tratar de consultar cuál es la buena práctica *actual* para las
+  estructuras de un lenguaje, en todos los sentidos. Por ejemplo:
+  * Cómo declarar las variables de instancia en TypeScript
+  * Qué tipo de convención usar cuando se trata de variables privadas de clase.
+  * Cómo declarar los getters y setters en JS/TS.
 
 ## Sobre la lógica de negocio
 

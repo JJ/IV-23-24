@@ -21,7 +21,7 @@
 | <!-- Enlace de diagmatrix -->                                                             |         |           |
 | [Enlace de JaimeGM96](https://github.com/JaimeGM96/RutasAutobuses/pull/20)                | v0.3.1  | ✓         |
 | [Enlace de Javigp2002](https://github.com/javigp2002/LazyFood/pull/18)                    | v0.0.1  | ✓         |
-| [Enlace de shvtwp](https://github.com/shvtwp/DePendiente/pull/20)                         | v0.0.3  |   ✓       |
+| [Enlace de shvtwp](https://github.com/shvtwp/DePendiente/pull/20)                         | v0.0.3  | ✓         |
 | [Enlace de MarioGuisado](https://github.com/MarioGuisado/TrainMe/pull/34)                 | v0.0.1  | ✓         |
 | <!-- Enlace de J P S -->                                                                  |         |           |
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/15)                            | V0.0.1  | ✓         |
@@ -30,9 +30,9 @@
 | [Enlace de pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/20)             | v1.1.2  | ✓         |
 | [Enlace de josemponce](https://github.com/josemponce/RutaMusical/pull/22)                 | v0.0.1  | ✓         |
 | <!-- Enlace de smallPingu -->                                                             |         |           |
-| <!-- Enlace de chelunike -->                                                              |         |           |
+| [Enlace de chelunike](https://github.com/chelunike/didactic-chainsaw/pull/16)             | v0.3.3  | ✓         |
 | <!-- Enlace de M M M -->                                                                  |         |           |
-| [Enlace de moshidev](https://github.com/moshidev/MaquiTracker.jl/pull/37)                 | v0.1.2  |           |
+| [Enlace de moshidev](https://github.com/moshidev/MaquiTracker.jl/pull/37)                 | v0.1.2  | ✓         |
 | <!-- Enlace de R L O E -->                                                                |         |           |
 | [Enlace de migueruiz](https://github.com/migueruiz/Automatricula/pull/32)                 | v3.0.3  | ✓         |
 | <!-- Enlace de Javito198 -->                                                              |         |           |
@@ -41,4 +41,5 @@
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/23) | v3.2    | ✓         |
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/21)                      | v0.0.1  | ✓         |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/20)          | v0.0.1  | ✓         |
-| [Enlace de johnwaves](https://github.com/johnwaves/recambios-express/pull/42)             | v0.0.1  |           |
+| [Enlace de johnwaves](https://github.com/johnwaves/recambios-express/pull/42)             | v0.0.1  | ✓         |
+

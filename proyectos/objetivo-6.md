@@ -5,7 +5,7 @@
 | <!-- Enlace de sergioae19 -->                                                             |         |           |
 | [danieeeld2](https://github.com/danieeeld2/LogisticsRoutes/pull/63)                       | v6.0.3  | ✓         |
 | [Enlace de LuciaAnsino](https://github.com/LuciaAnsino/CompraOnline/pull/33)              | v6.0.5  |           |
-| <!-- Enlace de Enaraque -->                                                               |         |           |
+| [Enlace de Enaraque](https://github.com/Enaraque/bus_stadistics/pull/59)                  | v6.0.1  | ✓         |
 | <!-- Enlace de giorgiogiovanni -->                                                        |         |           |
 | [PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/31)                               | v6.0.0  | ✓         |
 | <!-- Enlace de danibarranqueroo -->                                                       |         |           |
@@ -26,7 +26,7 @@
 | <!-- Enlace de J P S -->                                                                  |         |           |
 | [Enlace de Morad02](https://github.com/Morad02/F1Data/pull/49)                            | v0.6.0  | ✓         |
 | <!-- Enlace de albertolj -->                                                              |         |           |
-| <!-- Enlace de Christianlr -->                                                            |         |           |
+| [Enlace de Christianlr](https://github.com/Christianlr/MIBarberSchedule/pull/61)          | v6.0.1  | ✓         |
 | [pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/33)                       | v2.2.2  | ✓         |
 | <!-- Enlace de josemponce -->                                                             |         |           |
 | <!-- Enlace de smallPingu -->                                                             |         |           |

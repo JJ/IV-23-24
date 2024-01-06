@@ -15,3 +15,7 @@
   puede ser desde 400 Bad Request (que indica que algo va mal, pero no se sabe
   específicamente qué) o 422 Unprocessable content o, en general, algo que sea
   más apropiado para la excepción que se haya podido generar.
+
+* Las rutas programadas tienen que capturar todos los errores que se produzcan,
+  y devolver un código de status adecuado al cliente. Si no se captura un error
+  a este nivel, el programa se detendrá.

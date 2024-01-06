@@ -54,7 +54,7 @@ jobs:
         env:
           CONTAINER: ${{ env.docker_user }}/${{ env.repo }}
           ORDEN: ${{env.ORDEN}}
-        run: docker run -t -v `pwd`:/app/test --entrypoint="" ${CONTAINER,,} sh -c "${ORDEN} build && ${ORDEN} install && ${ORDEN} test"
+        run: docker run -t -v `pwd`:/app/test --entrypoint="" ${CONTAINER,,} sh -c "${ORDEN} build && ${ORDEN} test"
   ops-using-API:
     runs-on: ubuntu-latest
     needs: ops-on-pr

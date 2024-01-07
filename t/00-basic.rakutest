@@ -6,9 +6,12 @@ use IV::Stats;
 my $stats = IV::Stats.new;
 
 ok( $stats, "Can create object");
-my $estudiante = $stats.estudiantes()[0];
+my @objetivos-cumplidos = $stats.objetivos-cumplidos();
+my @max-estudiantes = @objetivos-cumplidos.max;
+my $max-objetivo = @objetivos-cumplidos.elems - 1;
+my $estudiante = @max-estudiantes[0][0];
+
 my $objetivos = $stats.objetivos-de( $estudiante );
-my $max-objetivo = $objetivos.keys().max;
 cmp-ok( $stats.objetivos-de($estudiante).elems,
         ">=",
         $max-objetivo, "Objetivos hechos");
@@ -23,6 +26,9 @@ ok( $stats.bajas-totales(0), "Devuelve bajas totales");
 cmp-ok( $stats.objetivos.elems, ">=", 0, "Objetivos hasta ahora" );
 cmp-ok( $stats.estudiantes.elems, ">=", 10, "Estudiantes suficientes");
 
-
+my %percentiles = $stats.percentiles();
+for %percentiles.values -> $v {
+    cmp-ok( $v, ">", 0, "$v es mayor que 0")
+}
 
 done-testing;

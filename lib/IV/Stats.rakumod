@@ -97,6 +97,17 @@ method objetivos-cumplidos() {
     return @!objetivos.map( *.keys.sort( { $^a.lc cmp $^b.lc }) );
 }
 
+method percentiles() {
+    my %percentile-of;
+    for @!objetivos -> $objetivo {
+        my $percentile = $objetivo.elems()/%!students.keys.elems();
+        for $objetivo.keys -> $student {
+            %percentile-of{$student} = $percentile;
+        }
+    }
+    return %percentile-of;
+}
+
 method notas( --> Seq ) {
     return gather for @!student-list -> $u {
         my $nota = 0;

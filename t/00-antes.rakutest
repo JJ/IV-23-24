@@ -1,0 +1,22 @@
+#!/usr/bin/env raku
+
+use Test;
+use IV::Stats;
+use IV::Stats::Fechas;
+
+my @student-list = lista-estudiantes();
+my $contenido = "proyectos/objetivo-0.md".IO.slurp;
+constant OBJETIVO = 0;
+my %objetivos-cumplidos = estado-objetivos( @student-list, $contenido,
+        OBJETIVO );
+cmp-ok( %objetivos-cumplidos.keys.elems, ">", 0, "Objetivos cumplidos
+correctos" );
+
+if "proyectos/objetivo-9.md".IO.e {
+    $contenido = "proyectos/objetivo-9.md".IO.slurp;
+    %objetivos-cumplidos = estado-objetivos(@student-list, $contenido, 9);
+    cmp-ok(%objetivos-cumplidos.keys.elems, ">", 0,
+            "Número de personas en objetivo 9 correcto.");
+}
+
+done-testing;

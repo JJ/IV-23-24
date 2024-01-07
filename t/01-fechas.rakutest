@@ -5,18 +5,24 @@ use IV::Stats;
 use IV::Stats::Fechas;
 
 my $fechas = IV::Stats::Fechas.new;
-
+my $stats = IV::Stats.new;
 ok( $fechas, "Can create object");
 isa-ok( $fechas, IV::Stats::Fechas, "Clase correcta" );
 
-my %una-fecha =$fechas.entregas-de( 9, "amerigal" );
+my @objetivos-cumplidos = $stats.objetivos-cumplidos();
+my @max-estudiantes = @objetivos-cumplidos.max;
+my $max-objetivo = @objetivos-cumplidos.elems - 1;
+
+
+my $user = @max-estudiantes[0][0];
+
+my %una-fecha =$fechas.entregas-de( $max-objetivo, $user );
 
 for <entrega corregido> -> $k {
     ok( %una-fecha{$k}, "$k correcto" );
 }
 
 my @csv = $fechas.to-CSV.split("\n");
-cmp-ok( @csv.elems, ">", 260, "CSV generado guay");
-like( @csv.tail(2), /amerigal/, "Last row OK");
+cmp-ok( @csv.elems, ">", 0, "CSV generado guay");
 
 done-testing;

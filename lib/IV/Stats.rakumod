@@ -17,7 +17,7 @@ has %!students;
 has @!objetivos;
 has @!entregas;
 
-my @cumplimiento=[.05,.075, .15, .075, .15, 0.05, 0.05, 0.1, 0.1, 0.1, 0.1 ];
+my @cumplimiento=[.05,.075, .15, .075, .15, 0.075, 0.075, 0.1, 0.125, 0.125 ];
 
 sub asignaciones-objetivo2()  is export returns Associative {
     my @asignaciones = "{PROYECTOS}asignaciones-objetivo-2.md".IO.lines[4 ..*];
@@ -110,11 +110,18 @@ method percentiles() {
 
 method notas( --> Seq ) {
     return gather for @!student-list -> $u {
-        my $nota = 0;
-        for  %!students{$u}<objetivos>.list.keys -> $n {
-            $nota += @cumplimiento[$n]
-        }
-        take $nota*7;
+        take self.nota-de($u)*7;
     }
 }
 
+method nota-de( Str $student ) {
+    my $nota = 0;
+    say $student;
+    say sum(@cumplimiento);
+    say  %!students{$student}<objetivos>;
+    for  %!students{$student}<objetivos>.list.keys -> $n {
+        $nota += @cumplimiento[$n];
+        say "$n, $nota";
+    }
+    return $nota
+}

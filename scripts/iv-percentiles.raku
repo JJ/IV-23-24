@@ -1,7 +1,18 @@
-#!/usr/bin/env perl6
+#!/usr/bin/env raku
 
 use IV::Stats;
 use JSON::Fast;
 
-say to-json IV::Stats.new.percentiles;
+my $stats = IV::Stats.new;
+my %percentiles = $stats.percentiles();
+
+my %unwrapped;
+
+for %percentiles.keys() -> $student {
+    %unwrapped{$student} = { percentil => %percentiles{$student}};
+    my $objetivos-of = $stats.objetivos-de($student);
+    %unwrapped{$student}<objetivos> = $objetivos-of.keys.max();
+}
+
+say %unwrapped;
 

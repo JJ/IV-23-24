@@ -116,12 +116,8 @@ method notas( --> Seq ) {
 
 method nota-de( Str $student ) {
     my $nota = 0;
-    say $student;
-    say sum(@cumplimiento);
-    say  %!students{$student}<objetivos>;
     for  %!students{$student}<objetivos>.list.keys -> $n {
         $nota += @cumplimiento[$n];
-        say "$n, $nota";
     }
     return $nota
 }

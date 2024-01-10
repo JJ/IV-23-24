@@ -10,7 +10,7 @@
 | [PabloBarTo](https://github.com/PabloBarTo/Empresa/pull/31)                               | v6.0.0  | ✓         |
 | <!-- Enlace de danibarranqueroo -->                                                       |         |           |
 | <!-- Enlace de Amadocm -->                                                                |         |           |
-| <!-- Enlace de marinajcs -->                                                              |         |           |
+| [Enlace marinajcs](https://github.com/marinajcs/asignacionTareas/pull/38)                 | v6.0.2  |           |
 | <!-- Enlace de GiancaGrizzly -->                                                          |         |           |
 | [adelahera](https://github.com/adelahera/basket-stats/pull/45)                            | v.6.0.4 | ✓         |
 | [puchy22](https://github.com/puchy22/nutri-app/pull/56)                                   | v.0.6.0 | ✓         |

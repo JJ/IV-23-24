@@ -27,7 +27,7 @@
 | [Morad02](https://github.com/Morad02/F1Data/pull/79)                      | v0.9.0  |           |
 | <!-- Enlace de albertolj -->                                              |         |           |
 | <!-- Enlace de Christianlr -->                                            |         |           |
-| [pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/49)       | v5.0.0  |           |
+| [pluque01](https://github.com/pluque01/CofreSagradoVirtual/pull/49)       | v5.1.0  |           |
 | <!-- Enlace de josemponce -->                                             |         |           |
 | <!-- Enlace de smallPingu -->                                             |         |           |
 | <!-- Enlace de chelunike -->                                              |         |           |

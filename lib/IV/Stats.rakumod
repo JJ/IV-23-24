@@ -90,7 +90,7 @@ method objetivos() {
 }
 
 method estudiantes() {
-    return %!students.keys;
+    return @!student-list;
 }
 
 method objetivos-cumplidos() {

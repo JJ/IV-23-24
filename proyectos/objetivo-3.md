@@ -18,7 +18,7 @@
 | <!-- Enlace de sergioffdez -->                                                            |         |           |
 | [Enlace de DarckMonster](https://github.com/DarckMonster/PCscrap/pull/27)                 | v3.0.0  | ✓         |
 | <!-- Enlace de eugrdfolcha -->                                                            |         |           |
-| <!-- Enlace de diagmatrix -->                                                             |         |           |
+| [Enlace de diagmatrix](https://github.com/diagmatrix/maybe-better-maybe-worse/pull/18)    | v0.0.3  |           |
 | [Enlace de JaimeGM96](https://github.com/JaimeGM96/RutasAutobuses/pull/20)                | v0.3.1  | ✓         |
 | [Enlace de Javigp2002](https://github.com/javigp2002/LazyFood/pull/18)                    | v0.0.1  | ✓         |
 | [Enlace de shvtwp](https://github.com/shvtwp/DePendiente/pull/20)                         | v0.0.3  | ✓         |

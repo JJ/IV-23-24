@@ -41,4 +41,4 @@
 | [Enlace de carlosservi](https://github.com/carlosservi/Asistente_Ruta_Camioneros/pull/42) | v.4.1.0 | ✓         |
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/36)                      | v0.0.2  | ✓         |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/25)          | v0.0.1  | ✓         |
-| [Enlace de johnwaves](https://github.com/johnwaves/recambios-express/pull/47)             | v0.0.1  |           |
+| [Enlace de johnwaves](https://github.com/johnwaves/recambios-express/pull/47)             | v0.0.1  | ✓         |

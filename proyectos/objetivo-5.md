@@ -34,7 +34,6 @@
 | <!-- Enlace de M M M -->                                                                  |         |           |
 | <!-- Enlace de moshidev -->                                                               |         |           |
 | <!-- Enlace de R L O E -->                                                                |         |           |
-| [Enlace de johnwaves](https://github.com/johnwaves/recambios-express/pull/54)             | v0.0.1  |           |
 | [Enlace de migueruiz](https://github.com/migueruiz/Automatricula/pull/41)                 | v5.0.2  | ✓         |
 | <!-- Enlace de Javito198 -->                                                              |         |           |
 | <!-- Enlace de Alvarosanpal95 -->                                                         |         |           |
@@ -42,4 +41,5 @@
 | [Enlace de carlosservi](https://github.com/carlosservi/asistente_ruta_camioneros/pull/53) | v5.0.2  | ✓         |
 | [Enlace de raultl12](https://github.com/raultl12/TeamFinder/pull/75)                      | v5.0.0  | ✓         |
 | [Enlace de manuelvico0102](https://github.com/manuelvico0102/easySelect/pull/33)          | v5.0.7  | ✓         |
-| <!-- Enlace de johnwaves -->                                                              |         |           |
+| [Enlace de johnwaves](https://github.com/johnwaves/recambios-express/pull/54)             | v0.0.1  | ✓         |
+
